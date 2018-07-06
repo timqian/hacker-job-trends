@@ -225,7 +225,7 @@ hjt ' js ' + 'javascript'
 hjt 'remote' - 'no remote' - 'not remote'
 ```
 
-## Contributes
+## Contributing
 
 ### 1. Add new useful trend graph
 
