@@ -70,13 +70,21 @@ for (let i = 1; i < matcherArrWithCounts.length; i++) {
     }
 }
 
-console.log(asciichart.plot(reslutCountArr, { height: 15, padding: ' '.repeat(7) }));
-console.log(' '.repeat(8) + ':');
-console.log(' '.repeat(8) + '┼' + '┼──────────┼'.repeat(8) + '┼──');
-console.log(' '.repeat(7) + '2011-01'
-    + ' '.repeat(5) + '2012-01' + ' '.repeat(5) + '2013-01'
-    + ' '.repeat(5) + '2014-01' + ' '.repeat(5) + '2015-01'
-    + ' '.repeat(5) + '2016-01' + ' '.repeat(5) + '2017-01'
-    + ' '.repeat(5) + '2018-01' + ' '.repeat(5) + '2019-01');
+try {
+  console.log(asciichart.plot(reslutCountArr, { height: 15, padding: ' '.repeat(7) }));
+  console.log(' '.repeat(8) + ':');
+  console.log(' '.repeat(8) + '┼' + '┼──────────┼'.repeat(8) + '┼──');
+  console.log(' '.repeat(7) + '2011-01'
+      + ' '.repeat(5) + '2012-01' + ' '.repeat(5) + '2013-01'
+      + ' '.repeat(5) + '2014-01' + ' '.repeat(5) + '2015-01'
+      + ' '.repeat(5) + '2016-01' + ' '.repeat(5) + '2017-01'
+      + ' '.repeat(5) + '2018-01' + ' '.repeat(5) + '2019-01');
+} catch (e) {
+  if (e instanceof RangeError) {
+    console.log('No results');
+  } else {
+    console.error(e);
+  }
+}
 
 console.log('\nKeywords:', ...matcherArr.map(matcher => `${matcher.opration} ${matcher.keyword}`));
