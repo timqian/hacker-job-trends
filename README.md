@@ -212,7 +212,7 @@ $ hjt golang
 ## npm package
 
 ```bash
-# install package
+# install package (node version > 10.0.0)
 npm install -g hacker-job-trends
 
 # see match count history on hackernews who is hiring post
