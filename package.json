@@ -1,0 +1,26 @@
+{
+  "name": "hacker-job-trends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchHTMLs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timqian/hacker-job-trends.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timqian/hacker-job-trends/issues"
+  },
+  "homepage": "https://github.com/timqian/hacker-job-trends#readme",
+  "dependencies": {
+    "asciichart": "^1.5.7",
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.2",
+    "jsdom": "^11.11.0"
+  }
+}
