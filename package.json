@@ -1,9 +1,15 @@
 {
   "name": "hacker-job-trends",
+  "bin": {
+    "hjt": "src/index.js"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "fetchHTMLs.js",
   "scripts": {
+    "getHtml": "node src/fetchNewlyAddedHTMLs.js",
+    "getRowContentFromHtml": "node src/getRowContentFromHTML.js",
+    "updateContents": "npm run getHtml && npm run getRowContentFromHtml",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +26,7 @@
   "dependencies": {
     "asciichart": "^1.5.7",
     "axios": "^0.18.0",
-    "chart.js": "^2.7.2",
+    "commander": "^2.16.0",
     "jsdom": "^11.11.0"
   }
 }

@@ -3,8 +3,8 @@ const path = require('path');
 const axios = require('axios');
 
 async function fetchNewlyAddedHTMLs() {
-    const htmlFolder = path.join(__dirname, './assets/htmls');
-    const str = fs.readFileSync('./HN-who-is-hiring-monthly.md', 'utf-8');
+    const htmlFolder = path.join(__dirname, '../assets/htmls');
+    const str = fs.readFileSync(path.join(__dirname, '../HN-who-is-hiring-monthly.md'), 'utf-8');
     const linkArr = str.split('\n').map(datedLink => ({
         month: datedLink.split(': ')[0].slice(2),
         link: datedLink.split(': ')[1],

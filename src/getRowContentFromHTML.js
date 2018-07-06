@@ -3,8 +3,8 @@ const path = require('path');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-const htmlFolder = path.join(__dirname, './assets/htmls');
-const contentFolder = path.join(__dirname, './assets/rowContents');
+const htmlFolder = path.join(__dirname, '../assets/htmls');
+const contentFolder = path.join(__dirname, '../assets/rowContents');
 
 
 const htmlPaths = fs.readdirSync(htmlFolder)
