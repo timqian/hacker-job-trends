@@ -1,7 +1,7 @@
 > npm install -g hacker-job-trends
 > 
 ## hacker-job-trends
-As we know, an "Ask HN: Who is Hiring?"([example](https://news.ycombinator.com/item?id=17442187)) post will occur at hackernews every month. It is interesting to scan the post because it helps you to get a feeling about what is happening in tec related busness. Aim of this repo is to give you a feeling about how the tec job requirements/used tools/kind/... evolves.
+As we know, an "Ask HN: Who is Hiring?"([example](https://news.ycombinator.com/item?id=17442187)) post will occur at hackernews every month. It is interesting to scan the post because it helps you to get a feeling about what is happening in tech related business. Aim of this repo is to give you a feeling about how the tech job requirements/used tools/kind/... evolves.
 
 ## How
 1. Get historical "Who is hiring" posts on HackerNews
