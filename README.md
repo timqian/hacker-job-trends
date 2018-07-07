@@ -246,7 +246,7 @@ By install the npm module and generate new interesting chart and open a PR for t
 2.  Add new "who is hiring" post url on [HN-who-is-hiring-monthly.md](./HN-who-is-hiring-monthly.md)
 3.  `npm run updateContents` and make a PR
 
-## Best search patten for searching monthly "who is hiring" on hackernews
+## Best search pattern for searching monthly "who is hiring" on hackernews
 
 ```bash
 # Google:
