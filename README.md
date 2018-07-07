@@ -1,15 +1,18 @@
 > npm install -g hacker-job-trends
-> 
+
 ## hacker-job-trends
-As we know, an "Ask HN: Who is Hiring?"([example](https://news.ycombinator.com/item?id=17442187)) post will occur at hackernews every month. It is interesting to scan the post because it helps you to get a feeling about what is happening in tech related business. Aim of this repo is to give you a feeling about how the tech job requirements/used tools/kind/... evolves.
+
+As we know, an "Ask HN: Who is Hiring?"([example](https://news.ycombinator.com/item?id=17442187)) post will occur at hackernews every month. It is interesting to scan the post because it helps you to get a feeling about what is happening in tec related business. Aim of this repo is to give you a feeling about how the tec job requirements/used tools/kind/... evolves.f
 
 ## How
-1. Get historical "Who is hiring" posts on HackerNews
-2. Analyes the keyword count history
+
+1.  Get historical "Who is hiring" posts on HackerNews
+2.  Analyes the keyword count history
 
 ## Examples
 
 #### remote job trends:
+
 ```bash
 $ hjt 'remote' - 'not remote' - 'no remote'
 
@@ -59,7 +62,9 @@ $ hjt 'blockchain'
         ┼┼──────────┼┼──────────┼┼──────────┼┼──────────┼┼──────────┼┼──────────┼┼──────────┼┼──────────┼┼──
       2011-01     2012-01     2013-01     2014-01     2015-01     2016-01     2017-01     2018-01     2019-01
 ```
+
 #### java trends:
+
 ```bash
 $ hjt 'java' - 'javascript'
 
@@ -85,6 +90,7 @@ $ hjt 'java' - 'javascript'
 ```
 
 #### javascript trends:
+
 ```bash
 $ hjt 'javascript' + ' js '
 
@@ -136,6 +142,7 @@ $ hjt 'nodejs' + 'node.js'
 ```
 
 #### react trends
+
 ```bash
 $ hjt react
 
@@ -161,6 +168,7 @@ $ hjt react
 ```
 
 #### python trends
+
 ```bash
 $ hjt python
 
@@ -186,6 +194,7 @@ $ hjt python
 ```
 
 #### golang trends
+
 ```bash
 $ hjt golang
   11.00 ┼                                                                ╭╮╭╮
@@ -221,7 +230,7 @@ hjt 'python'
 # match multiple keyword and a count them together
 hjt ' js ' + 'javascript'
 
-# match multiple keywords but you want to do a subtraction opration
+# match multiple keywords but you want to do a subtraction operation
 hjt 'remote' - 'no remote' - 'not remote'
 ```
 
@@ -233,14 +242,13 @@ By install the npm module and generate new interesting chart and open a PR for t
 
 ### 2. Add new who is hiring link
 
-1. Fork the repo and `npm install`
-2. Add new "who is hiring" post url on [HN-who-is-hiring-monthly.md](./HN-who-is-hiring-monthly.md)
-3. `npm run updateContents` and make a PR
+1.  Fork the repo and `npm install`
+2.  Add new "who is hiring" post url on [HN-who-is-hiring-monthly.md](./HN-who-is-hiring-monthly.md)
+3.  `npm run updateContents` and make a PR
 
+## Best search pattern for searching monthly "who is hiring" on hackernews
 
-## Best search patten for searching monthly "who is hiring" on hackernews
 ```bash
 # Google:
 Ask HN: Who is Hiring? "November 2011" site:https://news.ycombinator.com/
 ```
-
