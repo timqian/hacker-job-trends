@@ -2,7 +2,7 @@
 
 ## hacker-job-trends
 
-As we know, an "Ask HN: Who is Hiring?"([example](https://news.ycombinator.com/item?id=17442187)) post will occur at hackernews every month. It is interesting to scan the post because it helps you to get a feeling about what is happening in tec related business. Aim of this repo is to give you a feeling about how the tec job requirements/used tools/kind/... evolves.
+As we know, an "Ask HN: Who is Hiring?"([example](https://news.ycombinator.com/item?id=17442187)) post will occur at hackernews every month. It is interesting to scan the post because it helps you to get a feeling about what is happening in tec related business. Aim of this repo is to give you a feeling about how the tec job requirements/used tools/kind/... evolves.f
 
 ## How
 
@@ -234,7 +234,7 @@ hjt ' js ' + 'javascript'
 hjt 'remote' - 'no remote' - 'not remote'
 ```
 
-## Contributes
+## Contributing
 
 ### 1. Add new useful trend graph
 
