@@ -2,7 +2,7 @@
 
 ## hacker-job-trends
 
-As we know, an "Ask HN: Who is Hiring?"([example](https://news.ycombinator.com/item?id=17442187)) post will occur at hackernews every month. It is interesting to scan the post because it helps you to get a feeling about what is happening in tec related business. This repo aims to help you keep up with how the tec job requirements/used tools/kind/... evolve.f
+As we know, an "Ask HN: Who is Hiring?"([example](https://news.ycombinator.com/item?id=17442187)) post will occur at hackernews every month. It is interesting to scan the post because it helps you to get a feeling about what is happening in tec related business. This repo aims to help you keep up with how the tec job requirements/used tools/kind/... evolve.
 
 ## How
 
