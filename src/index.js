@@ -3,6 +3,7 @@ const asciichart = require('asciichart');
 const fs = require('fs');
 const path = require('path');
 const program = require('commander');
+const escapeStringRegexp = require('escape-string-regexp');
 
 program.parse(process.argv);
 
@@ -10,7 +11,7 @@ const args = program.args;
 
 const matcherArr = [{
     opration: '+',
-    keyword: args[0], // first arg fill in here
+    keyword: escapeStringRegexp(args[0]), // first arg fill in here
     matchCounts: [], // going to store matchCounts of keyword
 }];
 
@@ -23,7 +24,7 @@ if (args.length > 1) {
         if (args[i+1]) {
             matcherArr.push({
                 opration: args[i],
-                keyword: args[i+1],
+                keyword: escapeStringRegexp(args[i+1]),
             });
         }
     }
@@ -71,20 +72,20 @@ for (let i = 1; i < matcherArrWithCounts.length; i++) {
 }
 
 try {
-  console.log(asciichart.plot(reslutCountArr, { height: 15, padding: ' '.repeat(7) }));
-  console.log(' '.repeat(8) + ':');
-  console.log(' '.repeat(8) + '┼' + '┼──────────┼'.repeat(8) + '┼──');
-  console.log(' '.repeat(7) + '2011-01'
-      + ' '.repeat(5) + '2012-01' + ' '.repeat(5) + '2013-01'
-      + ' '.repeat(5) + '2014-01' + ' '.repeat(5) + '2015-01'
-      + ' '.repeat(5) + '2016-01' + ' '.repeat(5) + '2017-01'
-      + ' '.repeat(5) + '2018-01' + ' '.repeat(5) + '2019-01');
+    console.log(asciichart.plot(reslutCountArr, { height: 15, padding: ' '.repeat(7) }));
+    console.log(' '.repeat(8) + ':');
+    console.log(' '.repeat(8) + '┼' + '┼──────────┼'.repeat(8) + '┼──');
+    console.log(' '.repeat(7) + '2011-01'
+        + ' '.repeat(5) + '2012-01' + ' '.repeat(5) + '2013-01'
+        + ' '.repeat(5) + '2014-01' + ' '.repeat(5) + '2015-01'
+        + ' '.repeat(5) + '2016-01' + ' '.repeat(5) + '2017-01'
+        + ' '.repeat(5) + '2018-01' + ' '.repeat(5) + '2019-01');
 } catch (e) {
-  if (e instanceof RangeError) {
-    console.log('No results');
-  } else {
-    console.error(e);
-  }
+    if (e instanceof RangeError) {
+        console.log('No results');
+    } else {
+        console.error(e);
+    }
 }
 
 console.log('\nKeywords:', ...matcherArr.map(matcher => `${matcher.opration} ${matcher.keyword}`));

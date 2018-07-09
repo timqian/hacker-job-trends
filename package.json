@@ -3,7 +3,7 @@
   "bin": {
     "hjt": "src/index.js"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "fetchHTMLs.js",
   "scripts": {
@@ -27,6 +27,7 @@
     "asciichart": "^1.5.7",
     "axios": "^0.18.0",
     "commander": "^2.16.0",
+    "escape-string-regexp": "^1.0.5",
     "jsdom": "^11.11.0"
   }
 }
