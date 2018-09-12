@@ -89,3 +89,5 @@
 - 2018-05: https://news.ycombinator.com/item?id=16967543
 - 2018-06: https://news.ycombinator.com/item?id=17205865
 - 2018-07: https://news.ycombinator.com/item?id=17442187
+- 2018-08: https://news.ycombinator.com/item?id=17663077
+- 2018-09: https://news.ycombinator.com/item?id=17902901
