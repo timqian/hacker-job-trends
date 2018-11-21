@@ -253,3 +253,5 @@ By install the npm module and generate new interesting chart and open a PR for t
 # Google:
 Ask HN: Who is Hiring? "November 2011" site:https://news.ycombinator.com/
 ```
+
+> [Donate with bitcoin](https://getcryptoo.github.io/)
