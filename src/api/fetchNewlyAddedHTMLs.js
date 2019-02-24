@@ -7,12 +7,13 @@ const apiBase = 'https://hacker-news.firebaseio.com/v0/item'
 async function fetchNewlyAddedHTMLs () {
   const baseFolder = path.join(__dirname, '../../assets/api')
   const str = fs.readFileSync(path.join(__dirname, '../../HN-who-is-hiring-monthly.md'), 'utf-8')
+
   const linkArr = str.split('\n').map(datedLink => ({
     month: datedLink.split(': ')[0].slice(2),
     link: datedLink.split(': ')[1]
   }))
 
-  const fetchedStories = fs.readdirSync(baseFolder)
+  const fetchedStories = fs.readdirSync(path.join(baseFolder, '/raw'))
   const storyIds = fetchedStories.map(fileName => fileName.split('.json')[0])
 
   for (const linkObj of linkArr) {
@@ -23,15 +24,15 @@ async function fetchNewlyAddedHTMLs () {
       let res
       if (!storyIds.includes(storyId)) {
         res = await axios.get(`${apiBase}/${storyId}.json`)
-        fs.writeFileSync(path.join(baseFolder, `/${storyId}.json`), JSON.stringify(res.data))
+        fs.writeFileSync(path.join(baseFolder, `/raw/${storyId}.json`), JSON.stringify(res.data))
         res = res.data
       } else {
         console.log('Using cached story')
-        res = fs.readFileSync(path.join(baseFolder, `/${storyId}.json`))
+        res = fs.readFileSync(path.join(baseFolder, `/raw/${storyId}.json`))
         res = JSON.parse(res)
       }
 
-      const storyFolder = path.join(baseFolder, `/${storyId}/`)
+      const storyFolder = path.join(baseFolder, `/raw/${storyId}/`)
       if (!fs.existsSync(storyFolder)) {
         fs.mkdirSync(storyFolder)
       }
@@ -44,12 +45,12 @@ async function fetchNewlyAddedHTMLs () {
         if (!kidIds.includes(`${value}`)) {
           promises.push(
             axios.get(`${apiBase}/${value}.json`).then((response) => {
-              fs.writeFileSync(path.join(baseFolder, `/${storyId}/${value}.json`), JSON.stringify(response.data))
+              fs.writeFileSync(path.join(baseFolder, `/raw/${storyId}/${value}.json`), JSON.stringify(response.data))
               return response.data
             })
           )
         } else {
-          const d = fs.readFileSync(path.join(baseFolder, `/${storyId}/${value}.json`))
+          const d = fs.readFileSync(path.join(baseFolder, `/raw/${storyId}/${value}.json`))
           promises.push(Promise.resolve(JSON.parse(d)))
         }
       })
@@ -59,7 +60,7 @@ async function fetchNewlyAddedHTMLs () {
         output.comments.push(comment)
       })
 
-      fs.writeFileSync(path.join(baseFolder, `/${linkObj.month}-combined.json`), JSON.stringify(output))
+      fs.writeFileSync(path.join(baseFolder, `/processed/${linkObj.month}-combined.json`), JSON.stringify(output))
       console.log('Fetching done:', linkObj.month)
     }
   }
