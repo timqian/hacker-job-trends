@@ -13,24 +13,16 @@ async function fetchNewlyAddedHTMLs () {
     link: datedLink.split(': ')[1]
   }))
 
-  const fetchedStories = fs.readdirSync(path.join(baseFolder, '/raw'))
-  const storyIds = fetchedStories.map(fileName => fileName.split('.json')[0])
+  const fetchedStories = fs.readdirSync(path.join(baseFolder, '/processed'))
+  const storyIds = fetchedStories.map(fileName => fileName.split('-combined.json')[0])
 
   for (const linkObj of linkArr) {
-    if (linkObj.month && linkObj.link) {
+    if (linkObj.month && linkObj.link && !storyIds.includes(linkObj.month)) {
       const storyId = linkObj.link.substring('https://news.ycombinator.com/item?id='.length)
       console.log('Fetching jobs of:', linkObj.month)
 
-      let res
-      if (!storyIds.includes(storyId)) {
-        res = await axios.get(`${apiBase}/${storyId}.json`)
-        fs.writeFileSync(path.join(baseFolder, `/raw/${storyId}.json`), JSON.stringify(res.data))
-        res = res.data
-      } else {
-        console.log('Using cached story')
-        res = fs.readFileSync(path.join(baseFolder, `/raw/${storyId}.json`))
-        res = JSON.parse(res)
-      }
+      const res = await axios.get(`${apiBase}/${storyId}.json`)
+      fs.writeFileSync(path.join(baseFolder, `/raw/${storyId}.json`), JSON.stringify(res.data))
 
       const storyFolder = path.join(baseFolder, `/raw/${storyId}/`)
       if (!fs.existsSync(storyFolder)) {
@@ -41,7 +33,7 @@ async function fetchNewlyAddedHTMLs () {
       const kidIds = fetchedKids.map(fileName => fileName.split('.json')[0])
 
       let promises = []
-      res.kids.forEach((value, idx) => {
+      res.data.kids.forEach((value, idx) => {
         if (!kidIds.includes(`${value}`)) {
           promises.push(
             axios.get(`${apiBase}/${value}.json`).then((response) => {
