@@ -1,15 +1,13 @@
 {
   "name": "hacker-job-trends",
   "bin": {
-    "hjt": "src/index.js"
+    "hjt": "src/api/index.js"
   },
   "version": "1.0.3",
   "description": "",
   "main": "fetchHTMLs.js",
   "scripts": {
-    "getHtml": "node src/fetchNewlyAddedHTMLs.js",
-    "getRowContentFromHtml": "node src/getRowContentFromHTML.js",
-    "updateContents": "npm run getHtml && npm run getRowContentFromHtml",
+    "updateContents": "node src/api/fetchNewlyAddedHTMLs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

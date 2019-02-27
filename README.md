@@ -233,13 +233,16 @@ hjt ' js ' + 'javascript'
 
 # match multiple keywords but you want to do a subtraction operation
 hjt 'remote' - 'no remote' - 'not remote'
+
+# If you want the trends with count of keywords related to number of posts, add the option `--relative`
+hjt react --relative
 ```
 
 ## Contributing
 
 ### 1. Add new useful trend graph
 
-By install the npm module and generate new interesting chart and open a PR for the `README.md`
+By installing the npm module and generating new interesting chart and open a PR for the `README.md`
 
 ### 2. Add new who is hiring link
 
