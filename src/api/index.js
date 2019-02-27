@@ -41,7 +41,7 @@ matcherArr.forEach(matcher => {
 // console.log('matcherArr', matcherArr);
 
 // "remote - no remote - not remote" blockchain react vue javascript/\sjs\s tenserflow ai node.js nodejs \snode\s typescript
-const contentFolder = path.join(__dirname, '../../assets/api')
+const contentFolder = path.join(__dirname, '../../assets/api/processed')
 const contentArr = fs.readdirSync(contentFolder)
   .filter(name => name.indexOf('combined') > -1)
   .map(name => path.join(contentFolder, name))
