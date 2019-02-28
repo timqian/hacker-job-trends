@@ -9,11 +9,10 @@ const pathToDatedLinks = path.join(basePath, '/HN-who-is-hiring-monthly.md')
 const pathToRawData = path.join(basePath, 'assets/api', '/raw')
 const pathToProcessedData = path.join(basePath, 'assets/api', '/processed')
 
-async function getStoryDataById(storyId) {
-
-  let res;
+async function getStoryDataById (storyId) {
+  let res
   if (fs.existsSync(path.join(pathToRawData, `/${storyId}.json`))) {
-    console.log('using cached story');
+    console.log('using cached story')
     res = fs.readFileSync(path.join(pathToRawData, `/${storyId}.json`))
     res = JSON.parse(res)
   } else {
@@ -22,7 +21,7 @@ async function getStoryDataById(storyId) {
     fs.writeFileSync(path.join(pathToRawData, `/${storyId}.json`), JSON.stringify(res))
   }
 
-  return res;
+  return res
 }
 
 async function fetchNewlyAddedHTMLs () {
@@ -53,7 +52,7 @@ async function fetchNewlyAddedHTMLs () {
 
       let promises = []
       story.kids.forEach((kid) => {
-        let promise;
+        let promise
 
         if (!kidIds.includes(`${kid}`)) {
           promise = axios.get(`${apiBase}/${kid}.json`).then((response) => {
@@ -65,7 +64,7 @@ async function fetchNewlyAddedHTMLs () {
           promise = Promise.resolve(JSON.parse(data))
         }
 
-        promises.push( promise )
+        promises.push(promise)
       })
 
       let output = { comments: [] }
