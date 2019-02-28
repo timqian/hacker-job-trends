@@ -1,13 +1,15 @@
 {
   "name": "hacker-job-trends",
   "bin": {
-    "hjt": "src/api/index.js"
+    "hjt": "src/index.js"
   },
   "version": "1.0.3",
   "description": "",
   "main": "fetchHTMLs.js",
   "scripts": {
-    "updateContents": "node src/api/fetchNewlyAddedHTMLs.js",
+    "getHtml": "node src/fetchNewlyAddedHTMLs.js",
+    "getRowContentFromHtml": "node src/getRowContentFromHTML.js",
+    "updateContents": "npm run getHtml && npm run getRowContentFromHtml",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,13 +29,5 @@
     "commander": "^2.16.0",
     "escape-string-regexp": "^1.0.5",
     "jsdom": "^11.11.0"
-  },
-  "devDependencies": {
-    "eslint": "^5.14.1",
-    "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-node": "^8.0.1",
-    "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-standard": "^4.0.0"
   }
 }

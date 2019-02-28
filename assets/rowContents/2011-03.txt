@@ -1,0 +1,117 @@
+Boston (US) as well as London (UK) - youDevise, Ltd.We're a 65-person financial-software firm committed to learning and improvement as well as great web software and agile development. Some of you may know us from our sponsorship of Hacker News meetups in London. We're hiring developers and other smart folks of many kinds. See https://dev.youdevise.com and http://www.youdevise.com/careers.While we don't have remote workers, we do help successful candidates relocate to London or Boston including arranging visas where needed. For example, last year we hired HN readers from Denmark and the US, and we moved a Polish employee to Boston.
+                      
+                  
+      Sounds interesting! Would it be possible to contact you with some questions via email?
+                      
+                  
+      BuzzGenie - Los Gatos - Remote is OK, but must be able to attend on site brainstorming and status meetings near Hwys 17 & 85.BuzzGenie is a social network/news/blog/action Internet portal. We address an individual's need to not only voice their opinions, but to make a difference, enabling them to discuss and blog interests and act on causes, issues, events, topics, and persons of interest while keeping their identity private to the Internet at large. BuzzGenie combines the best features of Facebook, Huffington Post, WordPress, Yelp, and Twitter by integrating the friends feature; recent activity feeds; interest-based news feeds, blogs, and Tweets; and connecting people using an interest-based social graph.  We have a solid revenue model which gets us to profitability in about two years.Looking for LAMP and mobile developers, as well as Unix/Plesk admin.Also looking for activists-bloggers.You will play a key role on a very small team. Since we are at very early stage, you can become a major player in a company that wants to change and improve the way people interact on the things they care about. This is a very hot, competitive space with a potentially huge payout for the team first to get traction in the market. Great achievers will be rewarded accordingly.Benefits of working on site has the additional benefit of three free gourmet meals a day (including Indian/vegetarian), an outdoor patio work area, hot tub, home gym, and unlimited gourmet espresso/cappuccino/coffee (it's a private residence). Imagine upscale 'garage' start-up. Walking distance to park with basketball, tennis courts, running track, and par course. Across Bascom Ave. from Los Gatos Creek trail for walking, running, roller blading, and biking.Have a look at the site and see if it interests you. Helps to have some activist in your blood.Compensation is accomplishment based until funding is closed. Founder's stock available.astockel at buzzgenie com
+                      
+                  
+      Here is a RSS feed for this thread's parent comments (which are mainly job postings):http://whoishiring.heroku.com/rss/2270790Thanks to Ronnie Roller (http://ronnieroller.com/) for Hacker News API.
+                      
+                  
+      San Diego, CA.  Remote ok.
+Klatu Networks: A wireless sensor networking startup that focuses in biotech monitoring.  We are a small, bootstrapped, profitable start up.   We are very selective on our hiring so you will only be working with other great engineers.The most important requirements is to be passionate about creating software and be able to quickly grasp new technologies.  Other requirements include strong knowledge of Javacript, experience with Ruby, Java, SQL, Git.Contact me directly if you are interested, email is in my profile.
+                      
+                  
+      Cambridge, MA (AO Games)Weâ€™re an online retail/games startup based in Cambridge, MA looking for someone to fill a full-time position as a Lead Developer of web applications.We compensate very well, paying market rates or above for real talent. You may choose to substitute some equity for salary, but that is not mandatory. A remote working option is available at the start, though in the long term the job is at Cambridge, MA.We are looking for someone who:- Has experience building complex web apps (think Facebook).- Has experience / enjoys the challenge of optimizing complex, time sensitive, applications.- Has some familiarity with PHP in LAMP (though PHP doesn't need to be your favorite language; I'm looking at you Python/RoR evangelists!)- System / Database administration familiarity is a plus, since this will be helpful for optimization.A little about us: we are a small startup that is highly profitable. We bootstrapped our way to profitability by using minimum money and time (8 months). We are expanding to take on larger challenges and need a great programmer to work with us.Contact me at ao.hiring@gmail.com for more info, or check out our posting here: http://careers.stackoverflow.com/jobs/9293/profitable-startu...
+                      
+                  
+      Looking for a junior Software Engineer - Java in Singapore.
+(Sorry, must be located in Singapore)The team at Plunify is seeking a talented and enthusiastic Java developer to help build a cloud computing platform. Work with the latest Web technologies to bridge the gap between the desktop and the cloud. Most importantly, be passionate about creating great software, be able to learn quickly and be a team player.Your role is to develop, maintain and support Java applications that work with our proprietary platform. Refine and enhance security of existing Java applications. You will also be required to learn and understand how to integrate your applications with various hardware and software systems.Required:
+- BS/MS CS or related majors. (New graduates welcome) 
+- Strong programming skills in Java
+- Willingness to learn 
+- Fluency in written and spoken English. Any other languages are a bonus!
+- Deep interest in cloud computing
+- Any experience in database/SQL and web scripting technologies, e.g. PHP, Javascript is a plusGet in touch via recruit at plunify dot com!
+                      
+                  
+      Kontagent (San Francisco, CA)We are looking for sales and engineers!
+http://jobvite.com/m?3zGZ1fwZKontagent measures people, not pages, and is a leading analytics platform for
+social application developers. The platform has been built to provide deep
+social behavior analysis and visualization that provides actionable insights via
+a hosted, on-demand service. It works with many of the worldâ€™s largest
+developers and brands, tracking thousands of social applications and games with
+over 100 million monthly active users and over 15 billion messages per month.http://techcrunch.com/2011/02/10/facebook-analytics-platform...http://venturebeat.com/2011/02/28/kontagent-launches-real-ti...Email me waiyip.tung at kontagent.com if you need more information.Wai Yip Tung
+                      
+                  
+      Nomad Editions - New York city area (sorry remote not an option for this role) http://readnomad.comWeb Developer for Digital Magazine StartupNomad Editions, a startup creating digital weeklies for mobile devices, is looking for an awesome web-standards focused HTML/CSS/JS developer to help build our content on top of Treesaver (treesaver.net), one of the most exciting new open source frameworks for digital news and magazine publishing. The developer will be responsible for taking wireframes and translating them into standards-compliant web pages in Treesaver.We're seeking:
+ - Expertise in standards-based web development with HTML/CSS/JS
+ - Ideal candidate would also have design skills
+ - Interest in working with a very exciting company doing something no one else in the digital publishing industry is doing: making digital content look amazing everywhereIf you're interested or have questions, please e-mail Martha Rotter at mrotter@readnomad.com
+                      
+                  
+      Bangalore, India (Sorry, no remote).We are looking for Java and PHP programmers.We are a well funded ecommerce Startup. We already have an experienced team working on the technology side. Here are some interesting problems in this space: - Scaling - Data Mining/Retrieval - Analytics.Please get in touch and I will convince you to join us :)(Freshers and interns are welcome too).
+                      
+                  
+      CellDivision - New York City - Local only, no remoteWe are an established company - not a startup and not your traditional type of agency you would normally see on here - basically we work in the pharmaceutical/medinfo sector. Just because our standard business is old school - the technologies we use aren't.We are a PHP shop, but make heavy use of MongoDB, Node.js, RabbitMQ, Solr, Haxe and any other technologies that are the new cool thing - but that also are indeed the right tool for the job. Other cool things we are playing with include the Kinect and RFID technology.We are looking for a full time senior PHP developer. You need to be comfortable using our in-house framework and be quick on your toes in coming up with ideas. Ideas are welcome - but be ready to execute on them as well.Send your resume, or any questions you might have to carlson at celldivision com
+                      
+                  
+      RentMineOnline (San Francisco, based in the Presidio).We would consider interns, remote, and part-time or full-time.Rails dev: you would be our #2 full-time developer, coding, refining our tech stack as we grow, and helping to coordinate our remote developers. Our current stack is {slicehost,nginx,passenger,rails,delayed_job,MySQL}. We recently upgraded to Rails3, and are adding fun stuff like varnish/redis/memcached next. We also use some amazon services {s3,rds,sdb} and have a fairly deep integration with facebook platform.UX: prototype or jquery with a dash of design sensibility & a knack for user flows. This could be remote or part-time, but we prefer SF-based and are ultimately looking to fill a lead design role.contact me - kevin@, and include #job somewhere in the subject so I don't miss it.
+                      
+                  
+      Phunware - Santa Ana, CA and Austin, TX (sorry, no remote)Phunware is an enterprise branded mobile application infrastructure company that delivers high value, high utility and engaging mobile applications. These applications enable our customers to become a core part of their consumersâ€™ mobile lifestyles.Checkout our high profile apps atÂ http://www.phunware.comJob Opportunities in Austin, TX and Santa Ana, CA locations:* Full-time position â€“ iPhone Mobile Applications Software Engineer* Full-time position â€“ PHP Web ApplicationÂ Engineer* Internships - iPhone Software DeveloperÂ 
+On-site hires only, no remote or outsourcing. Â Full-time qualifications include 3+ years of software engineering in related technologies. Â Internships must have proven iPhone development experience.Â 
+Send resumes to kle@phunware.comÂ 
+                      
+                  
+      I run CoderStack, a developer job board (currently UK focused) we have lots of startups advertising at the moment:http://www.coderstack.co.uk/startup-jobs
+                      
+                  
+      Boston, MA (not remote)MDT Advisers - We're a small quant investing shop working with machine learning, financial analysis, and the hardest dataset in the world. We're mainly hiring for a general analyst position thatâ€™s about 60% programming and 40% financial and statistical analysis -- http://www.mdtadvisers.com/careers/qea.jsp . The people, problems, and pay are good, and we aim for good work-life balance(e.g. no 60 hour weeks).You can email me at jlewicke@mdtadvisers.com with any questions you have.
+                      
+                  
+      Stipple is looking for an engineer. San Francisco, local only. http://stippleit.comWe do Rails, jQuery, and TDD. Lots of Javascript. We write our own CSS (with SASS/Compass). We move quickly by exploiting the best tools we can find.You would be the #2 engineering hire, and would work with myself and our other engineer.Our awesome office is in South Beach, close to AT&T Park. I'll tell you the story about it when you get here.Please send resumes or questions to mpd at stippleit.com, and include HNJOB in the subject.
+                      
+                  
+      London, UKCommercial Security International provide internet monitoring services focused around intelligence gathering, asset and brand protection.We're looking for a developer to join our team working on our MS stack using ASP.NET MVC, jQuery and TDD in an Agile environment.Checkout our website at http://comsechq.com or email: jobs at comsechq.com if your interested.
+                      
+                  
+      Seattle WA: Distilled - Sales Role (Non remote)We're a Search Marketing consultancy; HQed in London UK, we opened a Seattle office in 2010. We work for plenty of large brands - though we have a bunch of startups amongst our client list as well.Looking for a Sales Exec with some experience to join the team and keep us growing fast.http://dis.tl/sales-exec
+                      
+                  
+      UK, Cambridge or Brighton (no remote) - AptivateWe are an established not-for-profit IT consultancy working in the International Development sector. We're looking for multi-skilled web developers willing to participate in all aspects of the organisation.For details http://www.aptivate.org/job-web-developer
+                      
+                  
+      New York CityWe're looking for an Assistant Project Manager to help build online games for a major publishing company (we're not dead yet!). Game design, wireframes, puzzle creation, customer service, documentation, QA--this position is a little of everything and we'll find a way to use any skill you have.Shoot me an e-mail for further info: gbrown at scholastic.com
+                      
+                  
+      We're a small startup local to the SF Bay Area looking primarily for developers right now and designers in the near term.Ideal candidate would be a PHP dev with JS, jQuery, HTML, CSS, etc. C++, Python, Objective-C, etc are bonuses.We're currently focused on solving an consumer ecommerce experience problem.
+                      
+                  
+      Have a link or email address?
+                      
+                  
+      Cheezburger is looking for an Experienced ASP.NET/C# Developer - http://jobs.cheezburger.com/job/detail/4324-experienced-asp-...
+                      
+                  
+      New Jersey early stage startup is looking for locals. Show your NJ love.Hiring software engineers and mobile app developers.Java, JavaScript, AJAX (JQuery, Prototype, ExtJS) with a working knowledge of Spring MVC Framework and a sprinkling of C# wouldnt hurt.jobs@iqtell.com
+                      
+                  
+      Austin, TX (not remote)Quickly growing startup making test and measurement equipment in solar industry. http://www.atonometrics.com/careers/software-engineer
+                      
+                  
+      Intelligent app search and discovery startup is looking for a business development person and a UI designer.
+http://iApps.in/jobs
+                      
+                  
+      Where are you located? Is remote a possibility?
+                      
+                  
+      New Delhi, India. Remote a possibility.
+                      
+                  
+      Austin TXRuby Developer for AcademicWorksMore details here: http://www.academicworks.com/careers
+                      
+                  
+      i'm looking to hire people with php, jquery, and postgresql skill.
+                      
+                  
+      Location?
+                      
+                  
+      Palo Alto, Californiawww.GoPollGo.com is a social polling platform and we're looking for rock-solid talent.  Our stack is Ruby on Rails / JQuery / HAML / SASS / MySQL / Nginx / Passenger / Git.  Competitive pay + options.Check out our opportunities:  http://gopollgo.com/about/jobs
+                      
+                  
+      

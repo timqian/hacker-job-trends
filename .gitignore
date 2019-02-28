@@ -59,6 +59,3 @@ typings/
 
 # next.js build output
 .next
-
-# ignore raw data from api to reduce number of files in git repo
-assets/api/raw/**/*

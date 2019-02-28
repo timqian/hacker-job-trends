@@ -1,0 +1,905 @@
+Blinkist | Growth Developer | Onsite or remote | Berlin, Germany | EUR 60- 70kWe are looking for a freelancer or someone to join our team full-time. The purpose of the Marketing & Growth Development team is to enable growth initiatives with data, engineering, and design.The projects we drive:
+Website: a Rails app that powers user onboarding, discovery experience, and checkout. You will be involved in shipping new flows by coding Sketch files into responsive markup, developing the backend and writing integration specs.Blinkist Magazine: another Rails app, more frontend-focused. Millions of people from all over the globe discover new content there.Sidekiq & Marketing API integrations: when we donâ€™t ship A/B tests, we code API integrations which need to be fast, scalable and easy to maintain.Please apply here:
+https://hire.withgoogle.com/public/jobs/blinkistcom/view/P_A...At Blinkist, we offer a fantastic workplace in the heart of Berlin-NeukÃ¶lln including all the benefits youâ€™d expect â€“ from a personalized perk system to free private language lessons. Add a competitive salary, a personal development budget of 1,500â‚¬ per year, flexible working hours, and a meaningful product on the rise, and you have a first impression of why Blinkist is a great place to work.
+                      
+                  
+      Lots of YC companies | Software engineers of all kinds | Everywhere, though mostly in the US | Mostly on-site, but some remote too | Full-time and internA few months ago, a team of us at Y Combinator started working on a "common app", so that people could apply to all Y Combinator companies at the same time.  It seemed silly to us that even though so many companies are struggling to hire people, it still requires O(n) effort to apply to n companies.So, we built workatastartup.com.  It's a simple way to apply to all YC companies at the same time.  It's only for hackers / engineers for now (we hope to open it more broadly later).  If a company is interested, you'll get an email directly from one of the founders.It seems to be working pretty well - many of the people who posted a profile have gotten more than a dozen company founders reaching out to them, and some people have gotten jobs through it already.  We'd love if you filled out a profile and let us know what you think (workatastartup@ycombinator.com) : https://www.workatastartup.com
+                      
+                  
+      > It's only for hackers / engineers for nowI'd say it's even more narrow than that:"Which software engineering roles are you interested in?"Considering that the form doesn't ask much in the way of software- or programming-specific questions, why wouldn't you broaden it to at least all technical roles?
+                      
+                  
+      That's a good point.  We're starting with software just because we want to make sure it works well for a narrow focus before expanding.  I'll be really excited to expand to hardware soon.
+                      
+                  
+      "Which software engineering roles are you interested in?"True, it's hard for me to just pick one. I believe lots of people here can do full-stack + iOS + Machine Learning...
+                      
+                  
+      It's even more narrow than that. I have not created an account, but I am assuming the companies are going to be extremely Bay Area specific. In fact, the form states:"Where do you currently reside? (Some companies help with relocation, but others cannot afford to yet.)"In other words, we don't care where you are, as long as you end up in the Bay Area.
+                      
+                  
+      Kindly Care | San Francisco | Multiple Engineering Positions | REMOTE | $100k-$150k + equityKindly Care (https://www.kindlycare.com) helps families find, hire, and manage private caregivers so that their elderly loved ones can age in their homes rather having to move into assisted living facilities. We take pride in the fact that weâ€™re working on one of the most pressing problems in our society: ensuring that our seniors are taken care of despite seemingly endless challenges caused by fiscal and labor shortages.We just closed a Series A in January 2018, and have raised a total of $9.5m to date. To find out more about Kindly Care, check out our (slightly outdated) Techcrunch coverage: https://techcrunch.com/2016/10/11/kindly-care-launches-with-...Weâ€™re a geographically distributed company, with 6 team members working out of our office in San Francisco and about 50 others working from all over the US, Canada, Mexico and a number of other countries. We have built all products and processes to equally accommodate on-site and remote team members, and we highly value this ability to attract the best talent from across the world.Looking for:- Senior Web Engineers (2x): https://www.kindlycare.com/senior-web-engineer/- Senior Salesforce Developer: https://www.kindlycare.com/senior-salesforce-developer/Let's chat! I am Igor and you can reach me at engineering.recruiting@kindlycare.com.
+                      
+                  
+      It seems to be a common question, so I'll help answer, our tech stack is: React, NodeJS, Express, LoopBack, Postgres, AWS, Angular, Salesforce, Twilio, Autopilot
+                      
+                  
+      PKC Security | Mid- or Senior- engineer | Huntington Beach, CA | ONSITE, FULL-TIME | $120-$160k | https://pkcsecurity.com PKC Security is a small, elite custom dev shop. Our engineers build cutting-edge, innovative products to solve our clientsâ€™ most wicked problems. Our work spans across the fintech, e-commerce, NGO, and education spaces.We are looking for a strong mid-level dev or a senior dev who can lead other excellent, experienced engineers. We need someone who is capable of making tough engineering decisions on the fly for greenfield projects, and then guide a team to implement them effectively.We offer great benefits and have a strong, empowering company culture. Our companyâ€™s mission is â€œto make new ways in the wilderness for the weak to know truth and live free.â€�Our stack is Clojure + reagent for web and mobile, and Heroku or AWS with terraform for DevOps. Knowing Clojure is not required. We have also been known to experiment with other randomly assorted languages, frameworks, and infrastructure :)If you are interested, email Mike at jobs@pkcsecurity.com with your resume and any questions you may have!
+                      
+                  
+      Ansaro | Back-end developer | San Francisco, CA | ONSITE, Full-time, Salary:120K-150K (1.0%-1.5%) https://ansaro.aiAnsaro helps organizations hire the people who will do the job best. We apply machine learning to data our customers already collect, but have never tapped before. We visualize ML-based hiring recommendations in simple, easy-to-use tools for users across enterprise functions.If the following description sound likes you, please reach out to us!  - Can help customers understand complex data and machine learning-based recommendations
+  - Enjoy building APIs and integrations with other large SaaS vendors with modern tools like Go, Postgres, GraphQL, and gRPC
+  - Can translate often-nebulous customer requirements into practical solutions, without much oversight
+  - Care deeply about performance, security, and API design
+
+Email us at hi@ansaro.ai, or visit https://ansaro.ai and https://angel.co/ansaro/jobs/265096-backend-software-enginee...
+                      
+                  
+      Netherlands Forensic Institute | Forensic exploit developer | The Hague, the Netherlands | ONSITE | VISA | Full-time | â‚¬45k - â‚¬88kWho are you?
+You are a qualified ethical hacker or reverse engineer with practical experience with mobile devices, looking to apply your skills to benefit the public good.Who are we?
+We are a group of embedded systems specialists within the Digital and Biometric Traces Division of the Netherlands Forensic Institute.
+We develop and perform methods for extracting digital data from lawfully seized electronic devices like mobile phones, navigation systems and other smart devices.What will you do?
+We need you to expand our device exploitation capabilities.
+The increased use of strong cryptography in consumer devices demands for new approaches to keep our services up to standard.
+You will be working on developing exploits for mobile devices that were seized in criminal investigations.
+Your job is to develop methods to find valid passwords or to find other ways to decrypt extracted data.
+The information from seized devices plays an important role in criminal court as evidence to prove or disprove guilt.What do we offer?
+The Dutch government offers some excellent benefits. Examples:  * 8% annual holiday pay and 8.3% annual end-of-year-payment ("13th month")
+  * (partially) paid parental leave
+  * 23 days paid vacation per year @ 36 h/week; 46 days/year @ 40 h/week
+
+For this position we are recruiting globally; speaking Dutch is a plus but not required. Although the job is onsite, we do offer assistance with relocating to the Netherlands. A security screening is part of the application procedure.More information about the NFI: https://www.forensicinstitute.nl/Interested? You can email me at the address in my profile.
+                      
+                  
+      I've now also posted the vacancy to the Dutch government's official job board. You can find more details there: https://www.werkenvoornederland.nl/vacatures/detail/forensic...
+                      
+                  
+      One Eighty | Frontend Developer | $100k - $150k + equity + benefits | Fulltime | ONSITE in Los Angeles | one-eighty.co (http://one-eighty.co/)We are three experienced founders building software for an industry we deeply understand. We've started, funded and sold multiple companies and are doing it again. We have sales, operations and technology expertise, are currently self-funded and are hungry as ever!You are a mid to senior-level frontend developer with a sense of aesthetics, well versed in modern JavaScript (ES6), CSS, HTML and the modern frontend build stack. You are reasonably meticulous and understand general interface design in a user experience context. You have an solid understanding of React and knowledge of different backend API interface types (GraphQL, RESTful). Most of all you're hungry to make your mark and fulfill your destiny.We're inspired by gorgeous and blazingly-fast products (Superhuman), stupid simple on-boarding (Stripe), infographics and actionable data (FiveThirtyEight), distributed collaborative development and CI (Github), testing bad-ass-ery ("How Google Tests Software"), and building the company culture we dream about.This role is exclusively onsite in Downtown Los Angeles.If you are interested please email hello (at) one-eighty (dot) co
+                      
+                  
+      What does your company actually do?  Your website is "under construction".
+                      
+                  
+      on a positive note, at least under-construction.gif is being sent securely
+                      
+                  
+      Well that's why they're looking for a Frontend person!Clearly they already have a solid Ops team, with a worthy, "We don't care what's on the website - Lets Encrypt is auto-renewing so it's all secure." attitude about them.
+                      
+                  
+      Qualys Inc. (qualys.com, NASDAQ: QLYS) | Foster City CA | Full-time, ONSITE/REMOTE | $110k-$125k, RSUs, 401(k) matching, bonuses, health benefits Qualys is a provider of cloud security, compliance and related services for small and medium-sized businesses and large corporations.We are looking for a capable, motivated engineer to help us update and maintain our backend infrastructure. The ideal candidate has good knowledge of Ceph. A demonstrable ability to learn new and complex technologies is a substitute for this requirement. Must have a good knowledge of Linux, VM infrastructure, databases, and preferably some experience with an S3-compatible object storage system. Solid programming experience in a language such as Java, C, Go, or Python is required as is experience with networking, logging, and monitoring.For consideration for a remote position, the applicant should provide references that will verify he/she is capable of working remotely efficiently and reliably. Remote applicants must be willing to meet off-hours occasionally, as we have offices in several countries that we sometimes need to sync with.Please send a short cover letter and a resume to jdavis@(our domain). Interview process will include a short coding exercise. No recruiters.
+                      
+                  
+      Southeast USA including: Texas (Austin and San Antonio), Virginia (Arlington and Dulles), Alabama (Huntsville), Florida (beach east of Melbourne), South Carolina (Greenville), Maryland (Annapolis Junction), and possibly others, all ONSITE. Citizenship is a job requirement.We do emulators, JIT, hypervisors, stuff like valgrind, debuggers, manual disassembly, binary static analysis, parsers, and assembly. We write our own low-level tools, frequently in C99 to run on Linux. We also use IDA Pro, qemu, Simics, JTAG debuggers, gdb, Coverity, KlocWork, LLVM, and so on. Easily transferable skills include those related to compilers, kernel drivers, embedded RTOSes, vectorizing, firmware, VxWorks BSP development, symbolic execution, boot loaders, software verification, concolic testing, abstract interpretation, satisfiability (SAT, SMT) solvers, and decompilers. We work with more than a dozen architectures including PowerPC/ppc/POWER, MIPS, ARMv8/Thumb2/AArch64, x86-64/x64/Intel, DSPs, and microcontrollers. We hire from no-degree to PhD. Common degrees include Computer Science, Computer Engineering, Electrical Engineering, and Mathematics.We don't normally work overtime, and we get paid more if we do. We're never expected to take work home or be on call. Because of the citizenship requirement, there is no chance that the work will be outsourced. Flex-time is fairly extreme; some do randomish hours.Location hints: Pick Arlington for a car-free life. Pick Florida or Texas to live in a place with solid gun rights and no state income tax. Pick Florida for almost no traffic or commute, surfing, and houses that commonly go for $150,000 to $450,000.You can email me at users.sf.net, with account name albert.
+                      
+                  
+      > Pick Florida or Texas to live in a place with solid gun rights and no state income tax.I really appreciate this nod. Gun rights are a big part of the reason I could never live in the Valley, and though it's a huge part of many people's lives across the country it's not something that you see recognized in recruiting efforts.
+                      
+                  
+      I could never work for a company that felt the need to add mentions about gun rights to their advertisements.  It's fine if you personally support it, but when you bring that attitude into the public face of the company, it's a big red flag about the work environment.
+                      
+                  
+      There are no red flags here. We proudly fly the American flag. One in our cafeteria looks to be about 8x15 feet. Our veterans hold an annual Flag Folding Ceremony in honor of Veteran's Day.Many employees choose to go shooting together, but there is no pressure to participate. It's just a normal all-American activity.I'm not really "the public face of the company". Notice the lack of a trademarked Pantone color. The official corporate identity would tell you nothing about what our office locations are like. They would however proudly tell you about heat beams to zap people and about gun turrets that aim and fire without human action, so they aren't completely boring.
+                      
+                  
+      Uh... I'm sure every paragraph there is a red flag for most peope on HN. I know it is at least for me, and I own guns and was an Eagle Scout.
+                      
+                  
+      My guess is Northrop Grumman. Not sure why it must be so hush hush ;)Proposed merger with Orbital ATK should cement its launch capability into New Space era.Also, Huntsville, AL. Where the James Webb Space Telescope primary manufacturing is performed. Is looking like it may become a budding startup hub.
+                      
+                  
+      Nope, we're a wholly-owned subsidiary (several hundred people) of a vaguely similar company. I could go into the details (better benefits for example) but it gets complicated. People make wrong assumptions about the work environment. We were a start-up about 13 years ago, and still retain much of that culture. It's not a bunch of bureaucrats in cubes wearing ties, and we don't want to waste time interviewing people who seek that kind of thing. There really are lots of useless toxic people who see a famous company name and then picture a bureaucracy in which they can hide as a parasite. We work hard to keep them away.
+                      
+                  
+      My guess is SI based on the information provided.Huntsville is going through its town center/SoDoSoPa phase at the moment with lots of tiny villages and shopping centers being built.  There is a new one going up right by Big Spring Park and it is probably the first time I have seen a crane in downtown.
+                      
+                  
+      Salary range??
+                      
+                  
+      We are hiring at multiple levels and in multiple locations, so it's a big range. You don't want an upper bound on it, do you? That would be limiting. :-)It's possible to beat typical Silicon Valley pay while living out in a cheap place, with a fresh college graduate maybe getting 6 figures after a year or two, but I'm certainly not promising this to you. We seem to be well above the national average. Most people get a large raise after a year or two.To put it another way, I'm feeding a family of 13 (sole provider) and living on a 0.48 acre lot that is less than a mile from the beach. I can walk to work, which is across the street from the beach. With the right technical background, you could do that too.
+                      
+                  
+      Dude, I lived in Austin before and I loved the place! Not looking to move companies anytime soon though as I love my job right now but I'm glad to hear people doing emulators and stuff can be paid big $ too. I've always been interested in emulators/VM/virtualization/OS as I work closer to the metal as they say.
+                      
+                  
+      I'm pretty sure I know what company this is, subsidiary of Raytheon. No one would discuss salary with me until I had an offer and you guys couldn't hit 115K
+                      
+                  
+      You're correct, this is Raytheon -- https://jobs.raytheon.com/location/melbourne-florida-united-...
+                      
+                  
+      We pay some people far more than 115K. Not everybody has the same level of skill.
+                      
+                  
+      Fair enough, I just wish you guys didn't beat around the bush so much about salary in early discussions. I really wanted to take the offer but the salary was a non starter, wasted both of our time.
+                      
+                  
+      A few more things:Interviews aren't perfect. Actually, they are awful, but everything else is worse. An interview is largely what determines the level at which an offer is made. Giving a salary isn't simple when you don't know if a person would be a junior-level person or a senior-level person. Some people interview badly.Even if value is correctly determined, it is important to realize that your value is specific to the job you are being considered for. Picture a world-famous brain surgeon deciding to become a stock trader: it may be that stock traders can be paid well and that the brain surgeon has great skills, but the skills are likely a poor fit for the task at hand. Switching to a different role can make you a beginner again.Most people got large raises in October. If I remember right, 25% was normal. I don't know when you were offered 115K, but that matters. The market finds a price you see. We made the required adjustment.I recently checked starting pay for new college grads at Silicon Valley companies, and 115K seemed to be in the middle of the pack. This is however just the raw number. It's more like 200K if you adjust for cost of living in a place like Florida.
+                      
+                  
+      company details?
+                      
+                  
+      Looks like it's for SourceForge.
+                      
+                  
+      IDK, it sounds like a cyber defense contractor using a sourceforge email for some reason.
+                      
+                  
+      It's an old personal email address, already well-exposed to spammers due to being in the man page for Linux's ps command.
+                      
+                  
+      Oh, that's neat.I'm assuming from the nature of the description that remote work (but still US based) is a hard non-starter?
+                      
+                  
+      We've allowed remote work for well-established and valued employees who need to be remote for personal reasons. For example, we did that for an employee who moved to be close to his cancer-stricken father.We aren't at all likely to hire somebody to be remote on day 1. We consider it to be a security problem.
+                      
+                  
+      That's what I figured.  Thanks for responding.  : )
+                      
+                  
+      Cerego | SF FiDi | Full-time Full Stack Engineer | $100k - $120k
+Cerego helps people learn faster, remember longer, and quantify what they know. We build software and APIs that make a real difference in the world: we help people study less but learn more. We have an incredibly impressive suite of partners, from leading publishers (Cengage, Elsevier, McGraw-Hill) to online course providers (edX) to innovative institutions (ASU) and foundations (The Bill and Melinda Gates Foundation).We're not just another "adaptive learning" startup: our products are based on proven research, and learning science affects everything we do. We're also not really a startup: we've run a successful business using our technology in Japan for years, and we have a business model and partners already.Our stack is Rails/Angular MySQL/AWSPlease check out https://www.cerego.com/company/jobs/software-engineer to learn more and if you'd like to work with us we'd love to hear from you at jobs@cerego.com
+                      
+                  
+      Shogun (YC W18) | Mid-Senior Full Stack Engineer | REMOTE, ON SITE (SF) | https://getshogun.com | $100-$140k + generous equityShogun is a page builder for eCommerce stores. We have one of the most popular apps on Shopify (https://apps.shopify.com/shogun) and we just launched on BigCommerce.We bootstrapped the business to profitability and we're growing fast. The team is distributed around the world and we're looking for more engineers to join us.Our stack is Rails/React/Postgres/MongoDB and we have big plans for the future.If you are interested to learn more, email jobs@getshogun.com with your resume and any questions you may have!
+                      
+                  
+      You Need a Budget (YNAB) | Full Stack Developer | RemoteAt YNAB, we build the worldâ€™s best budgeting software. But weâ€™re even prouder of teaching people how to align their money and their priorities, and in turn changing their lives.Our web app is cutting edge. Our API, written in Rails/PostgreSQL, takes care of the hard stuff, like synchronizing data between offline-able clients. Our client apps use a TypeScript library we developed that makes talking to our API a piece of cake. Youâ€™d be helping us develop and maintain the server-side of things.When we say Full Stack, we mean that youâ€™re a programmer at heart, are comfortable at various levels of the web stack.Job Post: https://ynab.recruiterbox.com/jobs/fk0fl51
+                      
+                  
+      I'm not currently looking for a job, but if I was, this is the company I'd apply to. My wife and I have been using YNAB for years - it's quite literally one of my favorite tools of all time.Great product, great company.
+                      
+                  
+      Uncountable | Machine Learning Engineers | San Francisco (Onsite) | $150k-220k
+& Enterprise Sales | San Francisco (Onsite) | $70-120k + Commissionhttps://www.uncountable.com/careersUncountable accelerates the innovation of the worldâ€™s largest manufacturers. By leveraging advanced artificial intelligence techniques, Uncountable's algorithms get better material and chemical products to the market in half the time. We work with companies of all sizes, from innovative startups to Fortune 500 manufacturers.ML Engineers: We are looking to build out a world-class machine learning team that can push the boundaries of what is currently possible with Bayesian optimization and modeling. You will have the opportunity to work on difficult machine learning problems at a very small startup.REQUIREMENTS: MS or PhD in a related field. Experience with statistical learning theory. Familiarity with software development.Enterprise Sales: We are looking for resourceful, scrappy, and driven professionals to grow out our sales and business development team. As a sales representative, you will be responsible for generating leads, pitching Uncountableâ€™s AI platform to Directors/VPs, and closing enterprise deals. With junior and senior positions available, non-sales backgrounds are perfectly acceptable given a willingness to learn and improve.These are on-site, full-time positions in San Francisco, CA. Learn more: https://www.uncountable.com/careers Contact: jason@uncountable.com
+                      
+                  
+      Dataquest | SF | Director of Marketing | Remote, Full-time | $90k - $130k | https://www.dataquest.ioAt Dataquest, we teach data science interactively online to hundreds of thousands of students worldwide. We're focused on teaching skills and building intuition from the ground up with our project based curriculum. Unlike most educational options, we focus on motivating students to learn, not just content delivery.  We have students go from no programming knowledge to jobs at companies like SpaceX, Amazon, and Microsoft, and you can read their stories here -- https://www.dataquest.io/stories .Help us build awareness of Dataquest by scaling our marketing team, analyzing metrics, and running experiments with new growth channels.  This is a chance to help students around the world learn while having a lot of ownership over the direction and messaging of the company.  Ideally, you'll have experience with running and optimizing ads, analyzing data, and optimizing conversion funnels.We're a bootstrapped team of 11, and we've been growing 2-3x per year since we launched in 2015, primarily through content marketing.  We're looking for someone who can meaningfully increase this growth rate.If you're burnt out doing work that doesn't feel like it has a direct impact, you have a passion for data science, or you want to peek inside a profitable bootstrapped company, this role could be a good fit.Please email vik@dataquest.io if you're interested.
+                      
+                  
+      Thorn | San Francisco or Remote (US based) | Full-time | $100k - $150k | Software EngineerThorn is a non-profit focused on building technology to defend children from sexual abuse. Working at Thorn gives you the opportunity to apply your skills, expertise and passions to directly impact the lives of vulnerable and abused children. Our staff tackles dynamic, quickly evolving problems with our network of partners from tech companies, NGOâ€™s and law enforcement agencies. If you are able to bring clarity to complexity and lightness to heavy problems, you might be a great fit for our team.You will work on our dark web investigation tool, as well as a variety of other projects. Examples of projects include our Child Finder Service, in which we apply computer vision to find missing children, and our Industry Toolkit, which will be used to clean online communities of child abuse. You will also participate in broad exploration to fight child abuse and trafficking. The work spans engineering and data science topics from security to artificial intelligence â€” including adaptive crawling, statistical analysis, search, machine learning (NLP, computer vision, sentiment analysis), data pipeline development, and UX design.Requirements:- Professional software development experience- Adept at quickly learning new technologies- Experience implementing, testing, and deploying code to production- Skilled at rapidly prototyping applications- Ability to collaboratively solve problems with internal and external stakeholders- Clear, efficient, and eloquent communicator â€” we are a distributed team, so written communication is crucial, from Slack to pull requestsâ€¨Apply today! http://grnh.se/mdial42For more general information about Thorn, see https://www.wearethorn.org/
+                      
+                  
+      Shopify | Developers and Designers! | Toronto, Ottawa, Montreal, Waterloo | FULL-TIME ONSITE VISA| http://shopify.comShopify is a platform that allows entrepreneurs to easily setup an online store. Our products help merchants who are just starting as well as established brands that need a solution that can scale with their traffic.For devs: Shopify is built in Ruby on Rails running on a stack composed of Docker, Golang, Mysql and Redis. Our data infrastructure uses Kafka, HDFS, Zookeeper and we use PySpark and Sklearn for our data modeling and machine learning tasks.For design: Our design teams are always growing, weâ€™re improving the UX of commerce for merchants all over the world. We built Polaris, our design system which helps us build consistent experiences for all merchants.If you're interested in building tools that empower Entrepreneurs come take a look at who we are and what we're doing:- blogs: https://engineering.shopify.com/, https://ux.shopify.com/
+- job postings: https://jobs.lever.co/shopify?lever-via=1_PEVU3ujnOur interview process isnâ€™t super high pressure, and I think weâ€™ve done a good job so far extending culture and finding good hires. Iâ€™d suggest applying even if you arenâ€™t a perfect fit - I was in an weird university situation but was still taken seriously. Cool projects are always a good talking point. Good luck :)
+                      
+                  
+      Is Shopify hiring for PMs overseas? Please let me know your email address for product conversations
+                      
+                  
+      Wepow | Guadalajara, MEXICO | ONSITE | VISA SPONSORSHIP | Full-time | Senior | Engineering | 420K MXN - 780K MXN + OptionsWho we are?Today, Wepow helps hundreds of major brands worldwide; including adidas, Heineken, FOX, Walmart, make their recruitment process more effective through our asynchronous and live video interviewing platform. Backed by top Silicon Valley investors we believe in bringing the recruitment process to the video and mobile age on a global scale.Why Wepow?Weâ€™re a distributed company, our Engineering team is located in Guadalajara where we define and build our products. Weâ€™ve already surpassed the product-market fit phase and weâ€™re growing, so you will have the chance to make an impact on how we define and scale our products. Weâ€™re currently working on a new project that is already validated, we created an MVP and are pushing it forward to beta, so you will have the chance to work on this new product and collaborate with our product team to bring it to life and delight our customers.LanguageEnglish works for the work environment, however, you might learn the basics of Spanish so you can communicate outside the office.PositionsFront-end Senior Engineer, see more details and apply:
+https://jobs.smartrecruiters.com/Wepow/743999663150756-softw...Back-end Senior Engineer, see more details and apply:
+https://jobs.smartrecruiters.com/Wepow/743999658917542-softw...
+                      
+                  
+      Top Hat | https://tophat.com/work-with-us/ | Toronto, ON, Canada | ONSITE Full-timeâ€¨We are looking for software engineers to join our team. We are hiring a DevOps Engineer, Data Engineer, and a Full-stack Web Developer (Python, Django, Javascript, React.js/Flux, AWS, Ansible; recently weâ€™ve been practicing Continuous Deployment on Lambda). Salary range based on experience from $80K to $120K.Weâ€™re a pretty awesome growth-stage startup in the education space - we make the classroom more interactive, fun and engaging for both students and professors.Top Hat helps professors make every lecture count by transforming mobile devices into powerful engagement tools, inside and outside the classroom. Recently, Top Hat has been building out interactive textbooks and creating a way for professors to collaborate on authoring new content and sharing it through our marketplace. In summary, we have a great dev culture and some really cool problems to work on!Apply here: 
+https://jobs.lever.co/tophat/?lever-origin=applied&lever-sou...Weâ€™re also running a Hack && Tell community event on March 6th focused on female-led projects for IWD â€”come see some cool tech demos and say hi!
+https://www.meetup.com/Toronto-Hack-and-Tell/events/24731331...
+                      
+                  
+      I TA'd for a course in grad school that used your product.I was very impressed with the quality!
+                      
+                  
+      ZenMate | Berlin | ONSITE | VISA | â‚¬50k - â‚¬80k depending on a roleAt ZenMate, we strive towards making the internet a more secure and private place with our VPN solution. With over 42 million downloads and clients available for all major platforms, we continue to develop products which improve user experience on the web1) DevOps Automation Engineer (m/f) | ONSITE | VISA | â‚¬50k - â‚¬65k job description: https://zenmate.com/jobs/#DevOps-Automation-Engineer-mf-85352) Client Developer (m/f) | ONSITE | VISA | â‚¬50k - â‚¬70k job description: https://zenmate.com/jobs/#Client-Developer-mf-293053) Sr. Backend Engineer (Ruby) (m/f) | ONSITE | VISA | â‚¬60k - â‚¬80k job description: https://zenmate.com/jobs/#Sr-Backend-Engineer-Ruby-mf-19096Please apply with a links above :)If you have any questions you can email me directly, my address is in my profile.
+                      
+                  
+      why are you trying to serve ads on your company website? It is trying to connect 12 different domains and run 20 javascripts. Not a good impression for a company IMHO.
+                      
+                  
+      Pornhub | Adult content | Montreal QC | On-siteCome work at the 15th highest trafficked website in the world. We are looking for:-Product Marketing Manager-Senior PHP developers-Visual Designer-Front-end Developer-Product Manager-Project manager or product owner with blockchain experience for a top secret projectMust be willing to relocate to Montreal. Email me your CV: jobs@pornhub.com and please mention you saw the post on HN. More info on pornhub.com/jobs.
+                      
+                  
+      Zulip | https://zulipchat.com/ | REMOTE or in person | Frontend Engineer | Full-time | SFZulip is the leading open source alternative to Slack. Our users love Zulip because of our unique UX with threaded conversations; compared to Slack or its clones, they find discussions in Zulip more productive.We are a small startup based in SF, plus an enormous open source contributor community. The entire product is open source; we make money selling hosting and commercial support for on-site deployments.This is an open-source job: all our code is open source and free software. We do our development in the open on GitHub and our own public Zulip instance at chat.zulip.org, and dozens of people contribute code every week from all around the world. You can be anywhere in the world too.We're looking for an experienced front-end engineer. The ideal candidate has full-stack engineering skills, is experienced at participating in open source communities, has great design sense, gets stuff done, and (if not in SF) has done frontend work remotely before.Email us at jobs/at/zulipchat/dot/com.
+                      
+                  
+      ReferWell | node.js contractor - 8-12 weeks | New York, NY / Upstate SC | REMOTE OK (US only), Contract | $50-$60 /hourReferWell ( https://www.referwell.com/ ) is delivering better outcomes for patients and better referrals for specialist and primary care doctors in the US.Our main office is in Manhattan, and we have a developer presence near Spartanburg, SC, where we intend to set up a dev-focused office later this year.The immediate need is for a contractor to assist in building out a hypermedia API for an ongoing partner integration.  The services making up this API run on a stack using docker, mysql, redis, and node.js.  The core need is for someone who is comfortable writing in a modern JS style (async/await, unit and bdt, etc), who avoids slow and unsafe patterns with SQL, and who has some experience with docker, ssh, git, and so forth.Familiarity with any of JSON Hypermedia, OAuth2, AWS administration, microservices, Ansible, Consul, or Jenkins is a plus.The contract is expected to last 8-12 calendar weeks, though number of hours for each week may vary.  We plan to get started in February, so the decision process should be short.As mentioned, we will be setting up a physical office in SC in 2018; for a developer located in the Upstate, this contract could lead into a FT position.Please use careers.dev@referwell.com to ask questions or send your details for consideration.
+                      
+                  
+      Occipital (Computer Vision) | Full-time | ONSITE | Boulder,CO & San Francisco, CAAt Occipital, weâ€™re working on spatial computing - using computer vision to 3D reconstruct and understand your surroundings so that software can operate over real world spaces. We believe it will power the next generation of augmented reality and some of the key parts of virtual reality as well. https://occipital.com/home* Junior Customer Experience Specialist (Boulder, CO) | $30-50K* Mobile Computer Vision Engineer (San Francisco, CA or Boulder, CO)* iOS Engineer (San Francisco, CA or Boulder, CO)* Platform Software Engineer - Mixed Reality (San Francisco, CA)* Platform Software Engineer (San Francisco, CA or Boulder, CO)* Sales Director - Structure Core (San Francisco, CA or Boulder, CO)* Accuracy & Test Engineer (San Francisco, CA or Boulder, CO)* Embedded Systems Intern (Boulder, CO)* Firmware Engineer Intern (Boulder, CO)For detailed information check out https://occipital.com/jobsIf you apply please mention that you saw this post in Hacker News. Thanks!
+                      
+                  
+      Finix | Software Engineer | San Francisco, CA | Onsite | Full-Time | $100k - $150kFinix builds, manages and sells a payments processing platform (http://developers.finixpayments.com) to banks and other financial institutions. Our stack is mainly Java and Postgres on AWS. We have a few services in Haskell. We are the first seed-stage company that Visa has invested in.Looking to hire 2 to 3 highly effective engineers who want to work on a state-of-the-art technology platform pushing the future of payments and banking software, and want to have agency over their day-to-day work. Beneficial to understand the payments domain and have experience delivering SLAs of 4 nines (99.99%).Reach us at this base64-encoded email address: cGF0cmljaytobkBmaW5peHBheW1lbnRzLmNvbQ==
+                      
+                  
+      Sorry that you had to click on dodgy sites to figure this out. Another way to do it is to open a terminal and type    $ python
+    > 'eW91ciB0ZXh0'.decode('base64')
+
+PS: youâ€™ll need to import base64 with python3
+                      
+                  
+      Or simply type in a shell:  $ echo -n eW91ciB0ZXh0 | base64 -d
+                      
+                  
+      You could easily do this in your browser console:
+atob('cGF0cmljaytobkBmaW5peHBheW1lbnRzLmNvbQ==');
+                      
+                  
+      Experienced Go backend developer $90-$120/hr ($14.4-19.2K/mo) FULLY REMOTE full-time contract (US and Canada only)This is a contract position good for at least 5 months, but most likely a year or longer. Youâ€™ll be working 40 hours a week for Victorias Secret doing Go microservices. You should be willing to be onsite for the first two weeks (expenses paid), after that this is a fully remote contract. Remote work experience is a plus. You need to be self-motivated and able to work with minimal supervision.Email dan@closetothemetal.com with an answer to: what is the purpose of this line of code? var _ io.Writer = (*myStreamStruct)(nil)Include your resume and your github if possible.
+                      
+                  
+      The Farmer's Dog | Software Engineer | New York, NY | ONSITE, SALARY:100-140k, https://www.thefarmersdog.com/The Farmerâ€™s Dog is a VC backed (we just raised $8.1m Series A from Shasta Ventures) direct-to-consumer pet health brand on a mission to disrupt the $60 Billion pet food industry. Our products are human-quality, personalised and manufactured on demand.Even though we don't sound like a typical tech company we take pride in software development. Weâ€™re building a subscription based e-commerce business from the ground up and have plenty of interesting problems to solve. Our aim is to offer a seamless subscription experience through on-time production, customised products and best in class customer support. We have CI and CD processes in place, and make use of docker-based microservices via Iron.io. We have plenty of challenges to tackle from building node APIs to bin-packing problems to optimising fulfillment operations.We're looking for a mid/senior Software Engineer who's comfortable writing backend code and dealing with docker and aws. Our stack is react (and redux), node, postgres, docker and aws. If this sounds like you reach out at info+hn@thefarmersdog.com
+                      
+                  
+      Alloy | San Francisco, Vancouver BC, or Berlin | Full-time, Onsite | https://alloy.aiAlloy is a supply chain platform that connects manufacturers, suppliers, distributors, and retailers, giving businesses end-to-end visibility with fast and actionable insights, across the entire organization. With Alloy, brands can track products down to the store shelf, optimize purchase orders to prevent out of stocks, and respond quickly to consumer demand. Manufacturing is alerted when inventory of a raw material falls below target at any facility, or when downstream demand exceeds forecast. Fulfillment teams can track shipments and lead times to improve service levels. Alloy continuously makes recommendations so that the right products are in the right places, at the right time.Engineers at Alloy are tasked with solving the interesting and difficult problems that supply chain data presents, while making it all seem simple and easy to the user. Whether you enjoy building data pipelines that process billions of data points per day, digging into the math of forecasting and replenishment models, or creating intuitive frontend apps, there is no shortage challenging and rewarding things to work on.Our stack: Google Cloud Platform, Postgres, Redis, Python, modern Java, React.We have rapidly growing revenue and large contracts from some of the worldâ€™s most recognisable brands. HQ is in SF, with small outposts in Vancouver and Berlin. Weâ€™re hiring engineers at all levels (and also for sales and customer success) - if the problem sounds interesting, Iâ€™d love to tell you more. evan@alloy.ai
+                      
+                  
+      CareGuide | Toronto, ON | Onsite | https://careguide.com | CAD$70-120 + equityCareGuide matches families with high-quality care providers through a portfolio of websites, including Sitter.com, ElderCare.com, PetSitter.com, Housekeeper.com, CanadianNanny.ca, and HouseSitter.com.To learn more about who we are, our engineering culture, and whether this is the right place for you, read our Key Values profile: https://www.keyvalues.com/careguideHere are our open roles:- All Jobs at CareGuide: https://angel.co/careguide- Software Engineer: https://angel.co/careguide/jobs/35665-software-engineer- Software Engineer, Growth: https://angel.co/careguide/jobs/139527-software-engineer-gro...Tech Stack: Ruby 2.4+, Rails 4.2+, Rspec, React, Jest ES6+, Babel, NodeJS 8+, GraphQL PostgreSQL, MySQL, Redis, AWS, RedShift, Periscope
+                      
+                  
+      Elastic | Sr. UI Engineer, Sr. JavaScript Engineer, Anywhere (aka REMOTE)We're the company behind Elasticsearch, Kibana, Logstash, and Beats. We have positions open for all of these products [1] but this post focuses on roles for Kibana.We're looking for experienced UI engineers to help us build and maintain our React+Sass UI framework (elastic.github.io/eui/), and JavaScripts engineers to help us build Kibana, a data visualization and dashboarding platform. Check out the links for more details.Sr. UI engineer: https://www.elastic.co/about/careers/engineering/jobs/825257Sr. JavaScript engineer: https://www.elastic.co/about/careers/engineering/jobs/593004GIS UI engineer: https://www.elastic.co/about/careers/engineering/jobs/972336JavaScript Security engineer: https://www.elastic.co/about/careers/engineering/jobs/937336[1] https://www.elastic.co/about/careers
+                      
+                  
+      Replicated | QA Automation Engineer | $100k - $130k + equity | Los Angeles | https://www.replicated.comReplicated is modernizing the deployment framework for enterprise applications. We are looking for entry-level engineers eager to work to lead the automation of our testing, especially focused on our installable product. We've had a lot of success finding candidates through Hacker News so hoping to find people interested in this role.The QA Automation Engineer will continue to build upon our test automation processes to ensure the quality of our cloud based and on premise products and help make our development process as effective as possible. We are looking for someone with knowledge of automation tools like Selenium WebDriver and a passion for building automated systems to join our engineering team. Our tech stack is on the bleeding edge so we donâ€™t expect you to know everything, but a willingness to learn and adapt is definitely a key quality for this role.In this role you'll be:
+- Writing automated tests targeting a wide variety of environments
+- Developing effective testing plans and performing some manual tests
+- Implementing best practices to integrate QA into our development processIn this role you'll work with a wide rage of tech like: Docker, Kubernetes, Linux, Ansible, AWS and Google Cloud Platform, MySQL, Selenium WebDriver, Golang and more. Again, we don't expect someone coming into the role to have experience with everything, but would like someone that is excited to learn!
+This role will be exclusively onsite in Los Angeles.If you are interested please email austin (at) replicated (dot) com
+                      
+                  
+      Polly | Seattle | Full-stack Dev, Technical PM | Full-time |  $110-150k + equity | ONSITEPolly is a venture backed startup (with investors like Slack, SV Angel, Amplify Partners and others) that is taking a consumer like approach to enterprise surveys. We deliver our solution exclusively in messaging (Slack) and currently support thousands of companies. Weâ€™re a small team (11 employees) with great traction in an emerging space, so thereâ€™s the opportunity to come in and have tremendous impact on the product, the culture, the company, and the space itself. Our stack is Node, Typescript, Meteor, AWS.Full-stack dev:  * At least 5 years of professional experience shipping software to customers
+  * Strong knowledge of web-based technologies (with a preference of Node/JS/Typescript)
+  * Ability to go up and down the stack
+  * Willingness to mentor junior members of the team
+
+We're also looking for a Dev / Product Manager hybrid:  * Strong organizational skills
+  * Great product sense
+  * At least 3 years of experience as a professional developer
+
+We also offer medical, dental, vision, maternity leave, and more!Apply at samird@polly.ai and reference HN.
+                      
+                  
+      Please edit your post to remove the word `rem0te`. Your `| ONSITE` in the title is sufficient, and extraneous use of the word makes the page useless for people with their browser's find function.
+                      
+                  
+      good point - just trying to avoid the million recruiting agencies that email us after posting. Updated posting.
+                      
+                  
+      London (Soho) | Senior Backend Engineer | Onsite | Full-time | Â£75k+, bonus, equityCognitionX (https://cognitionx.com) is building a community and platform to bring clarity to the world of AI. Last year, our â€œfestival of all things AIâ€� in London (http://cogx.co) attracted more than 1,300 delegates, and itâ€™s going to be even bigger this year!Our web-based knowledge platform provides a wealth of data on thousands of AI-related companies, products, events, and people. It connects our clients with a comprehensive AI knowledge base, with our expert network of AI leaders, and provides a rich set of tools for making sense of the AI landscape.We are looking for senior backend engineers with strong experience building modern web apps using Python and Django.We use GitHub, code reviews, Heroku, and Amazon RDS so that we can rapidly iterate and stay focussed on what matters. Weâ€™ve worked hard to keep our processes and management structure as lightweight as possible.You should have:    - Strong knowledge of Python and its ecosystem
+    - Track record of delivering Django web apps
+    - Experience designing and building RESTful APIs
+    - A good knowledge of git (or mercurial)
+
+It would be great if you also had:    - Frontend development skills, including JS and React
+    - Operations/DevOps experience
+    - Understanding of AI/ML techniques
+
+And if you've published or contributed to any open-source software, then tell us about it!Email us at jobs@cognitionx.io
+                      
+                  
+      Churchill Navigation | Multiple Positions | ONSITE in Boulder, CO | $90k - $130K + equityChurchill Navigation builds best-in-class augmented reality solutions for airborne video systems. We are profitable, customer focused, and have an excellent team of talented software, mechanical, and electrical engineers.Looking for:- Sr Web Engineer: lead the team building Earthscape, our web video management system - https://public.earthscape.com/- Software Engineer, C++: join the ION team, our do-everything mission equipment interface computer- Software Engineer, Tools: maintain and extend our internal suite of tools for processing GIS vector, terrain, and imagery dataEmail us at jobs@churchillnavigation.comhttps://churchillnavigation.com/
+                      
+                  
+      RiskIdent|Scala Developer|Visa, Onsite|Hamburg, Germany|Relocation|50-75K EURRisk.Ident is a software product development organization that offers anti-fraud product suite to companies within the e-commerce, telecommunications, and financial sectors.Some of the technologies we use: Scala, Python, ML, JavaScript, Postgres, Ansible, MongoDB, Elasticsearch, Kafka. We have openings across our engineering teams.Apply at https://riskident.com/en/jobs/ or email me directly.
+                      
+                  
+      All your job applications require that that the applicant must state their salary demands. It seems like you're just data mining for salaries. This is very atypical, most companies wait at least until the interview and would stop me ever applying. I don't really see what you've got to gain by it.
+                      
+                  
+      Well, I think you are mistaken. Including salary range was one addition we came up with recently because,1. We had a couple of candidates who did well in the interview, but finally, when it came to salary negotiation, they were asking much more than what members of the current team were getting. That was justifiable because they had offers from some other countries where developer salaries are better.2. We received better applications because overall we are offering above market rate.But hey, if you would like to keep salary open you may mention that, and I don't think your candidature would be rejected. At least that was what I did when I joined 2 years ago.
+                      
+                  
+      In Germany, it is fairly typical to demand this up-front.However, it's also often OK to apply at these jobs without stating salary demands right away.
+                      
+                  
+      Ah, ok, it could just be a cultural thing that I'm missing. I hadn't seen it on any other German job applications though.
+                      
+                  
+      Segment | Engineering | San Francisco, CA or Vancouver, BC | Full-Time | Onsite
+Segment is building the analytics routing layer for the world. We transform data into over 150 different services, adding new ones every day. We're processing billions of events each month, and maintaining the analytics infrastructure for companies like DigitalOcean, Atlassian, New Relic, and Docker. Our goal is to help companies learn from how their users interact with the products to build even better products. We also like to share our work and what we learn, here are some recent examples:  - https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
+
+  - https://segment.com/blog/exactly-once-delivery/
+
+  - https://segment.com/blog/bob-loblaws-log-blog/
+
+  - https://segment.com/blog/a-brief-history-of-the-uuid/
+  
+  - https://segment.com/blog/5-advanced-testing-techniques-in-go/
+
+  - https://open.segment.com
+If any of this sounds interesting, we'd love to hear from you! Check out our open positions at https://segment.com/engineering#jobs If you have questions, feel free to reach out to me directly alan .at. segment.com (but please do apply on the site).
+                      
+                  
+      RainforestQA (YC12) | Data Scientists, Software Engineers, Ops, other roles | San Francisco + the world | REMOTE | Full-Time
+We're hiring Data Scientists, Software Engineers, and Ops people, among other roles, to change the way software companies do Quality Assurance.https://www.rainforestqa.com/careers/We have plenty of interesting technical challenges and we care a lot about company culture (you can see our CEO talk about it here https://lattice.com/resources-for-humans/fred-stevens-smith-...). We've been remote-first on the engineering side since the early days and most of our engineers are distributed all over the world including the Americas, Europe, Asia and Africa. We fly everyone to SF for face-to-face meetings a couple of times per year.We're working with a bunch of cool tech from fraud detection, plain-old Random Forests, to using CNNs to visually understand websites, to managing thousands of testers using thousands of freshly-provisioned VMs, to provisioning real mobile devices for app testing. You can see a short talk I gave about one of our older projects here: https://www.youtube.com/watch?v=7_h8PElXio8.I'd be happy to answer any questions you might have :)
+                      
+                  
+      Outreach | Software Engineers, Data Scientists, Machine Learning Engineers | Seattle | ONSITEI lead the voice integration team on Outreach.  We're hiring and several of our other front-end, back-end and data teams are as well.  Primary tech stack is React + Ruby on Rails (may be moving some into Elixer soon).  Data team uses Python.Outreach is a sales engagement platform.  Both the company and the engineering team are growing rapidly.  The engineering org is split into small teams of 3-6, with really diverse backgrounds and a culture of collaboration and learning.Individual projects each have their own challenges to work through.  For my team a lot of them arise from the many possible points of failure in executing a call, several of which are external to our platform.  We have to get creative to ensure we can provide a solid customer experience under those constraints.Looking for mid-level and senior engineers, with strong sense of ownership, dedication to great customer experience, and desire to collaborate.Unlimited vacation and sick days, competitive salary, excellent parental leave policy, healthy work-life balance, free snacks, etc. Feel free to either reach out directly or apply on the website: seth.johnson@outreach.io || https://www.outreach.io/company/careers/
+                      
+                  
+      It seems when you apply for the Backend Software Engineer position you get a notification thanking you "for applying for the Senior Backend Software Engineer position". This misled me to apply for the same position right after getting rejected.
+                      
+                  
+      ACLU -- National HQ, NYC | (remote is fine for eng positions)+ Director of Data â€” Establish our Data Science & Analytics team, leading building out data-driven strategies for all of the ACLUâ€™s efforts+ Fullstack Engineer â€” Development for advocacy, mobilization, fundraising and education digital products+ Product Designer â€” UX & UI design for new constituent-facing digital products+ Data Analyst, Digital â€” Analyst driving strategy for all of ACLUâ€™s digital efforts (website, online fundraising, email, social, etc)+ Salesforce Technical Product Manager â€” Own, drive, improve the ACLUâ€™s Salesforce roadmap+ Salesforce Developer â€” Lead development on SalesforceAll jobs listed here: https://www.aclu.org/careers?office=26
+                      
+                  
+      Is sponsorship available for Salesforce Dev role? I have ~3 yrs full stack exp in SFDC dev, few certs & Master's in Computer Science from ASU.
+                      
+                  
+      PagerDuty | San Francisco, Toronto, RemotePagerDuty is reliable Digital Operations Management for over 10,000 organizations. We are helping Engineers and other professionals resolve problems with their IT systems as quickly as possible. We're backed by some of the Valleyâ€™s best investors, including Y Combinator, Andreessen Horowitz, Bessemer Venture Partners, Accel Partners, Baseline Ventures, and Harrison Metal. We're based in San Francisco with offices in Seattle, Toronto, Sydney, and London. PagerDuty is used by thousands of customers globally, from Fortune 500 companies to startups.We're hiring for a number of roles:Principal Engineer, APIs and Developer Platforms
+San Francisco, Remote
+https://www.pagerduty.com/careers/jobs/?jobid=a0K37000004dII...Senior Software Engineer
+San Francisco, Toronto, Remote
+https://www.pagerduty.com/careers/jobs/?jobid=a0K3700000972s...Senior Database Engineer
+Toronto
+https://www.pagerduty.com/careers/jobs/?jobid=a0K37000008p93...Senior Android Engineer
+San Francisco
+https://www.pagerduty.com/careers/jobs/?jobid=a0K37000009GHs...Application Security Engineer
+San Francisco
+https://www.pagerduty.com/careers/jobs/?jobid=a0K37000008hoH...
+                      
+                  
+      2 more roles added for Toronto:Engineering Manager
+Toronto
+https://www.pagerduty.com/careers/jobs/?jobid=a0K37000008ajy...Senior Software Engineer
+Toronto
+https://www.pagerduty.com/careers/jobs/?jobid=a0K370000073FA...
+                      
+                  
+      Plectica | Onsite or Remote | NYC | Senior Frontend Engineer, Senior Full-StackWe are building a set of tools to enable building and sharing mental models, a more efficient way to organize and share information than traditional tools like written documents and powerpoint presentations. Underpinning this effort is a theory in Systems Thinking called DSRP, the work of our academic partners at Cornell, who have spent the last decade studying how people understand and communicate about complex systems. These tools could be used to map any topic, from historical events, to components of a legal case, to how a combustion engine works, etc. We sometimes think of this as "Google Maps for information".Come help us work through a bunch of fun/hard technical challenges: building interactive data visualizations, facilitating real-time collaboration, large-scale text understanding, searching a distributed knowledge base.Our tech stack includes bespoke JavaScript, SVG, [S]CSS, Riot.js and some off-the-shelf helper libraries for interactive map building and visualization (but in our hearts we're framework agnostic); Redis / Node.js / WebSockets for real-time collaboration; MySQL for a source of truth; and some other tools and services around text-understanding and image processing in Python.We really want to find the right person for this, and will compensate accordingly.Check us out at https://plectica.com, and if you're interested send us a note at jobs@plectica.com, or email me directly (doug at lastofthe.org)
+                      
+                  
+      Caper (YC W16) | Head of Machine Learning | $100k - $150k + equity + benefits | Fulltime | ONSITE in New York | CaperLab.comCaper Labs (Y-Combinator W16, www.caperlab.com), focuses on compacting Amazon-Go's technology (image recognition, sensor fusion and AI) into a smart shopping cart, allowing each shopper to toss their groceries into our smart cart and self-checkout. Help us transform physical retail!What we want:
+- Lead Computer Vision and Deep Learning development, architecture design and implementation.
+- Design and implement custom computer vision algorithms and architectures.
+- Collaborate with hardware team to better apply CV and DL technologies into embedded system.About you:
+- MS/PhD degree in Computer Science, Math, related technical field or equivalent practical experience.
+- One year of CV and DL experience or equivalent and built at least one CV/DL system before.
+- Familiar with CV and DL fundamentals like feature extraction, convolutional neural network, supervised machine learning, transfer learning etc.
+- Familiar with one of the the DL frameworks and tools like Tensorflow, Keras, Caffe etc. + OpenCV.
+- Understand GPU and CUDA.
+- Share our vision!Lets chat or grab a coffee! Drop us a line at jobs@caperlab.com and we will take it from there.
+                      
+                  
+      O(1) Labs | Engineer | San Francisco | On-Site | Full TimeO(1) Labs (o1labs.org) is a small startup aiming to develop the first cryptocurrency protocol that can deliver on the promise of supporting real-world applications and widespread use. Our team is based in San Francisco and we are well-funded by top investors in the space.Cryptocurrency is a domain where correctness really counts. As such, we focus on building reliable software through the use of statically-typed functional programming languages. This is reflected in our OCaml codebase and style of structuring code around DSLs, as well as in the design of the smart-contracts platform we're developing.There is no need to have prior experience in cryptography, and we're hiring engineers to work on a bunch of exciting projects including:* Our OCaml DSL for writing zk-SNARKs (a cryptographic primitive for certified computation).* The design of a virtual machine and higher-level languages for smart contracts (there a lot of interesting challenges here since the VM has to be efficient inside SNARKs).* Working on the core networking, cryptography, and reliability aspects of the protocol.This is a chance to join a small, collaborative team and have a ton of independence while working on fascinating cross-disciplinary problems in computing. We also offer competitive compensation both in salary and equity as well as top-of-the-market benefits.Please get in touch by sending an email with your resume and the subject "Engineer applicant" to jobs@o1labs.org (I'm the CTO and will read/respond personally.)
+                      
+                  
+      P.S. Haskell, Scala, Elm, etc programmers welcome!
+                      
+                  
+      Berlin Phil | Frontend Engineer | Berlin, DE | Onsite | Full TimeThe Digital Concert Hall (digitalconcerthall.com) is the leading international, multi-platform video streaming platform for classical music concerts and has helped shaping the radical changes in music consumption as befits the reputation of the Berliner Philharmoniker.Join us to build the next version of our service using: React.js with Redux.js, Webpack with Babel and JavaScript in ES6. The apps are backed by a powerful REST API.â€¨ We take unit- and integration test of our code seriously and automate processes as much as possible.Join us if you're interested to work on a truly global product with great content and a very dedicated user base.development@digitalconcerthall.com | https://apps.digitalconcerthall.com/jobs/frontend_at_bphm.pd...
+                      
+                  
+      CompilerWorks | San Francisco Bay Area | Full-time, REMOTE| $100k-$220k driven by your productivity. We are currently a team of 8 across 6 countries, 3 continents.http://www.compilerworks.com/job.html (experienced Java devs only)CompilerWorks is a bespoke compiler company, with our core product centered around compiling one dialect of SQL to execute on a different backend - e.g. would you like to run Oracle PL/SQL on a Postgre database? You can with CompilerWorks. With this core capability our compilers are being deployed to do a lot more than simply transpile code.We are driven to solve interesting engineering problems where compilers are useful. We have found many interesting applications in the world of databases/datawarehouses and "big data."Let us know if you are interested info {at} compilerworks.com
+                      
+                  
+      postgreS
+                      
+                  
+      A tip of the hat ........ PostgreSQL
+                      
+                  
+      https://en.wikipedia.org/wiki/PostgreSQL#Name says the original name was POSTGRES, Postgres is commonly used, and it was considered to change the official name to Postgres. It does not mention "Postgre" being used at all.
+                      
+                  
+      AdRoll | San Francisco | On-site/remote | Full-timeIf you like developing open-source code, languages such as Python, Go, JS, C, D, Lua, Erlang, AWS, petabytes of data, and distributed low-latency systems, this may be your dream job.This time we are particularly interested in finding full stack web developers with good JavaScript experience and experienced developers, tech leads and data scientists with great math knowledge and coding skills. This is a really unique opportunity to get to work with a massive scale (thousands of instances on AWS), low latency (real-time bidding with 100ms max latency and 70B requests daily, real-time machine learning with 1ms max latency), mission-critical systems (this is how we make money) and enjoy working on a strong frontend development team (http://tech.adroll.com/blog/frontend/2017/08/29/how-to-run-a...).Learn more about us here http://tech.adroll.com/blog/I am happy to tell you more over coffee in SF or by email, dialtone@adroll.com
+                      
+                  
+      Looks like that link got cut off, likely copied from a prior post. The following link should resolve: http://tech.adroll.com/blog/frontend/2017/08/29/how-to-run-a...
+                      
+                  
+      CompilerWorks | San Francisco Bay Area | Full-time, remote | $100k-$220k driven by your productivity. We are currently a team of 8 across 6 countries, 3 continents.http://www.compilerworks.com/job.html (experienced Java devs only)CompilerWorks is a bespoke compiler company, with our core product centered around compiling one dialect of SQL to execute on a different backend - e.g. would you like to run Oracle PL/SQL on a Postgre database? You can with CompilerWorks. With this core capability our compilers are being deployed to do a lot more than simply transpile code.We are driven to solve interesting engineering problems where compilers are useful. We have found many interesting applications in the world of databases/datawarehouses and "big data."Let us know if you are interested info {at} compilerworks.com
+                      
+                  
+      Reddit | Senior Rust Engineer | San Francisco, CA | ONSITE, FULL-TIMEWe are porting Reddit-flavored Markdown parser from C to Rust and need someone to lead this project. This project will impact millions of users and pages. You should be comfortable in Rust, compilers / programming languages, and be willing to teach Rust to others.The C version is open sourced here: https://github.com/reddit/snudownThe Rust-specific job is not listed but the closest description is here: https://boards.greenhouse.io/reddit/jobs/655395Please do not apply through the previous link because we need to route applicants to the specific team. Please email me your resume or any questions: w at reddit.com
+                      
+                  
+      You need someone to lead this?  It sounds like a couple of month job for one developer not a team effort.
+                      
+                  
+      Game Closure | Engineer | SALARY: $100k - 150k | San Francisco Bay area (SF) | Tokyo, Japan | Eugene, Oregon | VISA REMOTEGame Closure is behind Everwing, the top game on Facebookâ€™s Instant Games platform. In parallel, weâ€™ve built the worldâ€™s most advanced javascript game engine for messenger games. Weâ€™ve raised more than $30M, and we have more than a million users per engineer at the company.Our technologies and games have already been in front of many tens of millions of users, and weâ€™re adding millions of new users monthly.The Game Closure team is growing very rapidly. We need senior engineers for game development and game engine technology roles. These are high leverage senior positions. Remote workers are welcome. Our teams are already highly distributed because weâ€™re looking to build the best engineering team in the world.Outside of our games, we have projects for hosted real-time multiplayer gaming, social gaming, cross-compilation to native platforms, React integration, and many other core infrastructure tools that we would welcome your support on defining and creating.Please email linda@gameclosure.comSubject: Game Closure Core Engineer: YOUR NAME HEREPlease include a personal note about your background and interests so we can prioritize your application!Best,
+Ben
+                      
+                  
+      Beware of these folks. When I interviewed (when they posted a remote job here before) they told me after wasting a bunch of time that they aren't actually looking for remote devs. It's not clear why they keep posting remote listings here.They also seem not to be called "Game Closure" anymore. They changed to "Weeby" and then "BlackStorm". Previous discussion here: https://news.ycombinator.com/item?id=14485509I'm really curious what they are up to.
+                      
+                  
+      Thanks for the heads up. I too see something fishy going on.
+                      
+                  
+      Be careful when dealing with this company. They have rebranded themselves many times. I have a personal negative experience with them, and seems many others do as well. I interviewed on site, and via Skype. They seem like a decent company on the surface, but in action, appear completely disorganized.I'm really curious about what's really going on there.
+                      
+                  
+      Hi - do you consider non-US remote candidates?
+                      
+                  
+      "Your message wasn't delivered to linda@gameclosure.com because the address couldn't be found, or is unable to receive mail."Are there other contact points?
+                      
+                  
+      Voltaiq | Battery Analytics | SF Bay Area | Brooklyn, NY | Multiple Positions: $110k-$180k | Onsiteâ€œThe battery is the technology of our time.â€� -The Economist, January 16, 2016Voltaiq's cloud-based Battery Intelligence software platform brings unprecedented data analytics, visualization, and predictive capabilities to any company with a battery-powered business model. Top automakers, consumer electronics, and energy storage companies use Voltaiq to accelerate product development, improve performance, ensure safety and reliability, and secure financing for their products. Our high-powered team comprises PhD scientists, expert data professionals, and battery industry veterans, all passionate about enabling the global energy transition. Voltaiq has offices in Brooklyn, NY and Berkeley, CA, serving customers around the world.Positions:- DevOps: build and deployment automation on AWS cloud and others.- Data Engineer: data pipeline, data API and machine learning platform.- Data Scientist: data analysis and visualization, feature extraction and machine learning.- Backend / API Engineer: business logic, data models, and API.- Non-Developer jobs available as well: http://voltaiq.com/about-us#jobsCandidates should be:- Strong coders in one or more of: Python, Javascript, Java, C/C++, Go.- Experienced with Git, development on Linux, SQL and relational databases.- Degree holders in CS, Physics, Math, Engineering, or related.- Passionate about energy and solving hard science problems using data.- US Citizens.Our Stack- Frontend: AngularJS, SASS, Gulp, Jasmine, Selenium, Plotly, Vue.js.- Application: Django, Python, Pytest.- Data Engineering and Database: Java, Scala, Postgres, Elasticsearch.- Data Analysis/Visualization: Numpy, Pandas, Matplotlib, Plotly, Scikit-Learn, TensorFlow.- Deployment: AWS, Salt, Fabric, Nginx, uWSGI.Competitive salary plus equity and full benefits.Send a resume to jobs@voltaiq.com.Full job descriptions are on our website: http://voltaiq.com/about-us#jobsThanks, HN!
+                      
+                  
+      United States Digital Service | Senior Software Engineers, Senior Site Reliability Engineers, Senior Designers, and more! | Washington, DC | ONSITE https://www.usds.gov/
+The best of technology. The best of government. And we want you.We're looking for the most tenacious designers, software engineers, product managers, and more, who are committed to untangling, rewiring and redesigning critical government services. You'll join a team of the most talented technologists from across the private sector and government. No government resume required! We work on some of the biggest issues affecting the American people there are, immigration, veterans service, students, health care, and more. We're especially looking for talented senior engineers to join us to help shift move government tech in the right direction. See our most recent Report to Congress for examples of what you could be working on:https://www.usds.gov/report-to-congress/2017/07/https://medium.com/the-u-s-digital-service/the-u-s-digital-s...https://www.wired.com/2017/05/meet-nerds-coding-way-afghanis...Apply here:https://www.usds.gov/join
+                      
+                  
+      Ouch.  Drug testing, no relocation assistance, and the uncertainties of a Trump administration.  Coming from the Bay Area that seems like a tough sell.
+                      
+                  
+      Wow drug testing. Jesus.
+                      
+                  
+      Drop the drug testing and we can talk.
+                      
+                  
+      Hi there, do you have any role's or needs for data scientists?
+                      
+                  
+      There aren't explicit data scientist roles but there are engineering roles with a focus on data as needed by the agencies / projects. If you are interested in chatting more feel free to ping me or apply!
+                      
+                  
+      Agreed - always good to chat an keep in touch because even if USDS projects don't have immediate data science needs, we can definitely point people to other projects in the govt who are looking for help.
+                      
+                  
+      sure thing, where can I best message you?
+                      
+                  
+      usds@omb.eop.gov
+                      
+                  
+      Citymapper | Backend/iOS/Android Engineers | London, UK | ONSITE, VISA | https://citymapper.com/jobsCities are complicated. We use the power of mobile and open transport data to help humans survive and master them. We are building the best public transit app, one that caters for the needs of commuters. We are building a routing engine which is truly multimodal. We're running our own buses to fill gaps in the transit network. To power all of this, we're leveraging open data as well as building the tools necessary for agencies to add and fix data.Read our blog at https://medium.com/@CitymapperSee all our open positions at https://citymapper.com/jobsWe're hiring for Backend (Python, Go, C/C++, AWS), Frontend (Web, React, ES6) and iOS/Android engineers as well as Data Science.If you have any questions, feel free to drop me an email at suhail -at- citymapper -dot- com
+                      
+                  
+      Full Fact, building automated factchecking tools | London, UK | ONSITE | Full-time | Â£30-50kFront end developer (proficiency in react), to join team of 3.Full Fact is the UKâ€™s leading factchecking charity. You will be joining us on our mission to build scalable, robust, automated factchecking tools that can be used in newsrooms and globally by other factcheckers. You will be designing and building 2 flagship products. Job description: https://fullfact.org/about/jobs/front-end-developer/Deadline to apply 5th Feb.
+                      
+                  
+      Just so say we're keeping the applications open till we find the right person, so please apply even if it's past 5th Feb.
+                      
+                  
+      Discord | Senior Engineers | San Francisco | ONSITEDiscord is increasingly how gamers communicate. We grew from 45 million to 90 million users in the last 6 months. We have over 14 million daily active users and that number is growing every day. Discord is just 2.5 years old.We're hiring senior engineers pretty much across the board. Come solve interesting scaling problems and implement next generation features.https://discordapp.com/jobsTech: Elixir/Erlang, React, Javascript, Python, Go, C++, Cassandra, GCPEngineering blog: https://blog.discordapp.com/tagged/engineeringFeel free to message me directly at the email in my profile.
+                      
+                  
+      Contentful | https://www.contentful.com | Berlin, Germany | full time | (VISA)Contentful is Content Infrastructure for modern applications.It allows you to create, edit & manage content in the cloud and consume and distribute it anywhere via API.We raised our Series C lead by General Catalyst https://goo.gl/f8kQ3tWe have several positions open in Berlin, Germany or in SF USA https://www.contentful.com/careers/Join a rapidly growing developer-centric company with lots of amazing international customers. We count people like Adam Wiggins (Heroku) and Francesco Cesarini (Erlang Solutions) as our advisors.We are hiring for the following full-time positions:- Director of Engineering - Data (Berlin): http://grnh.se/0qywah1- Security Engineer (Berlin) - http://grnh.se/fg1ueb1- Full Stack JS developer (Berlin) - http://grnh.se/4p87le1- Group Product Manager (Berlin) - http://grnh.se/25mfo71- Ruby Engineer (Berlin) - http://grnh.se/k6v7o11- Team Administrator (Berlin) - http://grnh.se/phe8ky1
+                      
+                  
+      MailChimp (https://mailchimp.com/about/jobs/) | Atlanta Brooklyn Oakland | Full-Time (FT) & Internships (INTERNS)MailChimp is the worldâ€™s leading marketing automation platform, and we send more than a billion emails a day. We democratize technology for small businesses, creating innovative products that empower our customers to grow.I'm a Python / Go tooling engineer in Operations. I'm remote along with a handful of others. We've recently opened satellite offices in Brooklyn & Oakland.There are multiple job listings at https://mailchimp.com/about/jobs/ for all available positions / locations. To apply click on the job that best suits you and click on the button in the "Apply Now" box at the bottom of the posting.
+                      
+                  
+      NEURALINK | Software engineering | San Francisco, CA | Full-time | OnsiteNeuralink is a new neural engineering company founded by Elon Musk.Our goal is to develop brain-machine interfaces so useful and so safe that ordinary people will choose to get them like they get a smartphone. Neuralink's aim is to bring humans and machines closer so software forms a true extension of ourselves, rather than something separate we interact with slowly and awkwardly.We are hiring for a fairly diverse set of technical backgrounds. There is a ton of software to write ranging from firmware to surgical robotics control to an experiment management web app. Experience with C++ for robotics is especially desirable. Culturally, we place a premium on diligence, care and thoroughness rather than trying out every latest cool framework.If you are up for the challenge check out our website: https://neuralink.com
+                      
+                  
+      Remix | San Francisco, CA | Full-Time, Onsite | https://www.remix.comThe zip code youâ€™re born in continues to be one of the strongest predictors of your economic mobility. Our team aims to build a more equitable world by expanding access within it. Remix is the first platform for transit and city planning, helping 225+ cities around the world design transit networks quickly, confidently, and clearly.To learn more about who we are, our engineering culture, and whether this is the right place for you, read our Key Values profile: https://www.keyvalues.com/remixHere are our open roles:- Engineering Manager: https://jobs.lever.co/remix/cb9b8992-f2df-49af-bd20-4eb7babf...- Front-End Engineer: https://jobs.lever.co/remix/85754b42-d084-4457-b9a6-4555332c...Tech Stack: Our main app is a Ruby on Rails API, with a Postgres and PostGIS database and a front-end built using React.js. Itâ€™s hosted in Heroku. We also have a variety of services built in Python that are hosted on AWS.
+                      
+                  
+      Triage | Developers (Rails, ML/AI, iOS, Android, React, FED), Designers | Remote | $60-100k + equityTriage (https://www.triage.com) is applying artificial intelligence to medical imaging to make health advice more accurate, affordable and universally accessible. Triage has developed an app that can instantly detect skin cancer and other skin problems. We are looking for talented software engineers to join us.Our goal is to save lives by making skin cancer screening universally accessible. 1 in 3 cancer diagnoses in the United States is for skin cancer and 1 in 5 Americans will develop skin cancer in their lifetime. The five-year survival rate of melanoma, the deadliest form of skin cancer, declines from 98% at its earliest stage to below 20% at the later stages. With Triage it is now possible to snap a photo and instantly see visually similar conditions, including deadly skin cancers like melanoma. As an early stage member of the team, you will have a great opportunity to influence architecture and product direction.Technologies: Rails, React, Python, Tensorflow, Keras, Swift, Kotlin, MySQL/PostgresSend us a note to learn more: jobs@triage.com or visit https://www.triage.com/careers.
+                      
+                  
+      Remind, Inc | Backend Engineer (mid-senior) | San Francisco, CA | Full-Time, OnSite or Remote OK (within 3 hours of CA) | https://www.remind.com/Remind is a communication platform that helps educators reach students and parents where they are: their phones. With 27 million active users, weâ€™re one of the fastest-growing companies in education technology, but we have our sights set on something bigger: giving every student the opportunity to succeed.The Remind Engineering Team tackles hard and interesting technical challenges, embodies our value of finding a way, and open-sources projects like Empire(http://empire.readthedocs.org/) and stacker(http://stacker.readthedocs.io/). The main tools we use in our backend include Go, Ruby, NodeJS, PostgreSQL, Redis, RabbitMQ, and many AWS services (DynamoDB, RDS, ECS, Aurora, Lambda, SNS, SQS, and more).https://boards.greenhouse.io/remind/jobs/496462?gh_jid=49646...
+                      
+                  
+      BOOKING.COM - Amsterdam, The Netherlands | Shanghai, China | Tel Aviv, Israel | ONSITE | VISA support and Relocation to AmsterdamI am an iOS developer at Booking.com, the planetâ€™s #1 accommodation site. We are looking to bring people from anywhere in the world to work for us at our headquarters in Amsterdam.Some of the positions available are:* Frontend Developer (Shanghai): http://grnh.se/exv4q51* Software Developer (Shanghai): http://grnh.se/r47oha1* Software Developer (Amsterdam): http://grnh.se/g7y1iw1* Senior Java Developer (Amsterdam): http://grnh.se/esur2q1* Data Scientist (ML, Amsterdam): http://grnh.se/qfsd6e1* Data Scientist (ML, Tel Aviv): http://grnh.se/yfehks1* Manager Software Development (Shanghai): http://grnh.se/u8kp1l1Other job vacancies at http://grnh.se/30g5b71
+If you have any questions about the process shoot me an email at com.gmail@{{username}}
+                      
+                  
+      Datadog | Software Engineers | ONSITE (Boston, New York City, Paris) and REMOTE | Full-timeDatadog is a monitoring and tracing service for your infrastructure and services. We build our own tsdb, distributed tracing tools, cutting edge visualizations, and more. We move fast and are growing fast!We're mostly Go, Python, and React, on AWS, and moving to k8s.We're looking for people who can build systems at scale as we process over 40 million points per second. Let us know if that's you!https://www.datadoghq.com/jobs-engineering/
+                      
+                  
+      Is there an easy way to get in touch? I have a few questions about the roles.
+                      
+                  
+      Sure, shoot me a note at joel.barciauskas @ our domain
+                      
+                  
+      Sure, Inc | https://sureapp.com | New York, NY or Santa Monica, CA | Full Time | ONSITE | $120-$160k
+At Sure, our vision is to change the way billions of people interact with insurance. Our engineers are developing the experiences that will change how current and future generations protect their valuables. We're looking for team members who are big thinkers in all areas, including mobile apps, artificial intelligence, and UI design.We're looking to hire iOS, Android, and web engineers who can oversee the design, development, and maintenance of our different client facing products. You'll be a core member of the team working with the Design, UX, Product, and Research teams to build and iterate on new features.Roles: Frontend Engineer (React)
+                      
+                  
+      Hey, it isn't clear that there is a Jobs/Careers page on your website?
+                      
+                  
+      280 CapMarkets | San Francisco, CA | Sr. C# Engineer | Full-time | Salary $125-160K & Equity | Onsite280 CapMarkets is a fintech startup targeting a customer base of wealth advisers looking to serve their clients with better access to the municipal bond market. We recently publicly launched our BondNav(R) platform (https://www.bondbuyer.com/news/280-capmarkets-launches-bond-...) which is a sophisticated financial dashboard, offering unprecedented visibility and access to this asset class. At 280, we are creating a culture that empowers team members to solve hard problems for our customers, while learning from each other and using state-of-the-art tools, technologies, and development processes. We are an Agile, user-centered shop, with a positive, flexible environment that is built to enable everyone to do their absolute best work.Backend stack is a combination of C# Services, Mongo, AzureSQL, RabbitMQ built on top of Azure.Learn a more at https://www.280capmarkets.com. Interested in chatting? pnasser(at)280cap(dot)com
+                      
+                  
+      Beekeeper | Software Engineer (Interns + Graduates + Experienced) | Zurich, Switzerland | ONSITE, Full TimeBeekeeper is a fast growing, mobile-first SaaS company disrupting the way 2 billion people working "out in the field" communicate. We have an amazing team made up people from over 18 different countries who are passionate about shaping the future of industries like hospitality, retail, manufacturing and transportation.Our Stack: Python, MySQL, ElasticSearch, RabbitMQ, Docker, Celery, Backbone, Java, Realm, KubernetesPlease apply via the following links:- Software Engineer - DevOps: https://boards.greenhouse.io/beekeeper/jobs/1024386- Software Engineer - Experienced: https://boards.greenhouse.io/beekeeper/jobs/95292- Software Engineer - Graduate: https://boards.greenhouse.io/beekeeper/jobs/1026317- Software Engineer - Intern: https://boards.greenhouse.io/beekeeper/jobs/1026318- Technical Support Engineer: https://boards.greenhouse.io/beekeeper/jobs/999222
+                      
+                  
+      Do you provide visa sponsorship for people outside EU?
+                      
+                  
+      We don't currently, though we do have offices in SF and have a  Technical Support Engineer position open there if that is any help.
+                      
+                  
+      PayJoy | Android, Infrastructure, Data Science, and Full Stack Engineers | San Francisco, CA | Full-time, on site | $100k-$150k + equity | www.payjoy.comPayJoy brings smartphone technology to customers who otherwise could not afford it.  Our smartphone lock, data science, and world-class platform make consumer finance work where it was never before feasible.  Our goal is to help the next billion people worldwide gain access to high end smartphones.If youâ€™re interested in joining a rapidly growing startup with a social mission, apply through the website or send me an email samara@payjoy.com.
+                      
+                  
+      Wealthsimple | Fullstack Engineer, Ruby Engineer, Java Software Engineer, JavaScript Software Engineer, Mobile Software Engineer (React), iOS Developer and more! | Toronto, New York City (Onsite)https://www.wealthsimple.comWealthsimple is Canada's largest and fastest growing online investment manager. We make investing easy and accessible to everybody. We're working on the challenges involved in making investment understandable and easy. We feel strongly about our brand and have won a Webby for best financial services website. We try to reflect our unique voice in everything we build.We're growing fast. In 3 years, Wealthsimple Financial Corp has gone from $0 under management to over $1 Billion. We have significant funding from strategic investors that will allow us to continue building an amazing product that's competitive on a global level. With this, we believe that we have the opportunity to build one of the largest and most innovative companies in financial services globally.Apply here: https://www.wealthsimple.com/jobs
+                      
+                  
+      GoCardless (YC S11) | London | SRE, Data, Backend, Full-Stack, and Pre-sales/Solutions Engineers | Onsite | Full-time | VisaGoCardless is building a payments network for the internet. Since 2011 we've been focused on simplifying Direct Debit for small and medium companies (who previously had no access to it) and we've expanded to serve the largest companies (think newspapers, utilities) and connect with existing payment systems in countries all over the world. We already support the UK, Europe and Sweden and are aiming to expand to more countries over the next year.As an engineering team at GoCardless we care most about stable, reliable, understandable code. We rely on automated testing, code review and a culture of frequent constructive feedback. We define and manage our own roadmap and run projects in whatever way works best for us.Our stack: Rails, React, Postgres, Elasticsearch, Docker, Chef, Terraform.
+We also have a bit of Go (for Infrastructure) and Python (for Data).We love learning new things and contributing back to the community. We open source everything we can[1] and regularly host meetups and hackathons at our wheelchair-accessible office Between Farringdon and Old Street. We have a bi-weekly bookclub within the team and give internal (and external) talks about things that interest us.Interview process: an intro call, one technical video interview, then a couple of onsite interviews (coding exercise and some chats - no whiteboards!)For more info and to apply: https://gocardless.com/jobs.
+If you've got any questions, drop me an email (it's in my profile).[1] Notable examples are Statesman (https://gocardless.com/blog/statesman/) and Coach (https://gocardless.com/blog/getting-started-with-coach/)
+                      
+                  
+      TrustFlight | iOS & Full Stack Developers | Warwick, UK ONSITE | Â£30-60k + equityTrustFlight is creating the platform for Flight Data using Blockchain. Founded by a Commercial Pilot & Developer with deep domain expertise, we are radically transforming the way data is utilised within Aviation operations. In addition to the base platform, we are also creating a suite of client applications including using hardware to automate data acquisition. Although we operate in a highly regulated industry, there are many areas ripe for improvement which generate plenty of interesting challenges.We are currently looking for iOS & Full Stack developers to continue development of our first client apps. These are flight logging tools which solve real problems and replace traditionally paper-based and manual processes. We are looking for people with a passion for Aviation, and the drive to continually learn & improve. As an early stage member of the team, you will have a great opportunity to influence architecture and product direction.Technologies: Swift, Rails, React, Postgres, Ruby, JavascriptSend us a message to learn more: jobs@trustflight.io
+                      
+                  
+      Stowga | London, UK | ONSITE | Â£40-60k + Options | Full-Stack Rails Developer | https://stowga.comOur mission is to help companies transform their supply chains through warehousing as a service.Our technology enables an innovative on-demand model to warehousing that allows warehouses to optimise their space by offering under-utilised capacity to customers who take that space without the long-term commitment of a lease.In our first year of operation we have built the largest database of warehouses, identified a data-driven customer acquisition model, and signed up some of the biggest names in the industry on both the retail and the warehouse side of our marketplace.We have just closed a Â£1.5m seed funding round with CBRE, Anthemis, Force Over Mass, Hambro Perks, Seedcamp and Speedinvest.In October we won Wired Magazineâ€™s 2017 Startup Showcase Award.More details here https://jobbio.com/uk/job/57427/london-united-kingdom/stowga...
+                      
+                  
+      LBRY | Manchester, NH | Remote | Blockchain Engineer, Protocol Engineer, Web Developer | https://lbry.io/join-usLBRY is a free, open, and community-run digital marketplace. It is a new protocol that allows content creators to upload their content to a network of hosts and set a price per stream or download, or give it away for free.
+                      
+                  
+      StrideUp (strideup.co) | Ruby on Rails Developer (Full Stack Engineer) | London | ONSITE
+StrideUp is a fast growing, venture capital backed fintech startup revolutionising home ownership. We believe people need affordable housing without having to overburden themselves with debt. Using technology and data we are building a new way to own your home and invest in residential property. We're an ambitious team committed to solving one of the most pressing financial problems facing people today.Tech Stack: â€¨Rails HTML/CSS/Sassâ€¨Postgres â€¨Java Redis Git HerokuChallenges: - You'll work with a small but growing team of developers and ship new projects. - You'll have a meaningful voice in the journey of a fast growing startup. - You'll be working closely with other developers in a growing team focusing on quality, speed and good design.Things we might want to see: - Commitment to delivering readable, well thought out and tested code. - A few years professional working experience with Ruby on Rails (and if not, a very experienced developer willing to learn it quickly) - Experience with some technologies we use, or comparables (Postgres, RSpec, Heroku, Redis, Java) - Someone who can embrace working in an early-stage environment, particularly the willingness to be flexible and take on whatever needs to be done to make things happen.Benefits: - Competitive compensation including equity in StrideUp - No elaborate hierarchies, we believe in a flat structure that helps the business grow exponentially. - Great WeWork office + whatever equipment you need to succeed. - Frequent team lunches and dinners. Coffee, drinks, cakes (!) on the house. - Collaborative team, that will do whatever we can to help you go grow both professionally and personally.Get in touch at hiring@strideup.co
+                      
+                  
+      Degica | Multiple Positions | Tokyo, Japan | ONSITE | VISA | https://degica.comBased in Tokyo, Degica is the leading provider of Japanese payment and game publishing solutions.Work with our team of skilled engineers at our Tokyo office in Kichijoji, in a supportive environment where all members have a say in key production design decisions.We are currently hiring for the following positions:* Ruby Engineer, Komoju Payment Platform* 2D Game Engine Developer, Visual Novel Maker* Game Editor Developer, Visual Novel MakerSalary range:
+5,000,000 - 10,000,000 yen / year (depending on position)See our careers page for more details:
+https://degica.com/careers.html
+                      
+                  
+      https://www.ReactiveOps.com | Sr Site Reliability Engineer (AWS/GKE Kubernetes) | Full-Time; 155-160k DoE; 0.01% equity | Remote, Right-to-work-in USAReactiveOps is a DevOps consulting and services company, focused on AWS/GKE. We setup, maintain, and operate Kubernetes clusters for our clients, setup CI/CD, migrate their apps into Kube, etc., in addition to day-to-day cloudOps works. We are in Slack with them and act like their "outsourced, in-house Ops team". Our goal is to exceed the capabilities and care of an in-house Ops organization.
+We are a completely distributed team of 16 highly motivated folks, and are 100% bootstrapped and profitable.We're looking for AWS/GKE operators to join our growing team! You can see more details and how to apply here: http://pages.reactiveops.com/careers/site-reliability-engine...
+                      
+                  
+      Just to make sure I understand, remote is available only for people who are in the US/have the right to work in the US?
+                      
+                  
+      Hi! Thank you for your question!Due to $reasons, we can only accept applications from folks that currently possess a right to work in the United States (e.g. https://www.thebalance.com/how-to-get-a-permit-to-work-in-th...)
+                      
+                  
+      Thank you for answering. I'm not interested to work in the US at the moment. I just wanted to make sure the restriction exists as I understood it.
+                      
+                  
+      Time waste alert!I spoke to you at length and then your cofounder at length. Then it turns out that you don't actually have any immediate need to fill the role but you "might" have a need in the next 30 to 90 days. I pretty much gathered that you basically subcontract.
+                      
+                  
+      Hi,I'm sorry you felt your time was wasted; we do not aim to do that at any point in the process (it wastes our time, too! :D). We are a kubernetes consulting and DevOps-as-a-Service shop, and some amount of our demand's final materialization is unpredictable. We take pains to mention that in the beginning but, if we didn't, that's on us and I'll make sure we don't miss that again - thank you for bringing that to my attention.I don't know your situation, but it's highly likely we had a significant influx of demand that suddenly softened, and we had to back-off on the hiring. Or, perhaps also likely, we hired someone that more closely matched the position and needed to pause the search (we have 3 people starting on Monday, Feb 5, for example; we've hit our quota of less experienced Kube experts and have re-focused on people with extensive cloud production kube experience).As a profitable but bootstrapped firm that has (yet!) to lay off people due to underwork, we strongly bias against pre-emptive hiring.I wish you the best of luck in your career, and if you are still looking, in your search.--
+Matt
+                      
+                  
+      >"I don't know your situation, but it's highly likely we had a significant influx of demand that suddenly softened, and we had to back-off on the hiring."Except that I replied in response to a "who's hiring" thread and the interviews followed very close to my responding. So why would you even be posting that you are hiring if you had "demand that suddenly softened"?
+                      
+                  
+      I went through a very lengthy interview process with this company, and made it to the final stage. Had great conversations with everyone at every step and ultimately was turned away with no explanation whatsoever.That being said, a lot of the folks I spoke with seemed pretty sharp. YMMV.
+                      
+                  
+      Hi Michael,Although we strive to hire everyone who reaches the final stages (it's super time consuming for everyone, you and the team!), ultimately we have to turn away people who are awesome but aren't a perfect fit (at our teeny-tiny size back in [time redacted] when you interviewed, we were even pickier than we are now; I wouldn't read too much into our decision to not move forward).We've made a lot of changes in our process since you spoke with us and I hope we're more communicative - to the best of our ability - in our process. I wish you the best of luck in your future endeavors!--
+Matt
+                      
+                  
+      I would not suggest posting specific dates of when candidates were interviewing without a candidate's consent
+                      
+                  
+      I don't think it had anything to do with you. If you notice they always say they're "hiring" on these threads. However they don't necessarily have any new "client" to subcontract out to someone. They don't seem to have any problem wasting people's time though.
+                      
+                  
+      Allianz | Data Science Platform Developer | Munich, Germany | Onsite 60kâ‚¬ - 100kâ‚¬The Data Science Platform (DSP) empowers the Allianz group in developing, deploying, and operating data driven products end to end. Our goal is to reduce time from idea to delivery following the DevOps philosophy. The DSP provides a scalable, fault-tolerant, self-service, integrated, security-approved environment at a competitive price. We strive for continuous improvement of our tool stack by evaluating, contributing to, and integrating state of the art technologies. Our platform community fosters knowledge and best practice sharing.Responsibilities:- Develop new functionalities for the DSP- Evaluate new technologies in the field of cloud computing, distributed computing, data engineering, and data science- Resolve incidents and change requests; support customersOur platform is a diverse product. We are aiming for a cross functional team consisting of T-shaped individuals. Please feel free to highlight your strengths.Technical Skills:- Operations (Linux / Unix, Infrastructure as code, Metrics and log management, Virtualization, Networks)- Software Development (Proficiency in at least one programming language (Go, Scala, Python, Elm, JavaScript etc.), Continuous integration, deployment, and delivery)- Data Engineering (Databases, Distributed systems, Workflow orchestration and automation)- Tools: Build infrastructure (Gitlab CI, Jenkins),  Artifact repository (Nexus), Version control (Gitlab), Deployment & configuration automation (Ansible, Puppet)- Other Skills (DevOps mindset, Open source, Agile methodologies, Fluent English)contact nico.gier@allianz.com
+                      
+                  
+      Hey, do you have a werk-student or internship opportunity? And, further, possibilities for remote?
+                      
+                  
+      Hi,we are also looking for working students/internships. The developers should mainly work onsite in Munich. Nevertheless each team member has the option to work remotely on demand.Kind Regards,
+Nico
+                      
+                  
+      SerpApi | https://serpapi.com | Senior Backend Engineer | Austin, TX | Full-time | ONSITE or REMOTE | $130-$160k + equitySerp Api is a real time API to access Google search results. It solves the issues of having to rent proxies, solving captchas, and JSON parsing in an easy to use and integrate API for our customers.Our current stack is Ruby on Rails, MongoDB, Headless browser automation (Selenium and PhantomJS), and React.JS.We are looking for a senior backend developer, and we are offering above market salary and equity. Experience in Ruby, Javascript, Proxies, CAPTCHA solving, or Browser Automation are definitely pulses.Contact me @ julien _AT_ serpapi.com mentioning HN.
+                      
+                  
+      Off-topic, but have you not gotten a C&D for this? Iâ€™ve long considered making the same product but always assumed it would get legally nuked pretty quickly.
+                      
+                  
+      I would be quite curious to know the answer to this as well. What's your legal strategy for when one of the richest orgs on earth decides to make you go away?
+                      
+                  
+      Apple, Inc. | Cupertino-- Siri --
+Appleâ€™s Siri is looking for exceptional engineers, designers, and project managers well versed in machine learning, natural language, speech recognition, server automation, and/or mobile software development. Siri is used on countless iOS, tvOS and watchOS devices and handles over a billion requests per week.
+If youâ€™re passionate about Music, Natural Language Processing, tools development, or one of a variety of our open positions, youâ€™ll be right at home! We have also begun expanding our team in Ottawa, Canada!Apply online or send a resume to brittanyd@apple.com.-- Security Engineering --
+Appleâ€™s Security Engineering and Architecture group is looking for senior security engineers and DevOps specialists to help us build systems that protect customers with leading privacy and security technologies. Successful candidates will be generalists capable of tackling challenging engineering problems anywhere in the stack, from the kernel and firmware to cloud services and applications.Apply online or send a resume to nectar@apple.com.
+                      
+                  
+      HVF Labs | Company Builders, Designers and Developers | San Francisco | Salary $75-$120kHVF is Max Levchin's startup studio - the team here works on all kinds of things that we think we can turn into meaningful and lasting companies. We've started two new companies in the last year and we're currently working on two more. The plan is to do this about four times a year.We operate under a unique structure here. We bring in a few types of people -EIR's (disclosure: I am one of those here) These are typically people we believe can start a company and run it taking it the distance as founder/CEO's.Company Builders - These are people who have a deep interest in joining a company very early (in the idea iteration phase) either as an early employee or a co-founderHVF Core Staff - These are the people who help the companies coming out of HVF succeed.So far we've seen Yelp, Affirm, Glow and Divvy Homes publicly announce their launch and as mentioned there are a couple more in the pipeline.One of the major bonuses about being here is getting to work with brilliant people.Ben Jun who runs HVF is literally the guy who discovered a side channel attack that allowed people to exploit the voltage output of a Credit Card chip to decrypt the card number. Don't worry he also helped fix it!It's an environment like no other I've been a part of and we're constantly looking for smart people who love iterating on ideas to join us and help us build something real and meaningful.It doesn't hurt we get to hang out with people like Ben and Max on a regular basis too.If this sounds interesting ping me and I'll be happy to have you by or tell you more!zach@hvflabs.com
+                      
+                  
+      Cabana Blockchain | San Francisco, CA | Full-time | ONSITE, REMOTE | $80k - $140k (USD/BTC)Cabana Blockchain is developing blockchain-enabled IoT devices for your smart home. Our devices will improve your life while communicating and transacting over a private blockchain. We're a privately-owned stealth startup company operating out of San Francisco, CA.We're looking to hire for the following positions:Hardware - Electrical Engineer (ONSITE)Hardware - Firmware Engineer (ONSITE, REMOTE)Hardware - Mechanical Engineer (ONSITE)Software - Backend Developer (ONSITE, REMOTE)Software - Frontend Developer (ONSITE, REMOTE)Please visit https://cabanablockchain.com/careers for details.
+                      
+                  
+      StreetShares | Software Engineer | Washington, DC (Reston, VA) | Full-time, onsite | http://streetshares.com | $80k-$100k+ and equityThe company: Streetshares is a veteran focused startup, striving to bring small businesses and investors together. We provide loans, lines of credit, and other financial products to small business owners while offering investors a chance to support like-minded businesses. The company was founded by two veterans of the US and South African air force.The team: The engineering team is currently small (6 people) but diverse, including a former US marine and teammates with backgrounds in architecture, communications, physics, and computer science. We even have someone from Wisconsin. We recently secured additional funding ($23 million, https://www.wsj.com/articles/online-lender-to-veterans-winni...) and are looking to greatly expand the team.The position: We are seeking software engineers of all levels to contribute to the development of our online platform. You will work in a fast-paced environment and should expect to contribute significantly to the future of our system. The ideal candidate is comfortable being an intricate part of a small team, can engage across functional areas, and can deliver reliable, testable, and maintainable code. We are seeking both frontend and backend developers.Contact: If you have any questions or concerns, feel free to email Andrew at aahlers@streetshares.com. I won't reply to generic emails, spam, or recruiters. I encourage you to apply online at https://streetshares.workable.com/ but I can push resumes forward as well.We are hiring a designer too.
+                      
+                  
+      Second Measure (YC S15) | SF Bay Area - San Mateo, CA (downtown) | ONSITE | https://secondmeasure.com----Second Measure analyzes billions of credit card transactions to answer real-time questions about consumer behavior.Through our self-service analytics platform, we help our clients â€“ some of the worldâ€™s largest brands and investment firms â€“ answer questions like:  - Is Lyft gaining or losing market share in NYC? [1]
+  - What's going on in the meal-kit space? [2]
+  - How dependent is Stitch Fix on its biggest spenders? [3]
+  - (Check out our research blog [3])
+
+Weâ€™re 26 people today - mostly senior engineers and data scientists. Two-thirds of us are technical, half with PhDs.Weâ€™re looking for other strong builders, especially those who can grow into leadership roles:  - Senior Data Scientist
+  - Senior Software Engineer (backend/frontend/data/devops)
+  - Lead Infrastructure Engineer
+  - (more)
+
+I'm a founder (mike@). Apply directly [4] or email jobs@ and CC me.[1] http://www.sfchronicle.com/business/article/Lyft-gets-boost-...[2] https://www.theinformation.com/data-suggest-more-trouble-ahe...[3] http://blog.secondmeasure.com/2017/12/07/whales/[4] https://boards.greenhouse.io/secondmeasure
+                      
+                  
+      METAIf you need something more advanced than ctrl-f, I made:https://hnjobs.emilburzo.com/Click on "(syntax)" for inspiration.
+                      
+                  
+      Tried it out, and this really is a fantastic, well made tool. Thank you for sharing!
+                      
+                  
+      Thank you!
+                      
+                  
+      BUG: When part of a link is highlighted, the link gets messed up.
+                      
+                  
+      So easy, perfect..
+                      
+                  
+      Thank you!
+                      
+                  
+      KloudTrader | Senior/Junior/Fullstack Software Engineer | Rails, Python scientific software, JavaScript | REMOTE | OPTIONAL INTERN, Full-timeKloudTrader's mission is to make algorithmic trading accessible to traders without a software engineering background through visual programming languages; DIY Roboadvisors. We are an early stage startup willing to offer significant equity. Email us at jobs at <company name>.comhttp://Kloudtrader.comAlso offering unpaid internships for those who are interested :)
+                      
+                  
+      Just so everyone knows. I e-mailed them, they replied saying it's equity only.
+                      
+                  
+      Bold move.
+                      
+                  
+      :D
+                      
+                  
+      Fyi your `pricing` link just links back to the homepage
+                      
+                  
+      Working on it. Thanks for pointing it out!
+                      
+                  
+      SoundHound | All roles available in Santa Clara/San Francisco. Engineering roles only in Toronto. | ONSITE - http://soundhound.com/careers
+I'm an Engineering Manager at SH. We've just raised $75 Million from NVIDIA, Samsung, KP and others to take on Amazon and Google in AI with our "Collective AI" Houndify platform. Our open Houndify platform has the worldâ€™s fastest speech recognition and most sophisticated natural language understanding. We've had a lot of interest from partners and there are a LOT of really interesting projects being worked on requiring complex problem solvers who can work well independently. Things have come a long way since our leaked demo video took top spot on Reddit a year ago! https://www.youtube.com/watch?v=M1ONXea0mXg https://www.houndify.com/ https://app.jobvite.com/Jobvite/jobvite.aspx?b=niY2QAwdIf you have any questions you'd like to ask an engineer here just email me: tilo at (company name) dot com. I respond to all emails but please, no recruiters! And we have hired from this thread in the past.
+                      
+                  
+      VISA sponsorship by t
+any chance?
+                      
+                  
+      Commure, Inc. | San Francisco, CA | Multiple positions | Fulltime | ONSITE We are a stealth startup working to fix the software doctors use. If you have seen what physicians have to put up with, it's a bad version of the 90s, and makes medical care worse and more expensive for everyone. We are a group of previously successful engineers and entrepreneurs (MIT, Dartmouth, Datapower, Stripe, Salesforce, etc) and senior doctors (John Hopkins, UCSF, etc) who are determined to finally fix this.
+Compensation: market salary & equity -- we are well funded.Stack: includes Rust, React and Node. We will also be solving some very interesting problems in the areas of APIs, domain-specific machine-learning and fine-grained application security.Please email jobs@commure.com and mention "[hneng]" in the subject line.
+                      
+                  
+      ESO Solutions | Fire Application QA Engineer | Urbandale, IA | ONSITE, Full-time | $70kHow would you like to work at an incredibly cool company where every day, you get the chance to do something that really matters? At ESO, we make software that helps emergency medical services, fire departments and hospitals take better care of patients.We embrace a culture of openness and collaboration, where people lead with ideas, not job titles.The Fire Applications QA Engineer is a key team member in the development and maintenance of our fire products. These products are used by thousands of customers every day. They help our customer do their jobs more effectively resulting in lives being saved. You will use your talents and skills to help fire departments manage important data accurately, comply with regulatory reporting requirements, use the data to identify trends that drive positive change, support inspections to prevent fires from happening, keep our firefighters safe, keep firefighting equipment ready to serve and make the communities safer. Now that is making a difference.You will be responsible for manual and automated testing of new functionality and fixes incorporated into our fire products as well as regression testing the fire products.More information: https://www.esosolutions.com/about/fire-applications-qa-engi...
+                      
+                  
+      LaunchDarkly | ONSITE | Oakland, CA | Software Engineers | Full-time | Unable to sponsor visas at the momentLaunchDarkly is a rapidly growing software company with a strong mission and vision carried out by a talented and diverse team of employees. Our goal is to help teams build better software, faster. You'll join a small team from companies like Atlassian, Intercom, and GitHub, and you'll have an immediate impact with our product and customers.Our platform serves over twenty billion feature flags daily. The core technologies we use daily include Golang, React, Redux, MongoDB, ElasticSearch, Redis, HAProxy, and NATS.We have a number of engineering opportunities available: https://launchdarkly.com/careers.html
+                      
+                  
+      Are you open to junior developers for the front-end software engineer role, if the other requirements are satisfied?
+                      
+                  
+      New Vector (Matrix.org Riot.im) | London, UK & Rennes, Fr | ONSITE | Full-time | Team of 13 growing rapidlyNew Vector is the open source software development startup which employs the core team behind Matrix.org â€“ the leading project for secure decentralised communication.  Matrixâ€™s mission is to create a universal open network and protocol for real-time communication; liberating users from being trapped in the islands of communication they use today and returning ownership and control of communication back to the people. New Vector builds flagship apps for Matrix such as Riot.im as well as contributing to the core Matrix open source clients, SDKs, servers, bridges and the protocol itself.We believe that the Matrix protocol has the potential to become part of the fabric of the internet, bringing with it a future radically different from the increasingly centralised internet we see today.While New Vector is self sufficient, following a recent funding round [1,2] we are looking to grow the team across the stack. In particular:-* UX/UI Designer to work on Riot web and native apps* Backend Engineers to work on homeserver development as well as bridges, bots, integrations and widgets.* Android Engineers to build out the matrix-android-sdk and Riot.im app* Frontend Engineers to build out the matrix-react-sdk and Riot.im web experience* SREs to support matrix.org and riot.im infrastructure* Cryptography Engineer to move our E2E Encryption out of betaIf you are up for the challenge or just want to know more, either write to us at jobs@matrix.org or reach out to me via matrix IM on @neilisfragile:matrix.orgEven if you are not a perfect match for the above get in touch anyway, weâ€™re always keen to talk to people interested in Matrix.[1] https://news.ycombinator.com/item?id=16258263
+[2] https://matrix.org/blog/2018/01/29/status-partners-up-with-n...
+                      
+                  
+      It seems a little odd that the folk behind Matrix.org are all onsite, rather than remote. Any particular reason behind this or just the way things have turned out?
+                      
+                  
+      RINSE | San Francisco, Los Angeles, Washington DC, Chicago, Boston | OnsiteRinse provides technology-enabled dry cleaning and laundry delivery services in five cities now, and we're growing rapidly!We're hiring a Lead Front-End Software Engineer at our San Francisco office. This individual will lead our public website development, and ideally also our customer-, vendor- and driver-facing React Native mobile apps. This role also involves mentoring other engineers, driving front-end platform decisions, and some amount of project management. We have designers, product managers, and a team to support you.  We'll pay $120k and up for the right person, plus equity. Join us!This is a great opportunity for someone interested in the delivery / logistics sector, or who grew up in dry cleaning, or who is looking to build consumer-facing products supported by a significant marketing budget.https://www.rinse.com/careers/lead-front-end-developer/We're also hiring other software engineers of all experience levels, and have begun hiring individuals into our satellite offices. See https://www.rinse.com/careers/ for a full list of openings.Interested? Email jobs at rinse dot com, or contact me directly at sam at rinse dot com
+                      
+                  
+      Lighthouse AI, Inc. | Palo Alto, CA | ONSITE, VISA, FULLTIME | Relocation available | www.light.houseLighthouse exists to improve human life by endowing our physical spaces with useful and accessible intelligence.  Weâ€™re starting with the home: tell it what you care about, and it tells you when those things happen.  "Let me know if the kids don't get home by 4pm."
+  "Tell me if you see someone waving hello while Iâ€™m out."
+  "Did you see anyone new over the weekend?"
+
+Itâ€™s made possible by the combination of cutting edge computer vision, natural language understanding, and 3D sensing like youâ€™d find in an iPhone X or a self-driving car.  Check us out at our site [0] or in the news [1].We're hiring across the board:  Senior Web Developer
+  Deep Learning Engineer
+  Senior Deep Learning Engineer
+  Distributed Vision Systems Engineer
+  Payments Platform Software Engineer (Java)
+  Logistics Coordinator
+ 
+
+See our jobs page [2] or drop us a line at jobs@light.house[0] https://light.house[1] https://qz.com/981081/the-smart-home-might-finally-get-some-...[2] https://jobs.lever.co/light.house
+                      
+                  
+      Ripple + XRP | Senior/Principle/Staff Java Engineer x 7 | San Francisco, CA | Full-time |Onsite or WFH 1-2x a week|Can process H1b transfers ,GC and i40's|  www.ripple.com<<Ripple>> is the worldâ€™s only enterprise Blockchain solution for global payments. Ripple connects banks, payment providers, corporates and digital asset exchanges via RippleNet to provide one frictionless experience to send money globally.We're looking for several Sr, Principle and Staff level Java/Spring engineers to join our team. https://ripple.com/company/careers/all-jobs/#staff-principal...We're looking for Several Software Interns as well across Data and Software Engineering/Application Development.We have TechOps, Security Architect, C++ Engineers, Engineering Managers for UI and Java to run those respective teams here at Ripple.More info on open roles here: careers page https://ripple.com/company/careers/all-jobs/This is a chance to work along side some of the brightest minds within the blockchain/crypto space and make a real impact.Come join the team if you like a challenge, you will not be disappointed.
+                      
+                  
+      Hey I'm really, really interested in applying, but I wasn't able to find any software internship positions in that link. I'm sending a message through ripple's contact page and mentioning you to see if there's still a chance.
+                      
+                  
+      BIDMOTION | BACKEND ENGINEER | PARIS, FRANCE | ONSITE, Full-time | http://www.bidmotion.com/careersWhat we do: We do mobile ads and we do them well, using Big Data techniques and Artificial Intelligence.Team: 11 nationalities, 11 engineers, 23 team members.Your role:- Extend, maintain and refactor several projects in AdTech that process over 3M request per minute- Propose new ideas to reach scalability and high availability goals- Work on the data ingestion systems for analysis and reportingOur requirements:- BSc in IT, Computer Science, Mathematics, Physics or related fields- + 5 years of experience in backend software engineering- Existing know-how and previous in real time distributed systems- Good knowledge of Java, C# or similar- Able to architect complex systems- Good debugging skills- Experience in using message queuing systems (kafka or similar)- Preferred experience in using NoSQL databases- Ability to work independently and in a team- Excellent communication skills, fluent in English- Demonstrate strong technical initiative and taking ownershipWhat we offer:- Work environment fully in English- Balance between your professional and personal life- Rebuilding components from scratch- Wish list â€“ choose your own equipment- Latest technology- Personal space: 1 engineer - 1 desk- Be part of a strong team- Playstation and other perks (Snacks, team events, etc...)- And of course, very competitive packagesDonâ€™t hesitate to get in touch with us hr@bidmotion.com
+                      
+                  
+      Prevoty | Software Engineer | Los Angeles | FulltimePrevoty is a Runtime Application Self Protection company founded in 2013 that builds language plugins to provide mitigation to security vulnerabilities without the need for modifications to applications. The plugins utilize instrumentation and middleware to automatically insert hooks into applications that perform detection and mitigation of common vulnerability classes such as many of those listed in the OWASP Top 10.Open Roles- Language Integration Engineer (Ruby, Python, PHP, Node.js, Lua, or Go w/ C, C++, or Rust)Do you enjoy digging under the covers of languages and and their implementations? This role specifically is to work on integration of the sections of our engine written in C, C++, and Rust into the host languages (Ruby, Python, PHP, Node.js, Lua, Go, Java, .net). You will utilize their respective FFI support/extension APIs to hack on their runtimes and build instrumentation and the supporting functionality.- Parser Engineer (C++, ANTLR)Love parsers and semantic analysis? This role is to work on SQL parser, tree construction, and execution runtimes. You will work with large ANTLR grammars and their C++ backends to build trees for export to other programming languages where semantic analyses of SQL queries are performed.https://www.prevoty.com/about/careers
+                      
+                  
+      As someone who searches these threads for words like "compiler" to have an overview of what compiler-related jobs are out there, I almost missed this. Others might miss it too, I suggest you add "compilers" and maybe "interpreters" to make it easier to find.
+                      
+                  
+      Thanks for the advice. I'll update that in the future.
+                      
+                  
+      Geckoboard | Backend Go Developers | ONSITE | London, UK | Full Time with flexible working | Â£60-75kGeckoboard is used by thousands of businesses to build TV Dashboards that help drive growth and focus teams, by taking the complexity out of connecting their data and making their data easy to understand data at a glance.We recently completely rebuilt the way we bring data into Geckoboard with a new integrations platform written entirely in Go (Golang).We now have ambitious plans to expand our platform, from supporting completely different kinds of integrations, to adding transparent, content-aware caching to all API calls, as well as capturing rich telemetry about the execution of our queries and using it to drive scheduling decisions for keeping all metrics up-to-date.Weâ€™re looking for Backend Go Developers to help us do just that. Based from our London office, you'll be joining a friendly team with great people in an environment with empowered engineers, flexible working conditions, and a focus on skill development.If youâ€™re excited about working on distributed systems and database technologies at scale, weâ€™d love to hear from you. Find more about Geckoboard and the role here: https://goo.gl/41gySJIf youâ€™re interested or have any questions get in touch with Monique (people@geckoboard.com) or apply directly at https://goo.gl/41gySJ
+                      
+                  
+      Swissquant.cc | Zurich, Switzerland | Java-Backend, Python-Backend | SALARY: 100k-150k CHF | ONSITE |EU-Passport holders or eligible to work in SwitzerlandSwissquant is an ETH-spinoff that does risk management calculations for private banks. In 2005 a law was introduced that all banks have to declare risks to their clients. Big banks solved this in-house, "small", private banks could not do it and so Swissquant was founded to solve this problem.We have a solid and great engineering culture and quite some math/equities 'geeks' working for us. We are around 50 people in the heart of Zurich-city right on Bahnhofstrasse and our team-size is usually 2-8 people. We use vanilla Java, the newest version, if possible and recently started building tools with Python.E-mail us!jobs@swissquant.cc
+                      
+                  
+      Gambit Research Ltd (http://gambitresearch.com) | London, UK | ONSITE | Full timeAt Gambit we research and manage automated sports betting algorithms on behalf of our clients. Their algorithms run on our proprietary execution platform which interfaces with a large variety of bookmakers and exchanges, enabling access to the best prices and massive liquidity.Our distributed, concurrent system has a core written in Erlang, which interacts with a wide variety of Python processes across the rest of the business. Some of the other technologies we use are: Linux, Docker, Kubernetes, Ansible, C, C++, Java, Haskell, Julia, Go, JavaScript, AngularJS, ReactJS, Django, PostgreSQL, Redis, Apache Spark, Apache Kafka, RabbitMQ, Celery, Elasticsearch, Logstash, Kibana, Graphite, Sentry, Git, GitLab.We have a very flat hierarchy and an emphasis on employee freedom. We encourage our team to work on projects that interest them, as we believe people are happiest and most productive when intellectually stimulated. You don't need to be interested in sports or betting.We're actively hiring for the following positions:  - Software developer
+  - Linux infrastructure engineer / Sysadmin / SRE / DevOps engineer
+ 
+Approximate salary range: Â£30-80k.More information can be found at http://gambitresearch.com/jobs.html
+                      
+                  
+      That's.... that's very approximate.
+                      
+                  
+      WÃ¤rtsilÃ¤ | Software Engineers of all kinds, Data Engineers, and Data Scientists | Helsinki (FI), Hamburg (DE) | ONSITE, PERMANENT OR CONTRACT | https://www.wartsila.comWÃ¤rtsilÃ¤ provides equipment to one in three of the world's vessels, from navigation control systems to engines the size of a bus. But we're not just an industrial equipment company: we're building the hardware, software, and data science that underpins the marine industry of the future. The projects we build have very real outputs, and high visibility; see for example http://www.bbc.com/future/story/20170918-the-ships-that-coul....We're looking for software and data experts to come and help us build this future, and help lead the way. We are working in a traditional industry that is ready to change; we can put your expertise to use immediately and see real, rapid results.We are hiring across the board; software engineers, (particularly Java and Python), data engineers, data scientists, front end devs, UX and UI specialists, product owners and team leaders.If you've got experience in the industrial software world, it's definitely a bonus, but we're not too proud to listen to expertise built up in other industries.If you're interested, send your CV to toby.white@wartsila.com with [WHOISHIRING] in the subject line.
+                      
+                  
+      Tripping | San Francisco, CA | FULLTIME | http://www.tripping.com
+Do you love Travel?Frontend/Fullstack Architect Salary + Equity You are an experienced frontend engineer / architect who knows how to build the solid front end architectures. Experience refactoring frontend technologies. You know the right abstractions to organizing the site, technologies and components to allow teams to separate concerns and know how to maximize workflows of engineers and designers.  Frontend technologies are React/Javascript.  Middle tier is a combination of Ruby on Rails, Erlang/Elixir and Node.js.  Data Science and Analytics is mostly Python.  - At least 7 years of relevant experience
+  - Experience in developing front end web technologies
+  - Strong front end experience: Javascript React
+  - Understanding of HTTP protocol, RESTful APIs
+  - Knowledge of MVC (Ruby on Rails or similar)
+  - Bonus knowledge of Erlang, Elixir or Phoenix 
+  - Bonus knowledge of GraphQL
+
+https://jobs.smartrecruiters.com/Trippingcom/743999663276768...Can email CTO at steve.morin@tripping.com
+                      
+                  
+      Braze | Senior Mobile Engineer | New York City, NY | FULL-TIME ONSITE VISABraze is currently looking for a Senior Mobile Engineer to join us in helping to build mobile SDKs for the worldâ€™s most popular apps! Braze is a NYC based start-up specializing in smart marketing automation.Our powerful SDK and dashboard have enabled companies like Dominoâ€™s, Citi, Hearst, Microsoft, ABC News, Urban Outfitters, Postmates, iHeartMedia and many others solve the hard problem of understanding and engaging users across multiple devices in a way that is effective, personalized, and builds a long term relationshipCheck out our open positions and feel free to apply!* Senior iOS Engineer: http://grnh.se/b52nxi1
+* Senior Android Engineer: http://grnh.se/mcd7v31
+* Engineering Manager, Data Infrastructure: http://grnh.se/ebjnmu1
+* Senior Software Engineer, Data Infrastructure: http://grnh.se/ah4dti1
+* DevOps Engineer: http://grnh.se/h4psfq1
+* Senior Platform Engineer: http://grnh.se/rh1uey1
+* Senior Front End Engineer: http://grnh.se/qn7v6a1
+                      
+                  
+      Seat Scouts | Remote (US-only) | React Native / Front-end Developer | Full-timeAt Seat Scouts, we're developing the fastest, smartest and most cost-effective auto-pricing tool in the secondary ticket market today. We believe automation is key and seek to automate the everyday tasks for ticket brokers to save them time, avoid errors, and reduce financial losses. To do this, we've created a core stack made up of Elixir, Phoenix, and React to get our data as quickly as we can to users in real-time.We are currently hiring for a strong front-end developer, ideally with React Native experience for our next-gen product. We already use React and Redux heavily in our front-end stack, but our next phase needs a strong front-end & mobile developer to bring everything together. Also, any GraphQL experience and interest in functional programming would be a huge bonus as well.We are also a 100% remote team, so you can join us from anywhere. So if you're interested in building high-performance quality software using the latest tech, take a look at our job posting: https://seatscouts.com/job/experienced-react-react-native-de... or email us directly at jobs@seatscouts.com !
+                      
+                  
+      The RealReal | Lead + Senior Software Engineer | San Francisco | Onsite | Full-timeRuby, Rails, Elixir, Phoenix, GraphQL, Postgres, MySQL, AWSEmail directly: jobs@therealreal.com.The RealReal is the fastest-growing, largest online luxury consignment marketplace. The team is composed of strong full-stack engineers and is instrumental in the success of our high-end fashion marketplace business. You will be exposed to the latest technology and a pervasive data-driven culture, while surrounded by a friendly, helpful team. The fast growth of our business gives you the opportunity to make a strong impact.Hiring several roles, including:* Lead Software Engineer - https://www.linkedin.com/jobs/cap/view/574561977/* Sr Software Engineer - https://www.linkedin.com/jobs/view/574541279/* More: https://www.therealreal.com/careersTeams here prioritize together, pair up, and jump to help each other out. We have a strong self-managed agile culture where you will deploy to production multiple times a week, define technical strategy and mentor other engineers. If you love working with Elixir, Phoenix, Ruby, Rails and are strong in full-stack we want to talk to you!
+                      
+                  
+      PRIVATE INTERNET ACCESS | https://www.privateinternetaccess.com/ | DevOps, Rails and Desktop Engineers | Full-TimePrivate Internet Access is a VPN service which brings security and privacy to the average user thatâ€™s fast and simple to use.Weâ€™re an activist organization at heart and are significant donors for organizations such as the EFF, Freenode, Fight for the Future, Creative Commons, FSF, Linux Mint, Arch Linux, etc. You can learn more about the companies we support here: https://www.privateinternetaccess.com/pages/companies-we-spo....Weâ€™re looking for experienced DevOps, Rails and Desktop (JS+Ruby) Engineers anywhere in the world. You will work on both the VPN service as well as our new product ventures as we continue to make amazing privacy products.We offer: - Competitive Salaries - Flexible Vacation Time - Experienced EngineersFor US Employees we also offer: - Health/Dental/Vision paid 100% for Employee and Employee + Spouse - Employer paid STD, LTD, and Life/AD&DIf youâ€™re interested about learning more about the positions, please email jobs@privateinternetaccess.com with cover letter and resume.
+                      
+                  
+      Time waste alert!I was asked to complete a take home project. I completed and submitted the take home project which took a few hours.I then received nothing more than "canned email rejection." Completely disrespectful.
+                      
+                  
+      thanks for this! We should hold companies to some degree of accountability in interviews.
+                      
+                  
+      I think that you are right, it is great that companies are getting interview reviews on the monthly thread, especially companies that treat candidates poorly. HN is still a relatively small community, so we must all use justifiable words and beware of cognitive biases. For example, I interviewed with the company we are replying to here, and I thought that I was treated fairly. They even looked into bending a hiring policy for me.
+                      
+                  
+      >"HN is a relatively small community, and should use justifiable words, and beware of cognitive biases and unfairly ganging up."Providing feedback is most certainly not "unfairly ganging up" . Common courtesy is just that - a common widely accepted norm.  It's pretty much the antithesis of a personal "cognitive bias."
+                      
+                  
+      Crowdstrike | Irvine, Sunnyvale, Seattle, DC, Minneapolis, London, Bucharest, Remote | Fulltime | ONSITE or REMOTE | http://www.crowdstrike.com/Crowdstrike Stops Breaches.We're hiring software and devops engineers to take the lead on automating our software and systems. Give us a shout if you're interested in the following areas, with other information listed at http://www.crowdstrike.com/careers/.  We've over 25 Engineering positions open right now.  * Cassandra/Elastic/Kafka/Spark/Splunk Scaling and Automation
+  * Chef/Python/AWS/Docker/Virtualization Scaling and Automation
+  * Public, Private, Hybrid Cloud and Datacenter Growth at Scale
+  * Securing systems internally and externally with a focus on automation and visibility
+
+I'm hiring 5 positions you can see on the career site:  * Sr. Virtualization Engineer
+  * Sr. Network Engineer
+  * Systems Data Science Engineer
+  * Data Center Technician (Bay or Sacramento)
+  * Sr. Systems Engineer (Linux Automation and Optimization)
+
+We have a real devops approach - very egalitarian and enabling of engineers. There's tremendous mutual respect and as a result, we get a lot of leading edge stuff done very efficiently.
+Come join us! See our jobs at http://www.crowdstrike.com/careers/.
+                      
+                  
+      (Also really good people, and doing important work)
+                      
+                  
+      Netflix | Senior Frontend Engineer | Los Gatos, CA | ONSITE, FULL TIME | We pay top of marketHow do you spark joy in hundreds of millions of people? It starts with a visionâ€”that technology can give voice to stories around the world. Netflix empowers a small band of creatives to do what no studio has ever doneâ€”tell hundreds of stories you fall in love with and stay up watching.As an engineer on the Studio Engineering team, youâ€™ll help us reinvent the way TV and movies are made on a global scale. If you have an eye for software design, a mind for asking questions and synthesizing information into actionable work, and the personality to want to learn from AND teach your teammates - we would like to talk to you.Our culture is unique. It's not for everyone, but if it sounds like you, and describes the people you want to work with, you'll thrive at Netflix. https://jobs.netflix.com/cultureI am hiring for one position:* Senior UI engineer with experience building ambitious, fast UIs in a variety of JS frameworks - https://jobs.netflix.com/jobs/865608Reach out to me directly if you have questions - laurent (@) netflix.com
+                      
+                  
+      Square: Developer Platform, San Francisco + Seattle + Remote. Full Time. ONSITE + REMOTE. VISA sponsorship.This is our team: Developer Platform. We are hiring! https://www.squareup.com/developersHere are all the open positions: https://careers.smartrecruiters.com/Square/dev-platformFullstack Engineers - we use mostly Go, Ruby, and JS and create the platform that makes Square a Platform, we also own several products, and are releasing many new primitives for devs to build businesses on top of SquareFrontend Engineers - owning eCommerce API for websites to accept payments (and do card on file) without PCI effort, dev experience, dev portal, and new not-yet-released products!Android Engineers - opening up Square's Hardware, so anyone can build their own Point of Sale, plus new not-yet-released products!Technical Writer for the platform - be the voice and create an industry leading dev experienceAlso hiring for Product Analyst, Technical Program Manager, Product Manager, SDKs and Examples team (in Seattle).Note we are considering remote candidates only for the Technical Writer role.Interview process is a phone screen or two, then onsite, then offer.
+                      
+                  
+      I didn't see any positions listed as remote?
+                      
+                  
+      Is there an email we can reach you at for the Seattle jobs (TPM, Product Manager, etc.) Thanks
+                      
+                  
+      Is there an email I can reach you about roles at SF? It would be great to have the chance to send you my resume and discuss about the role. Thanks a ton.
+                      
+                  
+      Sentenai | Multiple Positions | Boston | ONSITE | FULL-TIME | http://sentenai.com
+Contact: jobs@sentenai.comPassionate about distributed systems, machine learning and functional programming? Come join our engineering team at Sentenai, located centrally in Cambridge between the campuses of MIT and Harvard. We're hiring Haskell Engineers, Machine Learning researchers and Data Scientists to help us build the world's best platform for doing data science with time series data.Sentenai is a venture-backed startup offering competitive pay, great benefits and generous equity. H1B sponsorship not available at this time.Questions? Reach us at jobs@sentenai.com.
+                      
+                  
+      HR contacted me, asked for my availability for the week. I gave it to them. The week came and went without a reply. This same incident happened on two separate occasions.
+                      
+                  
+      Square, Inc. | Software Engineer | Atlanta | Onsite | https://squareup.com/careers/jobsSquare's Atlanta office is hiring for multiple positions. We have several full-stack engineering teams in the office building features for our Point of Sale systems as well as backend services that power our payments platform.----What we do:Develop and support the systems that power Squareâ€™s products. Develop and support routing and gateway support between Squareâ€™s products and payment processors in the US and abroad.----Why it's cool:Our Atlanta office has a history of working on mission critical projects. Infrastructure used throughout Square is designed and developed here. Day-to-day we use Java, Go, Ruby, Javascript, and Objective-C. Our work environment includes lots of Silicon Valley style perks, plus all the advantages of working in a smaller office where everyone knows each other. Our office is located in Midtown, close to Georgia Techâ€™s campus. Squareâ€™s products are widely used by the general public, so youâ€™ll be building features that are used by millions of people.----Who we're looking for:Engineers familiar with Java, Go, or Ruby or another high level OO language.----If this matches your background and interests, we'd love to talk to you -- email jlabanca+hn@squareup.com.
+                      
+                  
+      IDEO Palo Alto is in search of a Software Designer who will leverage an understanding of software to design and deliver innovative solutions that address core user needs. We count on Software Designers to inspire teams of the possibilities enabled by software, computing, and programmatic thinking, providing unorthodox ways to push design. They first-hand enact our mission of humanizing technology: starting from first principles to ask the right questions, of people, technology, and systems.What does IDEO offer you?
+IDEO is a place unlike any other. Itâ€™s a place where you can solve complex challenges for our clients or the organization, alongside thoughtful individuals who lead with curiosity, empathy, and optimism. Sure we work hard, but we also craft moments that allow our community to pause, create, and connect. We encourage our community to bring their whole selves to work, respect the need for work-life balance, and allow for autonomy in the design process and your career.As a Software Designer in Palo Alto, we provide the opportunity for you to:
+- Participate in the full design process, from talking with users to identifying potential opportunities, to delivering a great software product.
+- Solve problems in a broad set of domains, ranging from health, consumer technology, and mobility.
+- Explore and develop concepts with emerging technologies, such as new user interaction technologies, computer vision, or machine learning.Want to know more about this role? Please visit https://www.ideo.com/jobs/software/palo-alto/974920/software...
+                      
+                  
+      Seed (YC W15) | Backend Engineers | Full Time | REMOTE (US Only) | https://seed.co/Weâ€™re taking on the challenge of modernizing small business banking. We build beautiful, easy-to-use tools for banking, invoicing, expense tracking, and more, so our members can focus on helping their businesses thrive. Those tools also need to integrate smoothly with often-antiquated banking systems, and be bank-level secure. Itâ€™s a huge challenge, but one we enjoy tackling every day. Our customers love us, and we're just getting started.As part of the Backend Engineering team you'd be building the core of platform, with no shortage of tough problems.Tech Stack: Golang, Docker, AWS, Terraform & Packer for Ops.We are a fully remote team and constantly use Slack/Zoom/Github to keep in touch.Process:Phone intro, phone screen, technical interview with the team (either onsite in Portland/San Fran or remote), decision. We strive to complete this process within 2 weeks if a candidates schedule permits.Apply: https://seed.co/jobs/Feel free to reach out to me at benji at seed.co if you have any questions.
+                      
+                  
+      Northrop Grumman Corporation | Boulder, CO, San Diego, CA, Orlando, FL, + multiple sites in each state| Full-time | ONSITENorthrop recently won two huge government contracts and is desperate to find engineers with security clearances.Work life balance is incredibly good here. We work a 9/80, meaning we work 9 hours a day and get every other Friday off. I usually use that off Friday to go surfing or hiking. There are a multitude of projects here that you would never get the opportunity to work on in the private world. Technologies include: C++, Java, C#, SQL, Machine Learning. Salary is competitive!Here's a list of positions that are open now at multiple sites across the country: https://ngc.taleo.net/careersection/ngc_pro/jobsearch.ftlI can almost guarantee a competitive offer IF you have a Secret or Top Secret security clearance already.If you find a position that you're interested in, shoot me your resume at my personal e-mail jipotastic1337 @ gmail.com [remove the spaces]. I will have it forwarded to the correct manager, so they can take a look at it directly.
+                      
+                  
+      â€œReach me at my personal emailâ€�, yeah no thanks dude...
+                      
+                  
+      Nimble Labs | Senior Developer | Austin, TX OR REMOTE | USA onlyNimble Labs is looking for a senior level developer to help us work on a new data visualization platform that we are currently developing.This is a hands on coding position.  Looking for developers that are "Smart and Gets Things Done" and also "Done, Gets Things Smart".  (google those terms if you haven't heard them)In a perfect world you would already be well versed in Javascript and front end development (we are using Vue.js as our framework and D3 for visualizations). Rails experience would also be helpful, but intelligence, work ethic and willingness to write tests are all required.Ideal candidate would have a high upper bound on potential and also have aspirations to become a CTO level team member.This will be a salary + equity position.  Full-time employee only.  Must be based in the United States.  Remote is allowed. Preference will be given to candidates local to Austin, TX, but only if everything else appears equal.  Skill is the ultimate arbiter.Please email me at harris at nimblelabs.com and let me know what you scored on the math portion of the SAT/ACT and provide any relevant links to corroborate your skillset.
+                      
+                  
+      You're a software consulting agency and you care about SAT/ACT math scores? Very polarizing ask, glad you mentioned it here.
+                      
+                  
+      For interested parties, from the overly lengthy "Done, Gets things smart post" referenced:> Not the Smart, and Gets Things Done, Just As Soon As I Read Up On The Subject, On The Company's Dime> Not superstars: superheroes! People who are freakishly good at what they do. People who finish things so fast that they seem to have paranormal assistance. People who can take in any new system or design for all intents instantaneously, with no "ramp-up", and who can immediately bring insights to bear that are quite simply beyond your rustic abilities.I'll leave it to applicant judgement if this is the sort of place they want to work.
+                      
+                  
+      Yep, I'm looking for a new role just now, and these sorts of euphemisms are a complete turn off.
+                      
+                  
+      Thank you guys for the comments.  I am going to re-word this next time.  While I like the general idea of "Done, gets things smart", some of the content of that post is describing a top 0.1% type person and is over the top for a general job posting.I know I am not a top 0.1% programmer and while I am solid and want to hire people smarter than me the full scope of that piece is extreme.Nonetheless I make no apologies for wanting to hire very smart people.  If a software company's ability to execute is a function of the collective intelligence of the team, it is critical to have smart people.All the best guys!
+                      
+                  
+      You can want whatever you want - just clearly communicate it so nobody wastes anyones time.> If a software company's ability to execute is a function of the collective intelligence of the teamInsightful to understand that this is your perspective of employees and work.
+                      
+                  
+      StreetEasy | New York, NY | ONSITE | Full-time | Engineering | $100k+, equityStreetEasy (https://streeteasy.com) is looking for exceptional Front End, Ruby on Rails and DevOps engineers to join our growing team. As New York City's leading real estate marketplace, our team is constantly innovating to develop unique technology-driven solutions to help consumers and real estate professionals connect, and navigate the complex NYC real estate market. And, now that we are powered by Zillow, we've evolved into a pretty unique combination of genuine start up environment and big company resources. This is a great chance to join a small team where you would have major impact.DevOps Manager: AWS, Docker, Kubernetes, Terraform, Config Management, CI/CD - https://www.zillow.com/careers/jobs/streeteasy/openings/?j=o...Senior Ruby on Rails Engineer: 4+ years of experience with Ruby on Rails - https://www.zillow.com/careers/jobs/streeteasy/openings/?j=o...Front End Developer: HTML5, SCSS, Javascript (ES6), React a plus - https://www.zillow.com/careers/jobs/streeteasy/openings/?j=o...Feel free to apply at the links above, or send your resume directly to us: NYCrecruiting@zillowgroup.com
+                      
+                  
+      Plese check the urls
+                      
+                  
+      FixtHub | Manhattan, NYC | Full Time, ONSITE | https://www.fixthub.com/FixtHub is a well-backed financial technology startup. Our goal is to scour the fixed income markets using the latest technologies and proprietary analytics to identify profitable trading opportunities for our clients. Our ability to do this increasingly well has resulted in substantial interest and rapid growth. We are a flat meritocracy with a round-table approach to creative problem solving and we are all having a blast writing game-changing applications for our Wall Street clients. We are located adjacent to Penn station in midtown for an easy commute.* Full Stack Developer - UI/UX, JavaScript and RESTful API expert. Must have 5+ years of both client-side and server-side experience. $125K-$145K* Senior C#.NET Back-end Developer - C#.NET, SQL Server, ETL, AWS expert. Must have 5+ years of experience on the server-side of commercial-grade applications. $125K-$145KEmail mike.lopus (at) fixthub.com for more information. Unfortunately, we do not currently sponsor visas or pay for relocation.
+                      
+                  
+      Hipcamp | Software Engineer | San Francisco | https://hipcamp.com | Full Time | OnsiteHipcamp is everywhere you want to camp. Search, discover and book ranches,
+farms, vineyards, nature preserves & public sites for camping across the U.S.We're looking for an experienced full-stack Product engineer to build and maintain core site features. This is a broad role that will contribute to the site front-end, back-end and our upcoming mobile apps.A typical day includes collaborating with the product team to design and spec out new features, building these features, reviewing other engineers' code, helping them out and sometimes pair programming.Requirements:- Experience working on a consumer web app at scale- Deep experience with web app frameworks (Ruby on Rails strongly pref)- Experience with relational databases (Postgres pref) and NoSQL data stores (Redis and ElasticSearch pref)- JavaScript, styling (CSS, Sass) and single page app framework experience (Backbone, React pref)- Experience or exposure to React Native, React, Redux and WebpackMore info at https://hipcamp.com/careers
+                      
+                  
+      Collective Health | Full Time | ONSITE | San Francisco, ChicagoAs an engineering team, we believe good code is easy to read and understand. We expect all of our engineers to continually teach as well as learn. Our company as a whole places a high priority on the overall member experience, including customer support (you shouldnâ€™t have to wait on hold), legal language (you shouldnâ€™t have to be a lawyer to read your health plan), and intuitive web design.We have a ton of interesting problems to solve around distributed systems, data pipelines, data analytics and predictions, system reliability, security, privacy, and more. If youâ€™re passionate about taking on hard problems while making a real difference in the world, weâ€™d love to talk!We are looking for:- Backend Engineers- Frontend Engineers- Data Engineers- Security Engineers- Site Reliability Engineersand moreLearn more about the company at https://collectivehealth.com/See our open roles at https://collectivehealth.com/jobs/listings/department/engine...
+                      
+                  
+      Uplift Financial |Quantitative Analyst| Cambridge, MA | Salary $65K-$85K, Onsite
+Uplift Financial is an online marketplace aimed at efficiently connecting consumers to financial products that fit their needs. Uplift Financial is a profitable, venture-backed start-up operating within the online marketing accelerator, Cogo Labs (www.cogolabs.com). An opportunity for those who want to be at the intersection of marketing and finance and are interested in joining a new company on the ground floor. This is a chance to provide consumers with a new form of financial engagement. Join us!As a Quantitative Data Analyst, you'll run and grow a new revenue line. You'll design and implement marketing programs, manage performance, and use the insights you gain to drive growth in user engagement and revenue. SQL and Python experience a plus.Apply here: https://angel.co/uplift-financial/jobs/235357-quantitative-d...or reach out directly to malbrecht@cogolabs.com
+                      
+                  
+      PSPDFKit | REMOTE | Full-time | JavaScript, ElixirPSPDFKit is the leading SDK for working with PDF files on Android, iOS and Web. We're trusted by Dropbox, Box and many Fortune 500 companies to take care of these tricky yet essential parts in their Android and iOS apps.PSPDFKit for Web is our youngest product - you can see it in action here: https://web-preview.pspdfkit.comLast year we released PSPDFKit for Web Standalone, which works completely in the browser, using WebAssembly: https://pspdfkit.com/blog/2017/webassembly-a-new-hope/If you're interested in working for a fully bootstrapped company, with a team all over the globe, that iterates quickly and uses a modern, pragmatic tech stack, then check out our job ad: https://pspdfkit.com/jobs/frontend-web-engineer/
+                      
+                  
+      Born Again Media | Medellin, Colombia | REMOTE | Wordpress Developer | Full Time | $14k - $18kBorn Again Media is a digital marketing company looking for a talented developer with experience in Wordpress to help us turn designs into clean Wordpress code.Although the position is fully remote, we're giving priority to applicants from Colombia, where most of the team is based right now.Learn more, and apply at https://jobs.bornagainmedia.com/o/wordpress-developer . Make sure to mention HN in your application.
+                      
+                  
+      Vipps AS | Backend Developer | Oslo, Norway | ONSITEIn Vipps weâ€™re on a mission to make life easier for people and businesses through smart payments. Every day we are solving real life problems for our 2.7 million users and 50.000 merchants.We started with simplifying peer-to-peer payments, where we replaced your account number with your phone number. Now we are working on drastically simplify the way people and businesses do payments. We have lots to do and are looking for a talented Backend Developer to join us.Our various backend systems are currently written in Java and Go. They run in container services on the public cloud. We store the majority of our data in traditional relational databases. We strive to use the best tool for the job without getting religious in our technical choices. We care more about your general development skills than experience with any particular language or framework.https://emp.jobylon.com/jobs/18536-vipps-backend-developer/
+                      
+                  
+      DockYard | Multiple Job Openings | Full-Time | Remote (United States)Current openings:- HTML/CSS Specialist (Engineering)- Ember Developer (Engineering)- Ruby on Rails Developer (Engineering)- Content Manager- Project ManagerListings and Application for all positions here:
+https://hire.withgoogle.com/public/jobs/dockyardcomDockYard is a software consultancy that helps companies design, engineer, and iterate on their most important digital products. Our team is smart, relatable, and deeply knowledgeable about modern application architecture and UX. We work alongside teams building beautiful, functional web applications with an eye toward the future. We're driven by creating exceptional user experiences, whether that be through Progressive Web Apps, well functioning data applications, or innovative front end design.We specialize in Ember, Elixir/Phoenix, UX/UI and Progressive Web App development. You can learn more about at us https://www.dockyard.com
+                      
+                  
+      Zumper & Padmapper | Multiple Engineering Positions | On-site | Full-time | Visa | San Francisco (HQ) | 120 Employees total, 50 in HQZumper is building the next generation of house and apartment rental platforms. We also acquired PadMapper, which is now part of our platform. We have raised $39.2 million in venture capital to date from investors including Kleiner Perkins and Goodwater Capital. We're searching for bright, passionate, hard-working people to help us build extraordinary products and revolutionize an industry, building on our base of over 26 million annual users across our two brands Zumper & PadMapper.We're currently looking for:
+JR Android Engineer ($90-100k)
+Senior Frontend Engineer ($130k-150k)
+Senior Backend Engineer ($130k-170k)Tech stack: We are Django/Angular on the frontend and migrating to React/Node. We are Python/Django on the backend.For more info, please visit our careers page https://www.zumper.com/jobs or send me a note at kari@zumper.com.
+                      
+                  
+      Red Balloon Security | Multiple positions in cybersecurity | New York, NY | Full time and Interns | Onsite | Visa welcome | redballoonsecurity.comAbout Us:
+Red Balloon Security is a venture backed startup cyber security company headquartered in New York City. Our mission is to provide embedded device manufacturers with strong host-based firmware security. We believe all embedded devices require strong protections against malware and intrusions, and seek to provide these protections to our customers.Our key markets include enterprise equipment, automotive, aviation, unified communications, SCADA, Internet-of-Things, network infrastructure and more. There is a vast universe of vulnerable embedded devices deployed around the world that need security.We have created a means to inject our Symbiote host-based security technology onto any device, regardless of CPU type, regardless of functionality, regardless of operating system and without changing the performance and functionality of the device. We do not require access to customer source code, nor do we require manufacturers to change their product design to accommodate our security solution.Red Balloon Security offers a full benefits package, 401k, a generous vacation policy, and paid health and dental plans. The company is located in Midtown West in New York City. We are an Equal Opportunity Employer of minorities, women, protected veterans, and individuals with disabilities.Open Positions:Security Researcher / Security Software Engineer 
+Python Engineer
+Business Intelligence AnalystSecurity Intern
+Business Intelligence InternMore detailed job descriptions: https://www.linkedin.com/jobs/search/?f_C=3243031
+To apply, email jobs@redballoonsecurity.com
+                      
+                  
+      Root | Columbus, OH | Full-time | Onsite | $80k-$150k | https://joinroot.com
+Root is an auto insurance carrier, like GEICO and Progressive. We use data science to identify and insure good drivers, reducing insurance premiums for good drivers significantly as a result.We're a startup â€” we're 70 people who have been working on this since March 2015. We've built an iOS and Android app that gathers data on how well people drive. We use that to set insurance prices. To build the best possible product and user experience, we went through the arduous process of starting an insurance carrier from scratch.We're focused on becoming a national insurance carrier and are now live in 10 states.We raised a $7M Series A from Drive Capital in 2015 and we're looking to bring on a couple more talented engineers.Tech stack involves Ruby / Rails and Javascript / React Native.Email us at jobs@joinroot.com to apply and we'll respond to you promptly.
+                      
+                  
+      Opendoor | Software engineers, data scientists | San Francisco, CA | ONSITE, FULL-TIMEAt Opendoor, weâ€™re on a mission to make it simple to buy and sell homes. The traditional process is broken, with an average home taking over 90 days to sell and costing thousands of dollars. We make buying and selling a home stress-free and instant. Weâ€™ve built an exceptional team, have raised over $300 million from top-notch investors and are growing fast, buying and selling more than $100 million of homes per month.We use golang, python, ruby, and elixir. If you're interested, send us your resume! We're hiring across a bunch of different teams. https://www.opendoor.com/jobsBen Thompson wrote about us: https://stratechery.com/2016/opendoor-a-startup-worth-emulat...
+                      
+                  
+      

@@ -1,0 +1,843 @@
+SpaceX, Los Angeles.  Working remotely is not an option for new-hires.  In December we became the first private organization to put a spacecraft into orbit and return it safely (highlights: http://spacex.com/multimedia/videos.php?id=57).  The other entities who've done this are all governments or governmental collaborations.  SpaceX is continuing our expansion. Want to write code that lives on the International Space Station or controls our vehicle while it visits? Want to help humanity colonize Mars? Drop us a line, we're hiring. Visit spacex.com/careers for more info.  For reasons relating to ITAR, you must be a US citizen or permanent resident.
+                      
+                  
+      I saw your info session at MIT today.  I am a senior in EECS at MIT doing a 5 year S.B./M.Eng. program.  I like machine learning/vision and robotics and would love to get my hands dirty writing software that controls real physical systems.  I've published research at the intersection of cognitive science and decision theory and just won first place at MIT's autonomous robotics competition. I've done various other projects that you can read about at http://snikolov.weebly.com.  Shoot me an email at snikolov@mit.edu if you think there is a match (especially in the avionics software group).
+                      
+                  
+      I'm 34 and recently engaged, but I would seriously move there and work for free if you would let me (and had a couch for me to sleep on). I am a US citizen but unfortunately my fiancee isn't on board.Keep doing awesome things guys/girls.
+                      
+                  
+      Now that's a job worth taking. Do you guys sponsor visas (I'm not sure exactly how that works, to be honest)?
+                      
+                  
+      Things like these make me want to be a US citizen.
+                      
+                  
+      If you live in Europe, you can try to contact the Copenhagen Suborbital guys[1].Our mission is very simple. We are working towards launching a human being into space.
+This is a non-profit suborbital space endeavor, based entirely on sponsors and volunteers.[1] http://www.copenhagensuborbitals.com
+                      
+                  
+      Macca, do you have any way of checking the status on applications? I applied a few months ago but never heard back either way.
+                      
+                  
+      I'd like to apply as a new grad (I'm graduating in May), do you have time to chat via email or phone so we could talk about which position would be best, or should I just apply to one and see what happens?
+                      
+                  
+      I'm curious as to how helpful these threads have been to both seekers and employers.  Has anyone found a job through one of these threads?  Do employers get meaningful applications?
+                      
+                  
+      These threads are one of our top 2 most effective hiring vectors; we've hired many people off HN, and the candidates we get from HN are the best candidates we get from any source.The caliber of people we've been able to hire from HN is one of the primary reasons I spend time here.
+                      
+                  
+      Your posts here are consistently useful and informative.  The HN community is definitely better for your presence.  I'm glad you are getting something in return, while at the same time providing jobs to HN readers.
+                      
+                  
+      I posted a link that I am hiring a few weeks ago, and not only did I get a lot of hits, but I also got a lot of great resumes; some of the best resumes I have ever seen.
+                      
+                  
+      I second tptacek.  This is one of the most effective places we have found candidates - we just hired our 3rd person from HN.  Every candidate that has approached us through HN has been thoughtful and intelligent - although obviously not everyone is a match for what we are working on.  Certainly I can offer anyone from here a actual person to talk to about your background and interests and what we are working on.
+                      
+                  
+      I found my current job at Monetate here, and am quite happy with the ease I was brought aboard. When I was looking last summer, it was easy to ctrl+f the hiring threads for my location. On the whole, I find the job descriptions succinct -- an immediate snapshot of what it would be like to work somewhere is important. And finally, the quick communication after I made contact gave me confidence that this place was serious about finding the right people.
+                      
+                  
+      I learned that Bump was hiring through one of these threads last year. I am currently gainfully employed here.
+                      
+                  
+      Pretty meaningless to me. I responded to a few awhile back and all I got were form letters.
+                      
+                  
+      I landed an internship earlier (and a job eventually) from one of these threads.
+                      
+                  
+      I've found these threads to be great as a former seeker.
+                      
+                  
+      Groupon (Chicago, Palo Alto)Groupon is still hiring developers.  We have an aggressive hiring plan for the rest of the year.  All job openings are at http://groupon.com/jobs.  The jobs are all cooler than the posts make them sound - we're working on that.Location:  We have offices in Chicago and downtown Palo Alto.  A unique thing about our dev team is that for most jobs, it doesn't matter which office you work out of.  Both offices have most jobs, people travel between offices as needed or desired, and we have good teleconferencing practices.Upcoming projects:- scaling for big, big traffic growth- Big Data work around personalization and more- lots of new projects, both internal and public- Most work is in Rails but previous Rails knowledge isn't a requirement.  Previous awesomeness is a requirement though.Benefits:- job security, market salaries - we're making money and just raised $1B- talented and excited coworkers - there's energy here I haven't felt at any other place- good development practices - increasing test coverage, requirements planning, post-mortems and retrospectives, etc- laser powered cat mascot- visa assistance and relocation on a case-by-case basisIf you're interested or have questions, email me at peterc@groupon.com and I can direct you to the right people.
+                      
+                  
+      Do you have weekly stand up nights featuring the CEO?
+                      
+                  
+      khanacademy.org - Mountain View, CA - remote is a possibilityHiring full-time devs and dev interns. Non-profit trying to change education. Backed by Gates Foundation and Google.ben+HN@khanacademy.org for more info
+                      
+                  
+      Sounds exciting.  What kind of work would the dev be doing?
+                      
+                  
+      Building everything from an educational badging system (http://bjk5.com/post/2426884194/khan-academy-now-has-badges) to an improved practice UI based on student behavior (http://bjk5.com/post/2071068737/khan-academy-in-the-classroo...) to better individual student analytics (http://bjk5.com/post/2783333652/students-need-better-self-as...) to basic UX improvements all over the place.(Sorry for self-promotional-looking links...they're legit sources of information for this question.)
+                      
+                  
+      I am an MBA(General) student at St. Bonaventure University. I like the motto of Khan Academy very much and would love to be a part of the organization. I am constrained area wise but if there is anything(Marketing, Human Resources) in "work-from-home" mode, I am all yours!
+                      
+                  
+      You don't happen to need a part-time (2-3 days a week) designer/front-end developer as well do you?
+                      
+                  
+      If your front-end dev work includes JS experience and you're interested in/passionate about math, our part-time contributors are currently focused on building out our JS-powered library of math practice exercises, and we would love help.
+                      
+                  
+      The not-for-profit I do work for has a lot of similar-sounding exercises. They're all written in Java (right now), but I'm working with our devs to get lots of them converted to JS/HTML5.http://shodor.org/interactivateDrop me a line; I'd be interested in what you all are working on.
+                      
+                  
+      Not that good at JS yet. My background is in design and crafting enjoyable user experiences. I am very passionate about education though.
+                      
+                  
+      Cambridge, MA (sorry, no remote)Blueleaf.com -- looking for interns:Marketing Engineer Intern: ideal for someone who wants to be a founder someday; lots of A/B testing implementation, making APIs do things they weren't designed to do, implementing crazy ideas from Dir of Mktg (me) and CEODirector of Content: you will write a lot about investments/investing, find others who will write for us about said topics, link to yet others who write on said topic, and generally start putting us out there (consistent with our corporate voice, which we know but isn't public yet)Marketing Intern: your standard social media douchebaggery, AdWords/landing page testing, and other "flood the funnel" activitiesNo job posting to link to, but I'm at sachin@blueleaf.com
+                      
+                  
+      Boston (US) as well as London (UK) - youDevise, Ltd.We're a 65-person financial-software firm committed to learning and improvement as well as great web software and agile development. We're hiring developers and other smart folks of many kinds. See http://www.youdevise.com/careers and https://dev.youdevise.com.While we don't have remote workers, we do help successful candidates relocate to London or Boston including arranging visas where needed. For example, last year we hired HN readers from Denmark and the US, and we moved a Polish employee to Boston.
+                      
+                  
+      The Nerdery (Minneapolis - HQ, Chicago - satellite office). http://www.nerdery.com/jobsHi HN. We're not a product/platform company, and aren't in SV, but we do have one hell of a culture, myriad projects, and an unending pipeline of new work. To support that growth, we're planning on adding an additional 100 people during 2011. If you're interested, have questions, or send in a resume, please let me know. I want to make sure anyone coming from HN stands out in our application pool. matt.albiniak at nerdery d0t comMost common thing heard around The Nerdery - "I learned more here in 3 months than I've learned anywhere else." Dog friendly, caffeine provided, developer owned and operated.We have immediate openings for:* Front End Dev - JS knowledge required, jQuery experience preferred.* C# ASP.NET Developer - ASP.NET MVC preferred* PHP Developer - Zend* Actionscript Developer - AS3* IA/UX Designer - previous FED experience* Software Project Manager - you make juggling look easy* IT Systems Technician - we're tech-centric. Not so much "can you install this" as much as "need ____ provisioned."* iOS Developer - please hurry.* ExpressionEngine Developer - see above.Oh, and if you're not a great developer but understand tech (like me), we're hiring in sales, too.
+                      
+                  
+      Hirelite.com is on a mission to put headhunters out of business by hosting speed interviewing events where developers and companies conduct 20 interviews over video chat in 2 hours.We have a few upcoming web-based events:- For SF Bay Area/Silicon Valley jobs on Tuesday, 2/15- For NYC jobs on Tuesday, 3/1- For Boston jobs on Wednesday, 3/9- We're considering hosting an event focused on remote jobs. Would that be of interest?If you're interested in participating, feel free to email me any questions or sign up on http://www.hirelite.com. We have spaces available for both developers and companies.
+                      
+                  
+      when i read your intro paragraph all i thought was "like what the world need is more quick and shallow interviews"... but reading your site there are pretty good tips and vision.you may focus that tagline in the time not wasted instead of the short interview time.
+                      
+                  
+      Thanks for that feedback. Great point. I'll try to keep it in mind.
+                      
+                  
+      Salesforce (San Francisco, CA) is hiring across all organizations: http://www.salesforce.com/company/careers/But we have an immediate need for a badass developer on our Product Marketing Demos team. We regularly use the latest technologies and platforms to build product prototypes, demonstrations, and visualizations that effectively communicate our product line.To give you an idea, in the past three months alone, our team has used Ruby, Coffeescript, Backbone, Raphael, Java/Android, and Obj-C/iOS to build apps demoed across the world in front of over 30,000 people at our global events.So if you like experimenting with upcoming technologies and want to make that part of your job description, email me at gopal.patel@salesforce.com...And we work in downtown SF right along the embarcadero -- some of the best views of the bay and city.
+                      
+                  
+      do you take people from europe? Sponsor visas?(this isn't necessarily for me, but I do know people who might take you up on your offer if you do)
+                      
+                  
+      I believe we do sponsor visas, but I'm checking to be sure...In any case, we have offices around the world. So even if this specific position can't work, feel free to have them email me about other opportunities.
+                      
+                  
+      Sounds like a good opportunity. Are there developer positions in Toronto? (I had a look at the careers' site and there seems to be many senior positions so I'm not sure if I can fit in)
+                      
+                  
+      What skills specifically you value most?
+                      
+                  
+      YAMMER helps turn the mayhem of the corporate world into return-on-investment unicorns and leveraged-employee-engagement butterflies.
+We are a medium sized start-up that is battling several big enterprise software companies in this space. So yes, our target customers are in the enterprise space BUT we are turning this space upside down with our viral approach and how we build solutions for the user (which doesnâ€™t include an army of salesmen). We are solving consumer type problems but also monetize like enterprise software. (i.e. real revenues with fewer users)What's in it for you?:-GOOD catered Lunch and Dinner daily-Fancy Apple Hardware of your choice (you can have a PC if you REALLY want one)-Amazing group of smart engineers (sounds cliche, but we really do have smart people here :D )-Ability to have influence without authority.-Working with technologies like Scala, Rails, and advanced JavaScript-Wine and Whiskey Connoisseurs onsite at your disposal-Our CEO is David Sacks, and yes, he is responsible for making the movie, "Thank You for Smoking".-Top of the market Start-up Compensation (we pay to play)Check us out! https://www.yammer.com/about/jobs
+                      
+                  
+      If you have a data fetish then you should stop reading anything else on this page and email me personally at jferguson at yammer-inc dot com with your resume and tell me why you love it.Big data, we've got that. Social networking, we've got that too. If you're tired of only dreaming about using data to iterate on a real product at a startup that is crushing everyone else in their space then you should get excited right now because Yammer is that place. Distributed databases, real time data streams, ruby, rails, scala; this is the position you've dreamed about your entire life! How many people get the opportunity to come work on a data team at a startup? Stop sitting around thinking about doing awesome things and come do them.Also the food is delicious.. no really.. it's that good..
+                      
+                  
+      I was just hired here a month or so ago. This is by far the best place I've ever worked. Great people to work with (all of which are smarter than me), they treat us well with awesome catered lunches and dinners, supply us with the best hardware, and keep us happy.Bottom line - Yammer makes sure you don't have to worry about anything so you can focus on the awesome problems that we get to solve.(update)
+Also, forgot to add that we get to work with all the cool toys - I've been having a blast with node.js :)
+                      
+                  
+      We also offer REAL external referral $$fees$$, if you're curious ping joe at yammer-inc dot com.We don't believe in cutting corners on hiring the best.
+                      
+                  
+      I work at Yammer. It's awesome.
+                      
+                  
+      GitHub â€” San Francisco, CA. Remote's doable, although we dig SF'ers.We're looking for someone to help us out with GitHub's Enterprise product, Firewall Install. Basically we want to add 22 units of awesome to it, at a minimum. See our job page for details and to apply, or feel free to ping me at @holman if you have super special questions.http://jobs.github.com/positions/93a9f09a-2a4e-11e0-9546-9a4...
+                      
+                  
+      Canonical is continuing to grow.  Most of the technical positions are remote.  It's a great place to work.  Tell them Benji sent you. http://webapps.ubuntu.com/employment/
+                      
+                  
+      San Francisco, CAGreplin - We're a YC W10 company with interesting problems, smart people, cool tech, and huge data. What more could you want?We're hiring across the board right now - front-end/back-end/generalists/designers/ops/dev-ops: it's all good!We help people search their personal information that's in the cloud (Gmail, Dropbox, Facebook, LinkedIn, etc). As TechCrunch said, we've "attacked the other half of web search."https://www.greplin.com/jobsSorry, no remote work.
+                      
+                  
+      I find Greplin to be one of the most interesting YC companies. Can you tell us anything about your tech stack?
+                      
+                  
+      Send me an email (address in profile) and we can chat offline if you're interested in more details. But to be brief, some of the bigger pieces include Lucene, Tornado, Twisted, and Hadoop.
+                      
+                  
+      StyleOwner (San Francisco) is hiring for two positions.  If interested please get in touch today if possible.We're a small, venture funded startup in the fashion space (very hot right now). Looking for one frontend and one backend engineer.Benefits: Competitive pay, small team atmosphere, you get to have a big impact on our success.  Dev team located in SF.  Currently we work from home / coffee shops & meet in person one day a week for a hack session / coffee.Two postings:http://jobs.37signals.com/jobs/8105andhttps://jobs.github.com/positions/a06703dc-1e86-11e0-8f66-20...The ideal candidates are comfortable on a small team, write solid, clean code, and are able to handle a loosely structured environment.  Please send a link to your portfolio or github profile, etc.  For a shortcut to apply, just email matt@styleowner.com.
+                      
+                  
+      Lot18 - New York CityWe are revolutionizing the wine e-commerce experience. We're an agile, early stage, venture backed technology startup. Our company is a great place for smart, hard working people who want to make a difference and help change the wine world.Engineers - http://www.lot18.com/careers#web_engineerDesigners - http://www.lot18.com/careers#web_designerAll careers - http://www.lot18.com/careers---P.S.
+Check out http://www.startupshiring.com for an aggregated list of startup jobs from many of the companies on this thread. If you're company isn't listed, please add a request. http://www.startupshiring.com/add.
+                      
+                  
+      Next to no job postings for the City of Toronto Ontario Canada.
+                      
+                  
+      Bump for the wine (though you should update your HN profile).
+                      
+                  
+      startups hiring is awesome. that's where I originally saw the posting and applied to Lot18 from.
+                      
+                  
+      bump for an awesome startup / architect
+                      
+                  
+      TheFind (http://www.thefind.com), Mountain ViewTheFind is solving fundamental problems in information extraction and search by using applied machine learning. We successfully crawl and extract products from a billion web pages. We currently have 25MM+ users visiting thefind.com every month, and are growing 100% YOY.Our goal is to build a product focussed on all aspects of the shopping process like comprehensive selection, price comparison, coupons, product reviews, sentiment analysis, shopping at local stores, eco-friendly shopping, hot trends, shopping based on your personal and friend's tastes, mobile shopping etc.If you've worked on things like information extraction, search relevance, text mining, big data etc. and would love to architect solutions to challenging problems, please email our CTO at kshashi _AT_ thefind _DOT_ com
+                      
+                  
+      Bronto Software - Durham, NC (remote is possible)We build complex marketing software. PHP on the frontend (Zend Framework and custom components) and Hadoop/Cassandra on the backend. Lots of huge data challenges & tons of servers. You'd be joining a big Engineering team with a ton of smart people.- Looking for a web software engineer with deep experience with PHP and MySQL.- Looking for an engineering manager to run the new team working on new cool stuff.Both positions shown here: http://bronto.com/company/careersBronto's a great company and the Engineering department is especially fun. The environment is great: 20' ceilings in an old tobacco warehouse, exposed 100-year old beams, gigantic windows, open floor plan. Foosball, lots of free drinks, snacks and food. Lots of freedom to build great stuff, no micromanagement.
+                      
+                  
+      Ft. Lauderdale, FL  -- non-remote (worth the relocation!)MCNA Dental Plans --  Looking for heads down engineers with Lisp experience or exposure.Health care probably doesn't sound too interesting but this industrial-strength business application is being re-written from scratch in Common Lisp. The system being built includes a hybrid relational and graph database on Postgres, quasi-natural-language driven production rule systems, rich internet application (using Lisp to wrap/drive qooxdoo), and great graphics!Did I mention working with 6 other awesome Lispers?Original job post:  http://lispjobs.wordpress.com/2010/12/22/lisp-developer-mcna...Email me (look in profile) if you have any questions or you want a softer intro to the hiring manager.
+                      
+                  
+      Guidewire Software - San Mateo, CA (mid-peninsula in the Bay Area, for non-natives)We do core systems for insurance companies.  No longer a startup (we're about 9 years old), but still privately held and doing very well financially.The core work is in Java, but the platform is mostly a proprietary stack, including the Gosu language that we've recently open-sourced (http://gosu-lang.org) and are still actively developing.We need developers on our applications and our platform, as well as product managers and QA.  http://www.guidewire.com/careers for more details.Feel free to e-mail me directly (akeefer@guidewire.com) if you're interested or have any questions (I'm the tech lead on our platform team).
+                      
+                  
+      Hopper - Montreal http://hopper.travelHopper is a search engine for making trips. We use information extraction, machine learning, distributed computing and custom search algorithms to transform ridiculously huge volumes of data into useful information. Interested? Get in touch.For more info about us, check out http://nextmontreal.com/product-market-fit-hopper-travel-fre...
+                      
+                  
+      Very cool stuff! Its a shame you listed java in the system admin posting.
+                      
+                  
+      We hire smart people who get the job done. Yeah, we use a lot of Java. And RoR. And Hadoop, Cassandra, etc. We use AWS and we run a DC stuffed with custom-configured servers. In general, the knowledge of a specific technology/language/framework we already use can be helpful, but not a requirement. Chances are, you don't know everything you need to know to do this job. So willingness and ability to learn is a requirement.
+                      
+                  
+      Thats fair! I wish I did know everything. Thanks for the response!
+                      
+                  
+      I know it's not in the traditional vein of what people look for at HN, but Microsoft is hiring for Commercial Technical Support in Dallas (Irving) TX, Charlotte NC, and (I think) Fargo ND.  There are openings in a variety of groups (SharePoint, Windows OS, SQL, IIS, Exchange) and for a variety of positions (Support [Escalation] Engineer, which is phone-based, and Escalation Engineer, which is debug/code-based).Note: I work for Microsoft in CTS, though I'm posting on my own.
+                      
+                  
+      Rackspace - San FranciscoAs part of acquiring Cloudkick (YC W09), Rackspace is building out its first bay area office.Most of these positions are working with the Cloudkick team.Looking specifically for:  - Javascript people, who can help build a 
+    fully client side application.
+
+  - Python & Node.js people for expanding our 
+    backend services (Cassandra experience is a plus)
+
+  - General C/C++/Lua for work on our agent
+    and monitoring systems.
+
+If these interest you, drop me ( pquerna@cloudkick.com ) a line.More specific positions are also up on the racker talent site:http://jobs.rackspace.com/search/?q=san+francisco
+                      
+                  
+      Boston, MA (not remote)MDT Advisers - We're a small quant investing shop working with machine learning, financial analysis, and the hardest dataset in the world. Weâ€™ve got two main types of positions that weâ€™re hiring for: a dedicated developer position, and a general analyst position thatâ€™s about 60% programming and 40% financial and statistical analysis -- http://www.mdtadvisers.com/careers/qea.jsp . The people, problems, and pay are good, and we aim for good work-life balance(e.g. no 60 hour weeks).You can email me at jlewicke@mdtadvisers.com with any questions you have.
+                      
+                  
+      The website says that the dress code is 'business casual'? So, no jeans or sneakers?
+                      
+                  
+      I think we're at the more formal end of "business casual", but I normally wear a collared shirt and slacks, with no tie or jacket.
+                      
+                  
+      Too bad!Thanks for the reply though.
+                      
+                  
+      don't dismiss it out of hand - I worked for about 20 months at a big financial corp and got a good laugh most days checking myself out in the corporate uniform . . .it's not so bad, but it is funny if you come from a place where flip-flops and the shirt you painted the house in last weekend is normal M-F attire.  It definitely took me awhile to get used to sitting in my cube in nice shoes.
+                      
+                  
+      I wear nice shoes to work sometimes, and sometimes I don't feel like it. Rules tend to make me bristle, especially meaningless ones like dress style. Horses for courses and all that.
+                      
+                  
+      Are you open to visa sponsorship?
+                      
+                  
+      Copenhagen, Denmark- Looking for full-time iPhone/iPad developer.You must have good experience with the platforms as you will initially be responsible for creating the app from scratch without any in-house expertise.
+Some decent knowledge of networking and possibly C is also necessary as the app will interface with an extensive backend.- UX designerIf you are capable of making great looking vector graphics and know / can quickly learn to draw in Flash then we may have a full time position available.- InfoRemoting is not an option currently. We are willing to look into helping with relocation for the right person, but we prefer locals at this stage.Send an email to jonas at enwire dot dk with a short info about yourself.
+                      
+                  
+      Bump (Mountain View, CA)Come work with me!!! I do iPhone magic at Bump.We are hiring lots of positions in iPhone, Android, Web Dev (HTML etc), Systems Engineerings, Algorithms, and Designer positions too.http://bu.mp/jobs
+                      
+                  
+      I also work at Bump and even though they're technically paying me, they're not paying me to say this: Bump is a super fun place to work! Join us!
+                      
+                  
+      We are also hiring interns, just apply to any of those jobs and say you are interested in interning.
+                      
+                  
+      I saw there was an application for "Computer Science intern", is this newly created to solve this problem, or should I still be applying for the other positions I'm interested in?By the way, the product looks amazing, but it's the team's enthusiasm that encouraged me to apply. A team that passionate has to be building something good. Keep it up guys.
+                      
+                  
+      Bump is building an awesome design team. We are hiring interaction designers & visual designers - come join us.
+                      
+                  
+      San Francisco, CA  (Remote's a possibility, too)Elation EMR - http://www.elationemr.comWe're building web based tools that improve the lives of physicians and their patients. We're a small, angel-funded team with some really incredible people on board ( http://elationemr.com/aboutus.html ), and we're looking to add one or two more engineers to complete core of our technical team.As one of our first hires, you'll play a key role in shaping the company and culture, architecting the foundations of a very complex system, and designing the experience for a highly demanding user. No healthcare experience is needed, but you should be excited about building technology that has the potential to deeply impact people's lives.Our tech stack is still growing but currently includes Python, Django, MySQL, jQuery, and Java. A few more details here: http://elationemr.com/jobs.htmlDon't hesitate to be in touch!
+                      
+                  
+      Trulia (Downtown San Francisco)Fastest growing real estate search site.Looking for multiple solid back-end developers, a data scientist or two, an engineer with email systems experience, front end php/javascript types if experienced, and at least one data warehouse engineer and one sysadmin.Ongoing and upcoming work:Efficient scaling of multiple systemsCreating new products out of all the real estate data we have access to.Integrating new sources of interesting data many of which are geospatial in part.Excellent opportunity to work with cutting edge tech (we save the bleeding edge stuff for prototyping) and work in an environment where your work can have an immediate impact on the business.The back end is mostly java with bits of python,  the front end is lamp based.  We make heavy use of open source where we can.Not all the positions are posted all the time so if you don't see one of the ones mentioned, just apply for one of the other engineering positions and put in the cover letter part what you are actually interested in.
+http://www.trulia.com/jobs
+                      
+                  
+      Los Angeles, CA and Silicon Valley, CA -- FactualWorking remotely is a possibility for exceptional engineers, but in-person is highly preferred.Factual aims to be the place where people meet to share, improve, and mash-up data. We have an awesome team that is still fairly small, and an incredible CEO (he was the co-founder of Applied Semantics, which was sold to Google and became AdSense). We recently raised a Series A from Andreessen-Horowitz, and our customers include Facebook (we provide some of their Places data) and Newsweek. We have lots of challenging problems to work on at all layers of the stack: data cleaning and canonicalization, deduping, storage, serving, APIs, etc. If you love data, Factual is great place to be.We're looking for awesome Java generalists. Bonus points for experience with MapReduce, developing NoSQL datastores and/or machine learning.http://www.factual.com/jobsYou can also email me personally at leo -at- factual.com
+                      
+                  
+      Are you organize or support moving?
+                      
+                  
+      SB Nation is a media/technology startup in Washington, DC. We're hiring Ruby developers and visual designers (local preferred, remote considered):http://www.sbnation.com/jobs/developerhttp://www.sbnation.com/jobs/designerWe're a network of 290+ sports news sites & communities. As newspapers are shutting down their sports sections, we're quietly reinventing the media model with profitable, high-quality, innovative coverage by and for fans. Our investors include Accel Partners, Allen & Company, Comcast Interactive Capital, and Khosla Ventures. We get around 16 million unique visitors every month.Our small product team develops the custom publishing and community platform (built on Rails) that powers the sites. The interesting problems we face range from editorial analytics, to social distribution, to scaling the system to handle our rapid growth.Here are some of the humans you'd be working with: 
+http://www.flickr.com/photos/mlovitt/4507489423/in/set-72157...And some recent press:* Why sports is driving innovation in journalism: http://markcoddington.com/2010/10/08/why-sports-has-taken-th...* NY Times profile: http://www.nytimes.com/2010/06/07/business/media/07fans.html* Harvard's Nieman Journalism Lab: http://www.niemanlab.org/2010/06/sb-nation-ceo-on-how-were-f...
+                      
+                  
+      Palo Alto, CA - FlipboardSeeking iOS and web developers with a passion for design and craftsmanship. (No remote is possible.)http://www.flipboard.com/jobs[NSString stringWithFormat:@"%@+HN@%@.com", @"charles", @"flipboard"]
+                      
+                  
+      Bubbli - Palo Alto, CA.  Remote not a possibility at this stage.We're a very well funded augmented reality startup co-founded by myself (who created Yelp Monocle) and my co-founder, a designer from NYC.  We're going to be closing a big round in the next few days and are soft launching at TED (the real one) next month.  John Doerr also told us he's just seen the future when he saw our demo, if that means anything to you.We're looking to hire a computer vision engineer, front-end engineer, and back-end engineer.  You'll potentially be our first employee - and we'll be paying well.For an intro see http://bubbli.co/introFor more about the jobs see http://blog.bubbli.co/jobsFor a bit about some internal tools see http://blog.bubbli.coShoot me an e-mail @ ben@bubbli.co
+                      
+                  
+      Hi all.  I curate the NYC StartupDigest Jobs list -- email me if you'd like to see your posting included.
+                      
+                  
+      Blaast is building a cloud-powered mobile OS, designed around web technology. We're disrupting the medium by building a platform that offers a native-like user experience: our apps are beautiful, fast and always up to date. We get there by leveraging our cloud platform to offer features that you don't see in today's mobile devices.Our product has stirred the interest of a few big players and we're close to land our product into the hands of millions of users. We are a team of 15 young guys from around the world, based in Helsinki, Finland, and funded by experienced guys including the co-founders of Skype.We are looking for brilliant software engineers that are looking to work into new disruptive technology. Our platform is based on Java and Javascript (node.js).To apply ping us at jobs@blaast.com.
+                      
+                  
+      Sociable Labs is hiring several positions including sysadmins, front-end developers, and back-end developers.I work on the front end, we do a lot of cross-domain ajax and work with the FaceBook JS SDK. I'm looking for at least one more front-end developer who knows JS inside and out. Experience with FB's new JS SDK is, obviously, a benefit.Our back-end is Java / Jetty / PostgreSQL running on Amazon EC2.We do basically a more advanced version of Facebook's Social Plugins for a number of large websites.We're located in the San Francisco area. Remote work is an option; I work remote from Ohio right now.Everyone works from home on Fridays, and the office is generally a pretty fun place every time I've been out to visit.http://www.sociablelabs.com/Contact nathan @ above website if you're interested.
+                      
+                  
+      Location: Paris, France.A stealth Mode well-funded startup writing highly disruptive Internet software is looking for :A C++/Web Application security developer.Ensuring that security risks are known/evaluated and that prevention techniques are identified, implemented and applied.An UI/UX designerDeveloping creative UI solutions for large scale C++ and Web applications.A MacOS X, Cocoa, C++ Qt developerporting our applications (Desktop and Web browser plugins) 
+to the Mac OS X.email me at jobs<at>kwift<dot>com
+                      
+                  
+      Smarkets in London: http://smarkets.comReal-time trading platform. Python frontend, Erlang backend.Smarkets is one of the Wall Street Journalâ€™s Top 10 Tech Startups to watch in Europe and was shortlisted for the Startups Awards.
+                      
+                  
+      Conshohocken, PA (outside of Philadelphia)Monetate - jobs.monetate.comSaaS provider of testing, targeting, and personalization tools for online retail stores.Open Positions:
+ * backend engineers -  work on data and web problems at scale in Python.* front-end developers - build and test experiments on our client facing UI. You should be experienced in working with production-quality cross-browser HTML/CSS and Javascript with and without frameworks.We're small, profitable, and growing fast while still having fun (happy hours, free lunch everyday, group cycling, running). We've hired people through these postings (3 now!) and look forward to interviewing fellow HNers.Feel free to email me any questions - tjanofsky monetate com
+                      
+                  
+      PULSE - Downtown Palo Alto, CA (across the street from Caltrain) - We build Pulse News an awesome newsreader for iPhone, iPad and Android. 
+Website: http://www.alphonsolabs.com/jobsWe're hiring iOS engineers. We would love for you to come by and get to know our 7 person team. You will have a large amount of control and impact and have an extremely engaged user base to answer to! Shoot us an email at jobs@alphonsolabs.comiOS - Ideally, you have already developed and launched an app in the store. You prototype features rapidly and iterate on design even more rapidly â€“ while writing clean code.
+                      
+                  
+      Boston, MA; not remote.Ember has a couple of openings for firmware/embedded and manufacturing engineers: http://www.ember.com/company_careers.htmlWe make low power wireless chips and the software that makes them useful.Ember is a fantastic place to work, email me directly at emberFeb2011@saidsvec.com if you're interested.
+                      
+                  
+      These guys have a _fantastic_ office space in Boston -- it's right next to the Flour Bakery in Fort Point Channel (near the Children's museum). I mean, I've never been inside their offices, but every time I go to Flour I have to walk by them.
+                      
+                  
+      Plus, we get Flour Bakery goodies delivered a fair amount, which is a great - but dangerous-to-the-waistline - perk.
+                      
+                  
+      cool! a museum showing the time children roamed the earth!
+                      
+                  
+      Netflix has many open positions in Los Gatos, CA.http://www.netflix.com/JobsHTML5, javascript, iOS, Android, Silverlight, Security Architect,  J2EE, QA and more.  See the jobs page for the full list and hit the link to apply.There is a startup-driven culture at Netflix that rewards risk-taking and high performance.  It's a great place to push the bleeding edge,  whether you build client software (lots of A/B behavioral testing) or server software (as one of the larger users of AWS, we're breaking new ground all the time).  Come help invent the future of movie and TV watching.
+                      
+                  
+      Is Netflix hiring straight out of college? The only "New College Grad" position on the page is for designers. I'd love to work at Netflix - my email is kev@inburke.com
+                      
+                  
+      All engineering positions are senior level.  Unlike most companies in the valley, Netflix doesn't hire junior or mid level engineers.
+                      
+                  
+      Aren't you sort of... eating your seed corn by doing that?
+                      
+                  
+      Palo Alto, CA - Think Computer CorporationWe run the FaceCash (http://www.facecash.com) mobile payment system, which is being deployed nationwide. We have apps on iPhone, Android, and BlackBerry, and we're always looking for top people to help out. Merchants love us because we're cheaper (and we give them a free POS system), and consumers love the integrated coupons. Apply on our corporate site at:http://www.thinkcomputer.com/corporate/jobs/index.htmlor e-mail me at aarong at thinkcomputer.com.
+                      
+                  
+      Wavii is hiring in Seattle, WA.We need frontend developers to work on a rapidly iterating consumer facing website.We are also hiring backend developers interested in natural language processing and the infrastructure needed to support large scale data processing.TechCrunch coverage:http://techcrunch.com/2010/07/21/time-to-meet-wavii-the-supe...http://techcrunch.com/2011/01/17/wavii-waviimania-investors/jobs@wavii.com
+                      
+                  
+      Los Angeles, CA - Quant Trading Firm - Not remote, must be authorized to work in the US.One of my clients is looking for a network programmer.  The developer will be responsible for low level, low latency feed handlers (from market data providers) and in improving/developing drivers for their distributed computing infrastructure.Position is very competitive, but no former financial knowledge or experience needed.  Must know C++ and socket (TCP/UDP) programming very well.  They will look at junior to senior people, and can pay very well.Email trent.krupp@constitutionllp.com for more info.
+                      
+                  
+      MochMedia (San Francisco, CA) - http://www.mochimedia.com/jobs/Mochi is hiring engineers (Python, Javascript and Erlang). We bulid highly distributed and reliable systems to help independent game developers distribute and monetize over 30,000 casual games across the web.We also love open source and have contributed back to the community with simplejson, mochiweb, mochikit and other projects.Benefits/perks:- Competitive Salary, Robust Medical Benefits & 401k- 20% Mochi Labs R&D Time- Equity in Shanda Games Limited (NASDAQ: GAME)- Catered Family Style Lunches 2x Per Week- $3,000 Education Budget
+                      
+                  
+      Kongoroo.com is offering a Business Development co-founder role.(About us, quickly: Kongoroo is the front-page of the web for kids.  Parents submit sites, which are vetted and filtered for age and interests, and popularity bubbles sites to the top.)The site still has work to do but we should still make the soft launch date at the end of February.  We need help to execute this right.  If you're interested or experience in Bus. Dev. please contact me at the email in my profile. We prefer if you're from the SF Bay Area, but we're open to other locations.
+                      
+                  
+      San Diego, CA - StockTwitsWe're looking for a Senior Ruby Developer to join the team in Coronado: http://stocktwits.com/jobs#rd---------------------------------------------New York, NY - Apartment TherapyThey haven't posted a job description yet, but I'm leaving my front-end developer/web designer position, so they'll be hiring soon. Email me at cgurga@gmail.com if you want me to send along the job posting once it's up =) Local is preferred (I'm leaving because I took a job with StockTwits now that I live in California).
+                      
+                  
+      Savvica - Toronto, ON (must be on site)We're looking for a Design Lead and a Senior Developer (http://savvica.com/jobs)We are Indiaâ€™s leading educational marketing and recruitment services company. We work with universities and colleges primarily in the US, Canada, UK and India to recruit Indian students for their programs. Savvica operates learnhub.com, studyplaces.com, and jumbotest.com, reaching more Indian students than any other education-focused sites in India.
+                      
+                  
+      Gaithersburg, MD - A payment processing software company I used to work for is hiring an internal applications developer. You'd be working with Python, SQL Server, IIS and other technologies to automate internal processes.They'd prefer someone local but working remotely might be ok.They're open to hiring anywhere from entry level to senior.  It's the type of job where either role would work.Email me (in profile)* As long as you can demonstrate some programming skill, and resourcefulness, they're happy to train you in Python, and SQL Server.
+                      
+                  
+      Successfactors (Redwood City, CA)Formerly cubetree.com.  Recently acquired by SuccessFactors.  We're no longer a startup but we still have that startup feel.  We push code on a weekly basis and we've got a very strong, talented and well connected team.We work in ROR with a mysql backend and CSS and Javascript on the front.  We're building a secure and global social platform for businesses.If you're interested send me your resume (john@cubetree.com) and a brief description about what kind of a position you're looking for.
+                      
+                  
+      We're hiring at Hashrocket.http://hashrocket.com/jobsRuby, Agile, Pair Programming (all the time!), open source time, benefits, a team of super smart and quite enjoyable people to be around, and a pretty office at the beach to boot.We're also open to apprentices/internships, if you're interested feel free to email jobs@hashrocket.com and if you have any questions you can contact me personally robert@hashrocket.com or @rbxbx on twitter.Cheers :)
+                      
+                  
+      Links to any open source code you've written or any other work examples you can provide are much appreciated.
+                      
+                  
+      Where's the job opening?
+                      
+                  
+      We're hiring for both our Jacksonville Beach (Florida) and Chicago offices.  I work and speak more for the Jax office though.
+                      
+                  
+      New York, NYSeatGeek - Data-driven search for event ticketsLooking for a frontend developer (Javascript/HTML/CSS) to have complete ownership over that part of our web app.  An eye for design and Photoshop skills are a plus.On-site only.  Drop me a line if you're interested: jack@seatgeek.com
+                      
+                  
+      Is this the only position you guys are hiring for currently? Your website lists a few others.Also recently saw you guys mentioned in Entrepreneur magazine, congrats on the nice writeup!
+                      
+                  
+      It's the position we're hiring for most urgently; we're hoping to fill it within the next few weeks, whereas for the others listed the time frame is 1-3 months (depending on when we find someone who is a good fit).Glad you caught the article, thanks.
+                      
+                  
+      Thanks for the info. I also noticed that http://apply.seatgeek.com/ seems to be down at the moment.
+                      
+                  
+      Thanks for the heads up; we'll look into this right away...
+                      
+                  
+      DECK Monitoring (Eugene, Portland) is looking for senior Ruby and JavaScript developers. We do renewable energy monitoring software.You should rock at: JavaScript, Ruby, Rails 2, HTML/CSS, MySQL, RSpec and testing, version control, basic math.
+It'd be cool if you knew: haml/sass, git, jQuery, linux (Debian), ActionScript 3, Cucumber, Rails 3, Sinatra, foosball, agile/scrum/xpEmail your resume or a short intro to careers@deckmonitoring.com.
+                      
+                  
+      Redwood City, CA - YuMe is hiring (www.yume)
+A full list of our job openings is on our web site:
+http://www.yume.com/content/open-positionsTechnical Openings in our Redwood City HQ:* Principal Software Engineer* Senior Data Analytics Engineer* Senior Database Engineer* Senior Software Engineer -  Ad Management System* Senior Systems Administrator (Windows)* Senior Systems Engineer (Linux)About YuMe:YuMe is a video advertising technology company that makes professional video profitable for publishers and effective for advertisers. Its robust ACEâ„¢ technology powers both its premium ad network and its industry leading advertising management platform solution, ACE for Publishers. YuMeâ€™s premium ad network aggregates the best in video content, representing over 600+ Premium publishers including MSN, NBC and Fox News. And with more than 1.6 billion video streams and 90 million unique viewers, YuMe serves over 30 million in-stream video ads per day. As a result, YuMe gives publishers and advertisers unprecedented reach, brand safety, contextual relevance, controlled syndication, and consistent delivery across all digital media platformsâ€“Web, downloads, mobile, and IPTV.  YuMe is a privately held company headquartered in Redwood City, CA and backed by Accel Partners, BV Capital, DAG Ventures, Khosla Ventures and Menlo Ventures.  This is a rare opportunity to be part of an organization that is shaping the future of digital media!For more information, visit www.yume.com, follow @yumevideo on twitter (www.twitter.com/yumevideo), or become a fan of YuMe on Facebook at www.facebook.com/yumevideo.
+                      
+                  
+      Weebly (San Francisco, CA)We're looking for 2 front-end developers. There's a puzzle at http://www.weebly.com/jobs.html -- see if you can solve it under 30 minutes(Remote is not a possibility)
+                      
+                  
+      Leeds, UK (no remote) - Pitch Hero LimitedSports website with 1MM+ UVs/month, looking for frontend designer / developer. Â£30k+ and possible stock options.http://www.pitchero.com/jobs/
+                      
+                  
+      A buddy of mine is hiring PHP/Drupal folks in Maryland:el http://www.unleashed-technologies.com/about-us/resumes/mid-l...http://www.unleashed-technologies.com/about-us/resumes/devel...
+                      
+                  
+      Cape Town, South Africa (no remote) -- SnapBillIt seems there are a few South Africans around this site so giving it a shot. We're a small growing startup in the recurring billing space that just launched last week (www.snapbill.com).We've got big plans and are pushing to get a lot into the system as soon as possible but need a little bit of help. Shoot me an email if you're interested.
+                      
+                  
+      note: I see you guys improved the writing on the homepage. Congrats! :)  You went from this:"SnapBill is an online invoicing and billing system with service provisioning capabilities. SnapBill is perfect for all businesses, especially those providing services requiring an automated recurring or subscription billing system and payment collection facilities."to this:"SnapBill is an online invoicing and billing system that allows you to easily sell your services online. SnapBill is perfect for businesses requiring an automated recurring or subscription billing system with payment collection facilities."Much better. (But what are "payment collection facilities"? Does that mean you take care of credit card entry and such? Then say so.)Now give it another go-over, there are still heaps of paragraphs on that page to be improved. Make it shorter (without loosing substance). Emphasize important points with bigger type.Good luck :)
+                      
+                  
+      Maxeler Technologies (http://www.maxeler.com) is hiring for Palo Alto, CA and London, England. (no remote)Application acceleration engineers to work with client applications to deliver order of magnitude speedups. You'll be involved in every stage of accelerating applications, from analyzing multi-million line code bases through developing new algorithms, to implementing complete solutions running on FPGA, GPU, or other technologies.You will need a degree or equivalent professional qualification in Computer Science or a related discipline as well as experience in some of the following:
+ Â» High performance software development in C/C++ or FORTRAN.
+ Â» Program analysis and transformation
+ Â» Compiler design and implementation
+ Â» Computer architecture / digital circuit design.
+ Â» Working with scientific software code in HPC application 
+domains such as computational finance, seismic processing, life sciences or fluid dynamics.
+                      
+                  
+      Austin, Texas / On-site only / Gowalla IncorporatedA fun company with interesting problems, stellar designers and an unrelenting focus on great user experience. We're looking for an iOS developer, Ruby developers, an operations engineer and a BlackBerry developer.I moved to Austin last year to join Gowalla and I love both.http://gowalla.com/jobs
+                      
+                  
+      Uber (San Francisco, CA)We're hiring engineers for all kinds of roles, including mobile development (iOS, Android), infrastructure (node.js and Python), as well as engineering-oriented data analysts (we've got LOTS of data to mine).  Extra points if you can do all of the above.More info here:  http://www.uber.com/jobs
+                      
+                  
+      Kontagent (San Francisco, CA)We are looking for developers and sales:http://www.kontagent.com/jobs/I've joined the startup a few weeks ago as a developer. We are pursuing multiple initiatives and I excited to start contributing right away. Our technology stack includes JavaScript, Python, Django, MySQL, data warehousing, etc. Free group lunch is served daily.Remote a possibility for top notch people. Some developers comes in San Francisco every few weeks or every few months.Kontagent measures people, not pages, and is a leading analytics platform for social application developers. The platform has been built to provide deep social behavior analysis and visualization that provides actionable insights via a hosted, on-demand service. It works with many of the worldâ€™s largest developers and brands, tracking thousands of social applications and games with over 70 million monthly active users.
+                      
+                  
+      Do you have a email address that I can contact you at for more information?
+                      
+                  
+      waiyip.tung at kontagent.comPlease feel free to ping me. Sorry I haven't see your message until today.
+                      
+                  
+      Catch.com (San Francisco)We are looking for hackers to join our team in SOMA. We have a bunch of ex-Metaweb and Googlers hacking on:  * Android / iOS
+  * JS (Google Closure)
+  * Python (Pylons)and MongoDB.
+
+We have a crazy amount of users on Android. =)https://catch.com/jobs
+                      
+                  
+      StudyBlue (Madison, WI) is hiring for the following positions:Marketing ManagerFront End Web DeveloperSenior Applications DeveloperiPhone DeveloperAndroid DeveloperNetwork Operations DirectorQA EngineerWe're a funded startup out in the midwest (they do exist) building educational tools for high school and college students.For more info: http://company.studyblue.com/about/jobs/
+                      
+                  
+      EA2D - Redwood Shores, CA (SF Bay Area)http://www.ea2d.comWe're a small, autonomous studio within EA building social games for gamers.  Our first monetized title, Dragon Age Legends, is about to enter closed beta and has been generating a lot of buzz (http://pc.ign.com/articles/114/1146553p1.html).Our Platform team is looking for mid to (very) senior engineers. You would be responsible for building the platform on which all EA2D games will run, from the pages that serve the HTML to the suite of game servers supporting them.  Analytics, social network integration, shared services (REST), scaling, real-time stateful and stateless game servers -- this would all be your domain.Our stack is primarily Java with MongoDB on the backend, but we're becoming increasingly polyglot (Python, Ruby) in the middle tier.  We're hosted on EC2 (w/auto-scaling and on-demand environments) and practice continuous deployment.  A sampling of the tech we use: Chef, git (GitHub), Hudson (now Jenkins?), ant, ivy, SQS, S3, EMR, Loggly, PagerDuty, Mixpanel, Kontagent, NginX, Tomcat, Hive, and Google App Engine.  We contribute code back to the open source projects we use, and we've even started open sourcing our own (https://github.com/EA2D).The Platform team is small and young -we're still building out the initial implementations of many services- so you would have a tremendous impact on our architecture and direction.We're a tight-knit team with lots of whiteboards, so you'd need to be on-site.  On the plus side, EA's campus is fantastic - we have a stellar gym, cafeteria, theater, shuttle service to Caltrain, soccer field, volleyball and basketball courts, tournament-quality foosball tables, and much more.Drop me a line if you're interested, mikeb@ea2d.comWe've already hired two people from previous HN "Who's Hiring?" threads, so you'd be in good company!
+                      
+                  
+      Just curious, do you work in the same place as the people who produced the Dead Space series?
+                      
+                  
+      Yup, just one building over
+                      
+                  
+      Baltimore, MDWe're global ad agency working on some cool digital projects. We could use another solid front-end developer. Drop me an email at matthew.forr -at- eurorscg.com
+                      
+                  
+      SpeakerText (San Francisco)SpeakerText is hiring Rails developers (employee #2) to work out of our new office overlooking Market Street in downtown SF (no remote work, sorry). We sell "transcription in the cloud" powered by a hybrid of AI & crowdsourced labor, with a heavy focus on video.Upcoming projects:-Scaling-Scaling-Scaling-Improving our autonomous QA systemResponsibilities:30% RoR development30% Front end coding (HTML/CSS/jQuery)30% Backend Server Management (EC2, Apache, Linux)10% Plotting world domination with the foundersCompensation includes a competitive salary, healthcare, and stock options.CTOâ€™s note: If you want lots of structure and a product manager telling you exactly what to do & how to do it, this is not the job for you. If youâ€™re a technical badass and know you want to start your own company one day, this job is perfect.More info: http://speakertext.com/jobs/rails_hacker
+                      
+                  
+      Pittsburgh, PA (no remote) http://pikimal.com/jobs
+We're looking for Semantic Web and Ruby Developers but if you're a strong developer who doesn't know Ruby yet that's no obstacle. We have extremely flexible hours, collaborative coder DNA, good tools, a strong team to work with, and great health care.Pikimal is working to change how people use the web to make decisions. Once users tell us what's important to them, we can tell them what's best for them. Since all of our recommendations are based solely on facts, users receive results separate from marketing.Please include a link to public code you've written or your Github repo when you apply. Feel free to reach out directly to my first name @pikimal.com
+                      
+                  
+      Santa Monica, CA (next to the beach) - TrueCar/Zag - not remoteProfitable company still in startup phase: doubling revenue every year and need to scale like crazy.Looking for full-time Rails, Django and Java (Spring) developers. Also looking for System Engineers (must be able to script).leaderswanted@zag.com
+                      
+                  
+      Remote from US timezone or onsite at London (UK) office.Pusher - http://pusherapp.com/We're doing awesome stuff with Websockets to provide realtime browser push as a service. People with ace Ruby skills and a keen interest in realtime messaging should drop us a line (jobs@)Panda - http://www.pandastream.com/Cloud video encoding service. Checkout http://jobs.github.com/positions/64dc8f0c-23e1-11e0-97e7-85d... for more info.Contact me if you have any questions or are interested: damien@pusherapp.com/pandastream.com
+                      
+                  
+      Anything in the Boulder or Austin area?
+                      
+                  
+      I don't know what our hiring schedule looks like, but MyEdu (Austin) will be growing its developer team at some point. I'll try to get details posted in a jobs thread when openings are definitely available. Most advertised positions have been posted on Craigslist, and I'm sure a HN listing would attract a higher quality of response on average.[Short blurb: http://myedu.com, college planning tools, PHP/JS, newbies welcome, laidback work environment.]
+                      
+                  
+      Boulder New Tech has a job board here: http://www.bdnewtech.com/messages/boards/forum/965517
+                      
+                  
+      AlchemyAPI (Denver, CO) is hiring C++ developers, front-end developers, and a community manager.We do natural language processing, artificial intelligence, and semantic web stuff.  Growing rapidly, profitable, w/ an amazing team.  Our platform uses semantic technology to analyze hundreds of millions of documents monthly for customers across multiple industry verticals.http://www.alchemyapi.com/company/jobs.htmlHighly creative work environment employing big data analysis, advanced AI research, and fun 20% time projects (Kinect-powered 3d visualization apps, mobile OCR+NLP tech, robots, etc).
+                      
+                  
+      New York City, NY - IAC Mobile (http://www.iac.com)We're hiring a few iOS and backend software engineers to work on new mobile ventures in a very startup-y environment.Email me for more info: azeem.ansar@iac.com
+                      
+                  
+      Does that startup-y environment include options?
+                      
+                  
+      Cambridge, MA (sorry, no remote)HubSpot is hiring web developers (Java/Python/PHP)We're also paying $10,000 as a referral bonus if you help us find an awesome developer.  Details at http://BostonBattle.com
+                      
+                  
+      Life360 - San Francisco, CA (Local Preferred)We are building the next generation of family safety and security apps.  We are currently focused on a suite of location-based apps, but we have a lot of cool things in the pipeline.  We are absolutely blowing up right now in terms of user adoption and we could really use your help to scale out the business.  Our only real requirement is that you are a wickedly smart hacker.There is an awesome referral bonus for all of our open jobs (Android, iOS, and PHP).See more at our jobs page:
+http://life360.jobscore.com/listOr, contact me directly:
+alex@life360.comCheers!
+                      
+                  
+      Magnetic is a NYC online ad startup using search to target display advertising anywhere on the Web.- Great mix of hard problems: low-latency serving, big data crunching, semantic analysis, elegant customer UI.- Great mix of technologies: Ruby, Rails, MongoDB, Hadoop.- Great team, including leading NYC Rubyist and technical founder with DoubleClick and Yahoo! pedigree.- Perfect time to join: small engineering team, ownership of major parts of system, second-phase startup successful so far and building for next phase of growth.- Competitive salary, excellent benefits, options. Perks include great views, pool table, after-hours beer and plenty of snacks.
+                      
+                  
+      Location: Long Island, NY
+Company: Silverline
+Remote: No
+Description: We are starting a new company using Hadoop and related technologies to improve data infrastructure at large financial institutions.  We already have a flagship client funding the development and are looking for talented developers with experience building Hadoop based systems.  This is an excellent opportunity for an entrepreneurial  developer to get in on the ground floor of this new company!!.
+If you have any quetions or are interested, drop me an email:
+levon@generalsentiment.com
+                      
+                  
+      London, UK (no remote) -- Distilledhttp://www.distilled.co.uk/blog/distilled/introduce-awesome-...Apply:
+http://www.distilled.co.uk/company/jobs/search-consultants.h...We are hiring SEOs (the good kind). If you want to help our clients deserve to rank better, come work with us.If you know someone, refer them and win a frickin' quadricopter![If you are in Seattle, WA, there's a good chance we'd like to speak to you too...].
+                      
+                  
+      I also work at Distilled (I'm also the guy behind 7bks.com in my spare time) and can vouch that we are the good kind of SEO :)I'd love to work with more HN people! Come apply if you're in London or Seattle.
+                      
+                  
+      Sawbuck.com is seeking to hire front-end (html, css, js) and back-end (c#, xml, sql) engineers. Full details here:
+http://www.sawbuck.com/about/jobsThese jobs are located in Washington DC. If you are a stud front-end designer/coder, working remotely IS a possibility.VC-backed and growing real estate website with a just-released iPhone app:http://www.sawbuck.com/iphoneIf you are interested, email me directly if you'd like... lmintzer at sawbuck dot com
+                      
+                  
+      TrueCar (Santa Monica, CA)We're looking for back-end and front-end engineers.Most open positions are for Python and Django developers looking to help us build out new features on our website, create apis and scale them.  We also have RoR positions in Santa Monica and San Francisco, as well as front-end Javascript positions.Benefits include: exciting work environment with competitive salaries, full medical, dental and vision coverage and 401K.  Relocation is available on a case-by-case basis.http://www.truecar.com/hiring.html
+                      
+                  
+      Slight expansion:  (LA/Santa Monica or SF)
+LA:  Django/JS/RoR
+SF:  RoR/JSRuby jobs are working in our Advanced Product Development group - TrueCar is turning a bit into an automotive ecosystem incubator focused on changing the process of buying cars from suck to awesome.We're profitable and have a ton of cash to invest in rounding out our disruptive play in the auto space...  We've got the speed and impact of working for a startup combined with the team and resources to invest heavily in your success.  No PHBs, just MVPs and Lean Startup GTD.So far we go from the best market pricing data (ClearBook:  what's this car really worth?) to up-front, guaranteed pricing on cars with thousands of dealers nationwide (TrueCar/Zag).  What else is a pain about buying cars today?  You name it, we're going to fix it and reward well those who help us do it.And we will definitely relocate experienced devs...  Looking out the window now to the beach a couple blocks away (in Santa Monica), it's sunny and 65 - a little cold today actually ;-), so think about that the next time you're digging your car out from under the snow...  And oh yeah, I can get to at least 4 mountains in around 4 hours if I need my powder fix...
+                      
+                  
+      http://allmyapps.com is looking for a VP of Marketing in the San Francisco Bay Area.
+Not sure a lot of marketing guys hang out there but who knows...  let's say that if someone responds here, I'll take it as a good point :)
+Allmyapps is the first independent application store for Windows. Job desc can be found here: 
+http://www.linkedin.com/jobs?viewJob=&jobId=1332191
+                      
+                  
+      Calient Networks (no remote, should be willing to relocate to Santa Barbara CA) www.calient.netHiring for several positions.1. Software Engineer: Deliver fast-track software solutions for Tier 1 Data Center Customers and Telco Equipment Partners, beginning from product definition, development, and validation through deployment.  The successful candidate should be capable of developing real-time embedded 
+  software including implementation and integration.
+
+   - 5+ years in designing and developing embedded software development using 
+  embedded operating systemS (RTOS / embedded Linux)
+
+  - Experience with SNMP would be useful
+
+  - Experience with high availability systems would be very helpful
+
+2. DSP Software Engineer  - Develop and test control of MEMS with an embedded
+      PowerPC or DSP processor.
+
+  - Work closely with hardware engineers
+
+- Familiar working with embedded Linux  - Should understand resonance frequency, Fourier transforms,
+	    and have some understanding of control theory.
+
+3. Manufacturing Software Engineer  - Apply machine learning to manufacturing automation of complex system.
+
+    Presently manufacturing data interpretation requires a highly intelligent person.
+	The software needs to perform diagnostics to allow an average person
+	to manage the manufacturing process.
+
+  - Must have a passion for manufacturing in volume
+                      
+                  
+      Earth Aid - http://www.earthaidjobs.com
+Openings in San Francisco, Washington D.C., Providence & CambridgeLooking for rails developers to change the world!Knowledge & Experience    * You have a love of computers, software engineering, architecture design, and application development.
+    * You consider solving computer science and engineering problems your craft, and are always seeking to hone your skills.
+    * You are mathematical in your approach to problems and are highly analytical.
+    * You are independent and driven. You will be given areas to manage and lead, and need to be able to do it without close supervision.
+    * You have at least 2 years of professional experience in software development.
+    * You have demonstrated success in a deadline driven environment.
+    * You have interest in energy efficiency (working experience in this area is a plus).
+    * You have strong interpersonal, communication, and facilitation skills.
+
+Technologies Used    * Languages: Ruby, JRuby, Java
+    * Database: SQL, MySQL
+    * Operations: Amazon EC2/ELB, Heroku
+    * MVC Frameworks: Rails/Django
+    * Source Control: Git/SVN
+    * Gems/Libraries: Devise, Celerity
+    * Testing: RSpec, Factory Girl, Cucumber
+
+Tools Used    * Application IDEs / Editing Tools: Textmate, Netbeans
+    * Social Network Platforms: Facebook, Twitter
+    * Cloud-Computing Management Systems: AWS Tools
+    * Source Management: Github
+                      
+                  
+      Architecting and implementing custom solutions for ECM and BPM products from EMC, IBM, Pegasystems, and others at Fortune 500 companies.Main offices are DC, NYC, and Boston with remote possibilities for the right candidate. Absolutely great place to work:http://triteksol.com/careers.htmlThe things you need to possess most are: intelligence, sociable, and a person of good character with a preference to those who are just plain nice.If you have questions, contact me at rcarlton at triteksol.com
+                      
+                  
+      Waltham, MA and Providence, RI. Some non-remote time desired.We're an early-stage healthcare startup seeking web application developers (Python/Django) and UI/UX design talent.Contact: Andrew.Shearer, at myrozi.com.
+                      
+                  
+      New York, NYThrillist - We're a leading men's lifestyle newsletter.We're looking for a jQuery developer who's also an experienced PSD-chopping, HTML-cleaning, CSS guru to write clean, lightweight code and keep our pages SEO-friendly. You'll be owning the frontend of our site, and helping us to make it lean and mean. This position reports directly to the Director of Technology.Requirements:
+ - Minimum 2+ years of experience doing front-end work for a web-based business or web-focused agency
+ - Minimum 2 years experience with Javascript/jQuery/Prototype/etc
+ - Able to hand-code efficient tableless CSS layouts
+ - Up-to-date understanding of SEO best practices
+ - Strong dedication to cross-browser and cross-platform compatibility
+ - Capable in PhotoshopNice-to-haves:
+ - Familiarity with the pitfalls of HTML email design a huge plus
+ - Git or SVN knowledge
+ - Flash skills a bonus
+ - Knowledge of Drupal theming a plusWe've got a bunch of fun applications in development. You'll work hard, and you'll learn a lot. Compensation commensurate with experience.*Candidates MUST be available to work from our offices in Soho, NYC (though we're flexible about telecommuting a few days a week). No offshore/remote (sorry). Principals only, no recruiters please.Join up: send resume and cover blurb with salary requirements to techjobs@thrillist.com with 'Interface Developer' in the subject line.Read more: http://www.thrillist.com/jobs/#interface_developer
+                      
+                  
+      imo is hiring!  Based in Palo Alto, CA, we are a small startup founded and funded by one of the first ten employees at Google. Our current team consists of top TopCoders, ACM ICPC World Finalists, and medalists of the International Olympiads in Informatics. We work on challenging projects that we choose from the ground up that have direct impact on our users. You can view all openings here: https://imo.im/jobs.html
+                      
+                  
+      AboutUs.org in Portland, OregonWe're building website analytics tools for small business owners and website operators:http://www.aboutus.org/careers
+                      
+                  
+      San Francisco, CA (SoMa)Early stage, well-funded web startup with SoMa office seeks talented developer as lead engineer. This is a core position; you will have a chance to influence every element of the company's technology, and you will receive a salary, options, and a desk in an office in SoMa.  Must be local.We're keeping our business plan under wraps, but the gist is that we're building a platform that will help local and state governments raise new money from an existing public resource. Read the paper: the time is ripe for this idea, local governments are going bankrupt all over the country. They are desperate for new solutions (see Governor Brown's State of California speech last night), and we will offer them a solution that will raise millions at the local level.If you like novel solutions to hard problems, saving the US from bankruptcy and working at a company with a massive profit potential and an incredibly well-connected advisory board and investor roster, then tell me what you can bring to the table:wallacrw<at>yahoo.com.Must have several years' experience building scalable web applications, with a preference for folks interested in auction theory. You'll have to demonstrate that you can take an idea and implement it from the ground up, and that you can work closely in a small team as a co-founder.
+                      
+                  
+      PiCloud (San Francisco, CA) is hiring engineers, marketers, and salespeople.
+http://www.picloud.com/jobs/We're developing a cloud computing platform for general computation.  Engineers work with a variety programming languages (python, c/c++, java), distributed systems, and data stores.We're a growing seed stage firm, so you'd be playing a large role in our company. Unfortunately, remote is not a possibility.
+                      
+                  
+      YuMe is hiring in product, engineering, BD and sales.Product and engineering openings are in Redwood City, CA and Chennai, India.  Remote not a possibility.Sales and BD openings in Redwood City, New York City, LA, Chicago, and Seattle.We're a profitable video advertising technology company backed by Accel Partners, BV Capital, DAG Ventures, Intel Capital, Khosla Ventures, and Menlo Ventures.http://www.yume.com/content/careers.
+                      
+                  
+      San Francisco â€” stealthy startup in SF hiring seasoned Ruby/Rails developers. Telecommuting is okay some of the time, but you must be able to come into our SoMa office regularly. We pay market salaries and give nice chunks of equity despite being well funded.What are some of the perks? Well, we're spending this week in the Dominican Republic coding on the beach. Come join us on our next work trip! Contact the address in my profile.
+                      
+                  
+      Foursquare (NYC, SF): http://foursquare.com/jobs/We have positions coding for our mobile clients (iPhone, Android, BlackBerry) and our server team. Our server code is all in Scala (booyah functional programming). Itâ€™s a superb team in fun work environment, full of exciting projects, and with an amazing dataset.Feel free to send me an email at the same username, or apply through the web page.
+                      
+                  
+      Toronto, ON - MyplanetWe're hiring for practically everything - and we really need to add some great developers to our team. We're a fun place to work and we've been on a pretty ridiculous growth clip over the last two years.Check out our blog post with the job descriptions here:http://www.myplanetdigital.com/digital_strategy/blog/myplane...
+                      
+                  
+      Nobody in VA, DC? Feds pay too much to start a company?
+                      
+                  
+      Washington DC (no remote):I'm sure they'll start posting soonish.  Here's a tweet I saw this morning to tide you over :From @farrelley:
+If you are a Python/Django Developer looking for a job and live in Metro DC I have a Job for you! good pay excellent company! Please RT!Here's a link to his personal website with contact info:http://www.farrelley.com/You could also use the "Proudly Made in DC" website to find any startups who are hiring, but haven't posted here.  The DC area is on a hot streak for startups as of late:http://proudlymadeindc.com/
+                      
+                  
+      I posted Gaithersburg, MD above.  Wouldn't be a terrible commute.
+                      
+                  
+      Basis (mybasis.com) - Health/Fitness Startup in San FranciscoWe are a team of alums from places like Google, Microsoft, EA and NASA building a product to improve the health and quality of people's lives. We're looking for smart, seasoned people who want to build interesting stuff, solve large problems and save the world :-) So, ping us at jobs@mybasis.com if you're local to the Bay Area (no remotes pls).A couple of roles we're looking for:PHP (Zend) Lead (http://bit.ly/eB7dVK) -- Design, implement, and maintain major portions of the server architecture and data visualization apps. Create and maintain the various APIs used by BASISâ€™s web and mobile applications.Native App (Win/OS X) Developer (http://bit.ly/dE2N0g) -- Develop a critical component of our infrastructure -- the native application (Windows 7, Vista, XP and OS X) that talks to our USB/Bluetooth-connected device and our web back-end. Evolve the drivers, SDK and APIs that enable our team and 3rd party developers to access data from our platform.What we can offer:- awesomeness all around, on team and product- an early stage opportunity where you can exercise your creative muscles without big company politics- competitive compensation, early-stage stock and the stability of a venture-backed company- a unique gizmo (the Basis Band) that no one else has and all sorts of cool office perks that make you happyIf you care about building a product that can improve the health of millions millions and analyzing the worldâ€™s single largest repository of vital signs, we want you.Ping us at jobs@mybasis.com!
+                      
+                  
+      eRetailing (Columbus, Ohio) (Sorry, no remote)This is actually not a technical position but a marketing post.  Specifically, we need someone who will get their hands dirty in Google Adwords and Analytics on a daily basis.  See more here:http://www.techlifeohio.com/blogs/open-positionFind links to our sites here:http://eretailing.com/
+                      
+                  
+      Leonidas (Tampere, Finland) is looking for passionate programmers. No remote unless you convince us otherwise.We are serial entrepreneurs for hire. A client gives us one week and a vision, and we try to create as much magnificence as we can in that time. And then if it's feasible and the client wants us to, we take it all the way to a finished product.http://leonidasoy.fi/
+                      
+                  
+      Avid Life Media - Toronto, ONhttp://www.avidlifemedia.com/careers.htmlRuby devs, designers, customer support and accountants.For you rubyists: Interested in hearing from you regardless of whether you meet our requirements in the above Senior Ruby Developer position. We have a 'junior'(/intermediate/whatever) role open too. On-site only. jamie.wilson@avidlifemedia.com
+                      
+                  
+      Yours must be the only site on the whole wide internet where the logo in the masthead doesn't link to the homepage; you can then get rid of the then-redundant 'home' tab...
+                      
+                  
+      CollegeHumor (New York, NY - no remote) is looking for both Front-End and Back-End developers.  http://www.chmedia.com/jobsWork on challenging problems and have a good laugh while doing it. Our sites reach over 12 million users every month and we're growing.If interested, apply at the above link. Questions? Shoot me an email chris.johnson@connectedventures.com.
+                      
+                  
+      Animoto is hiring in New York, San Francisco and remote.  Animoto is a video creation platform that automatically produces stunning music videos using images, video clips, and music.We are hiring for multiple roles including software engineers, testers, product managers.http://animoto.com/blog/category/company/jobs/Email devjobs at animoto for more details.
+                      
+                  
+      Bandwidth.com / Broadband.com - Cary, NC (no remote)We're hiring for quite a few positions: http://bandwidth.com/about/join/careers.htmlEverything from web programming to tech support to billing to sales.I started with the company as a web programmer a little more than two months ago. Great so far: nice people, great work environment, fun atmosphere.
+                      
+                  
+      St Cloud, MN (An hour west of Minneapolis)
+No remote, unfortunately.eBureau  (http://www.ebureau.com, http://www.apple.com/business/profiles/ebureau/)We're looking for a (junior) programmer.  Must be comfortable on a unix-like OS (we use OS X and FreeBSD), and able to take on projects involving C, C++, Objective-C, PHP and SQL.  You'd be part of a small group of developers, and have a lot of independence.  We use git and SVN.Email me (seanbillig@ the URL above) links to code you've written in any language if available, eg. github, bitbucket, personal website, etc, and we'll have an informal chat.  Attach a resume and cover letter for HR.We're also looking for a mid-level account manager/sales support person.  Brief HR description: Account Manager - Finance is a mid-level position. It requires a B.S. in finance or accounting, strong analytical skills, and work experience in a similar role.  Send resumes to jobs at ebureau.com
+                      
+                  
+      Steam Clock Software (Vancouver, BC).We're hiring a generalist as person #3 for our iOS app development shop. We need someone who can do awesome visual design for iOS as well as pick up some programming as needed. Currently we're profitable doing 1/2 App Store products and 1/2 contracting work, moving to mostly product sales in the future.Interested in going for a beer? Email allen at steamclocksw.com.
+                      
+                  
+      New York City - must be on-site.A little bit of game design, a little bit of project management, a little bit of community management--a lot of fun. No programming required, but familiarity with web and game development is a plus. Interest in games, especially RPGs and puzzlers, is a must.Full time freelance in NYC for an established book publishing company. It's fairly entry level.gbrown at scholastic dot com
+                      
+                  
+      Location Labs (http://www.locationlabs.com/jobs.php)Emeryville, CA (super short/BART ride from SF--No remotes)Back-end devs (Python, Java, Ruby), Front-end devs (JavaScript, CSS, HTML5), Mobile devs (Android, iPhone, Blackberry, BREW), Product Managers, UX DesignersAnd more... Company is growing very rapidly in an incredibly exciting space.
+                      
+                  
+      Cyan (Petaluma, CA)http://www.cyanoptics.com/company/careersemail:  jobs@cyanoptics.comWe have openings for software developers in Petaluma, Vancouver, Dallas, and options for remote work.Youâ€™ll have the opportunity to work with Python, Django, Cassandra, RabbitMQ, Google Web Toolkit (GWT), HTML5, and WebGL on small team in a fast-paced environment.
+                      
+                  
+      Nomad Editions - New York (sorry remote not an option for this role)http://readnomad.comDeveloper for Digital Magazine StartupNomad Editions, a startup creating digital weeklies for mobile devices, is looking for an awesome web-standards focused HTML/CSS/JS developer to help build our content on top of Treesaver (treesaver.net), one of the most exciting new open source frameworks for digital news and magazine publishing.The developer will be responsible for taking wireframes and translating them into standards-compliant web pages in Treesaver.We're seeking: 
+- Expertise in standards-based web development with HTML/CSS/JS
+- Experience with source control (Git or SVN)
+- Ideal candidate would also have design skills
+- Interest in working with a very exciting company doing something no one else in the digital publishing industry is doing: making digital content look amazing everywhereIf you're interested or have questions, please e-mail Martha Rotter at mrotter@readnomad.com
+                      
+                  
+      Redwood Systems -- Fremont, CA (sorry, no remote)  http://redwoodsystems.comWe're a 50 person startup that makes an LED lighting controller and sensor system for commercial buildings.  Our system saves a lot of energy and we get a ton of sensor information that's lately been leading to some interesting analyses and visualizations..  We're putting physical systems on the web and it's pretty exciting!  There are Engineering openings in our UI, Embedded C++, Test, and Sales Applications groups http://redwoodsystems.com/about-us/careers.  We're also looking for summer interns if you're still in school (contact me directly).I'm relatively new and it's an awesome time to work here.  We have big name clients in the valley and we're constantly working with them to make a better product.
+                      
+                  
+      Developers in Montreal.Hiring developers in Montreal. Full-time job with benefits, we pay well, and you get to work on startup-y projects (ie. agile, small teams, etc.) You get lots of freedom, ownership (projects are starting from scratch, no legacy projects here) and little corporate crap.Specifically looking for:- Javascript person: you should be really good at javascript, jquery etc. You'll be writing from scratch a gmail-like browser app (simpler though), using something like Sammy js, accessing data from a json backend api. When applying, show me something you've done in this spirit.- Windows, Mac developers. You'll write a Dropbox-like app that runs on Windows and/or Mac. (It's pretty different from Dropbox but that's the closest I found.) Make sure it doesn't crash or slow down the computer. Make it Just Work. Show me something you've done when applying.You must be located in Montreal. Contact info in my account info.
+                      
+                  
+      SF Bay Area
+SkillAddiction is seeking its first CTO!SkillAddiction hosts skill gaming tournaments where players compete for cash and prizes.  We've been online since 2009 and growing strongly in the skill gaming sector.  We've awarded over $300,000 in cash and prizes to our players and hosted over 750,000 skill gaming tournaments.We're expanding our team for the first time and looking for an All-Star developer ready to make an impact on thousands of active users.  Our brand is currently being re-imagined (not the service, just the look and feel), revenues are growing, and our industry is hot!  Anyone interested, please get in touch with us directly - jobs@skilladdiction.com ORTake a look at our job post over at StartupHire  - http://www.startuphire.com/job/chief-technology-officer-1170...
+                      
+                  
+      New York City or remote.We need a flash game developer--someone who can take an idea like "parachuting onto an island" or "cracking a safe" and work with us to turn it into a clever game. Close enough to NYC to work on-site or pop in for meetings would be great, but we would also consider remote workers.gbrown at scholastic dot com
+                      
+                  
+      Ottawa, ON - Shopifyhttp://www.shopify.com/careersWe're hiring for a ton of positions including Developer Advocate and Software Engineer (Core, Data, QA, Tools, UI).We have a great work environment, love open source, and are profitable and growing really fast (fastest in Ottawa, in fact).
+                      
+                  
+      I sent you guys a resume once upon a time and all I got was a form-letter. Was pretty excited about your company.
+                      
+                  
+      IA Ventures is looking for an unpaid VC intern in NYC.  I'm not affiliated with them, but I thought it was a cool opportunity.https://spreadsheets1.google.com/viewform?formkey=dHVKUzBYYk...
+                      
+                  
+      Waltham, MA - no remoteAkaza Research, makers of OpenClinica, are hiring senior QA and sales positions: https://openclinica.com/openclinica-careersGo ahead and send me a message at thickerson at akazaresearch.com if you have questions about the company.
+                      
+                  
+      We're hiring! If you're interested in web developement and semantic anaylsis (and you live in the UK!) then take a quick look at:
+http://idioplatform.com/2011/01/rockstar-developers-wanted/P.S. we have AR.Drones :)
+                      
+                  
+      Tobi (South San Francisco, CA + Portland, OR; no remote)Tobi [http://www.tobi.com] is an online fashion boutique headquartered in the SF area.  We have a small but strong core team, and are looking to add more talented engineers who want to build the next generation online fashion shopping experience.  We view ourselves as an Internet product + technology company that happens to do fashion, and our team and strategy reflect that.  Our stack is Ruby on Rails and Postgres, but we don't require previous RoR experience (none of us had it when we started, so that wouldn't be fair, now would it?).If you are interested in solving interesting tech problems in a fun space with great visibility, then get in touch with me at anthony@tobi.com.  Thanks HN!
+                      
+                  
+      Forward Internet Group in London, UK: http://www.forward.co.ukWe're a young entrepreneurial company that bootstrapped its way from its founder bedroom to a 150-strong company with very healthy profits in 6 years without any external capital.We are behind uswitch.com, getinvisiblehand.com, omio.com, justcages.co.uk, petvillas.co.uk, forward3d.co.uk etc.
+You can take a look at who we are and what we do at http://www.forwardtechnology.co.uk.One of our guys created statefulapp.com during the recent Rails Rumble (been on the frontpage of HN), many others contribute to open source.We have been doubling our revenues every single year (up to Â£118m in 2010) and plan to continue to expand. So, we need great people!We're looking for great developers (and many other roles too) to work on a variety of exciting online projects. We use Clojure, Ruby, Hadoop, Node.js, Sinatra etc.Above all we're looking for smart, ambitious, entrepreneurial people. Full job spec is here: http://www.forward.co.uk/careers or here: http://www.forwardtechnology.co.uk/And it's fun to work here: you choose the hardware you want, you buy the books you need, the hours are flexible, no dress code, free classes (language, music and even poker), the people are reasonable and the entertainment budget is generous: for example the entire company hangs out in Las Vegas night clubs and casinos for 4 days every December and we've recently returned from Disneyland in Paris (birthday celebrations).To find out more email me at evgeny.shadchnev@forward.co.uk with your CV.p.s. sorry, all our devs are on-site, we don't hire remote devs. Also, given the recent changes to the immigration laws in the UK, it will be very challenging (maybe even impossible) for us to arrange a visa unless you're an EU national or already have a work permit.
+                      
+                  
+      Bandwidth.com/Phonebooth.com - Raleigh/Cary, NC  No remote work.Senior Web and Database ProgrammerSystem AdminWeb Developer - Phonebooth MobileQA Engineer - Phonebooth.comTechnical Support Engineer - Phonebooth.comDetails at:
+http://bandwidth.com/about/join/careers.htmlContact me with any questions.  Email in profile
+                      
+                  
+      InTheMO (Los Angeles, New York)Come work with us on solving the problem of local discovery.We're hiring for a variety of positions including web and mobile developers, biz dev, and designers.http://www.inthemo.com/homepage/careers.aspx
+                      
+                  
+      Kammeyer Development is looking for iOS, Android, and Java developers to help us work on transforming physician to physician communication.  Must be local to Austin, TX, and we will start on an hourly contract basis.  Contact kammeyer at kammeyer.org.
+                      
+                  
+      Benchmark - NYC Financial AnalyticsLooking for excellent developers of all shapes & sizes;  we work in Ruby, JS, Scala, C, Java, Matlab primarily but have a vast landscape of software projects in the works.  Drop me a line at andrew.stein@benchmarksolutions.com
+                      
+                  
+      Long shot, but anything in Central/Eastern Europe?
+                      
+                  
+      uuu, i'd love to see that one
+                      
+                  
+      Cambridge Healthcare, Cambridge, UK (remote considered)We are a healthcare start-up, creating a unique and innovative healthcare application framework and marketplace. We are working in partnership with the NHS and will pilot regionally, then deploy nationally.We're looking for a CTO and or Senior Engineer, who thinks that a Ruby/Rails 3 and Amazon RDS stack with AMQP and Distributed Memory Caching is cool, but not enough.Competitive salary and employee stock options.For more information please don't hesitate to get in contact, email and Skype in profile. The sites are http://nhs.info and http://about.nhs.info
+                      
+                  
+      Luxembourg, EuropeTrendiction -  Collecting and parsing web data (message boards, blog posts, comments).  Searching for 2 more java developers. No remote work.http://blog.trendiction.com/tag/joboffer
+                      
+                  
+      Potato (London,UK)Hiring Python, Django web developers in London, UK. Clients include Google and PayPal.http://www.potatolondon.com/people/jobs/python-web-developer...
+                      
+                  
+      Coupons, Inc. (Mountain View)I'm looking for brilliant and innovative "Front End Engineer" and "Senior Software Engineer".Create world-class software tools and help build the platform for our cutting-edge online consumer coupons product.Email me: esemerda_AT_couponsinc_DOT_com
+                      
+                  
+      Who is hiring in San Francisco?
+                      
+                  
+      RentMineOnline (http://www.rentmineonline.com) - we work out of the Presidio, great views, easy parking.We're could use another full-time engineer, ideally a back-end developer (RoR) who isn't afraid to dive into some javascript or html.You would be the first full-time engineering hire, working with me (http://news.ycombinator.com/user?id=klochner) as well as a few remote developers.email my HN handle @ rentmineonline.com
+                      
+                  
+      We are! (Elation EMR - http://elationemr.com ), and from the looks of your LinkedIn profile, we ought to talk!
+                      
+                  
+      Sociable Labs is, see http://news.ycombinator.com/item?id=2161716(Technically we're in San Mateo)
+                      
+                  
+      Scribd is: top 100 site, we use mostly iOS, Android and Rails - http://www.scribd.com/jobs
+                      
+                  
+      Life360 (Android, iOS, PHP).Check out http://life360.jobscore.com/Or, contact me directly at: alex@life360.com
+                      
+                  
+      Kontagent - (http://news.ycombinator.com/item?id=2162845)
+                      
+                  
+      Web developer, Walker Art Center (Minneapolis, MN; not remote)Looking for a creative and committed problem solver to help develop our new website and maintain multiple existing sites.Django/Python, Linux administration, Apache, MySQL, HTML5, jQuery, etc...jobs@walkerart.org
+                      
+                  
+      Pleasanton, CA (East Bay)Dublin, IrelandWorkday - ERP space - Hiring Infrastructure / Systems EngineersWorking on some interesting problem sets, with large groups of data and some very progressive Java technology. All Linux (CentOS) based, we're really looking for some talented people to help out on the Linux side of things. We're kinda looking for Linux or general *nix whizzes with production experience and with a broad range of skills.We're interested in a candidates with appropiate visa / working permits in either Ireland or the US and are willing to relocate the right candidate(s) (no remote)Email me - philip dot reynolds at workday dot com for more info!
+                      
+                  
+      Viddler (Bethlehem, PA, remote works too)We're looking for a Rails developer. We're growing pretty quickly, so we need some extra hands to help build out new products and services. Email jobs@viddler.com if you're interested.
+                      
+                  
+      Mocana (San Francisco, CA)Interested in embedded security? Have C / Network / RTOS skills? Mocana is hiring into a variety of positions.http://www.mocana.com/careers.html
+                      
+                  
+      Poolhouse Enterprises (Toronto) is hiring a Web Developer.  Front end, CSS, HTML, Javascript, PHP and knowledge of the Facebook APIs a plus.http://www.poolhouse.ca
+                      
+                  
+      Amsterdam - The Netherlands
+http://shuffler.fmWe are looking for a full time dev. That wants to code ruby, python, javascript. We are a small music startup.email: marcel at tone dot fm
+                      
+                  
+      Looks like we've got quite a few positions open: http://www.woti.com/jobs.cfmFeel free to ping me if you want to know if you're likely to be a good fit.
+                      
+                  
+      Where are you located?
+                      
+                  
+      DC Metro area.
+                      
+                  
+      We, TriTek Solutions (triteksol.com), are looking for lot of programmers/consultants. You can chose between DC and NYC.Contact me at sagrawal@triteksol.com. New grads are especially welcome.
+                      
+                  
+      Mixpanel (San Francisco, CA)We're looking for frontend engineers, a designer, and backend/data engineers.We're also hiring interns!http://mixpanel.com/jobs
+                      
+                  
+      I'll hopefully be moving to SF at the end of the year :)
+                      
+                  
+      Research Triangle Park, NC (or remote, anywhere) - http://www.smashingboxes.com/Work with me and a few others building and maitaining Ruby on Rails applications. We are a small firm doing mostly client work from big projects to small in a variety of fields from academic to fitness. Looking for full-time remote workers or college interns.Contact me at reed at smashingboxes dot com.
+                      
+                  
+      Chennai. India (On-site)We are Valued Epistemics Pvt Ltd.  (http://www.vepl.com), providers of http://www.GREedge.com an online academy that provides training for the GRE exam.For more details, have a look at our careers page at : http://www.vepl.com/careers-rd.html
+                      
+                  
+      Carbon Ads - Remote - Front End Web Developer
+http://jobs.37signals.com/jobs/7990
+                      
+                  
+      New York City, ThinkEcoWe're looking for engineers (software, front-end, electrical) to help work on our user-friendly energy-saving technology. Currently, all of our software is on the .Net (4.0) platform.For more details, see our jobs page: http://thinkecoinc.com/careers.aspx. You can email me directly at david % thinkecoinc ' com
+                      
+                  
+      iOS/Mac Developer (Remote Possible, but London preferred)
+Â£30k plus possible stock optionsWe're a profitable & fast growing mobile app startup. 2 hires this month already. Well known in London / mainstream press exposure / our apps are adding 500k to 1M new users each month.http://www.fiplab.com/aboutus/careers/
+                      
+                  
+      Leads360 - El Segundo, CALooking for software engineers who know: C# and SQL Server. Knowledge of other web technologies is nice, too.bpaetzke@leads360.com
+                      
+                  
+      TH4 Systems, Munich, Germany (remote work is unfortunately not possible)We develop tank farm management software and more.We are looking for a versatile individual with a strong Java background. If you have any background in automation that would be a big plus (but it is no requirement).You can drop me a line at juergen dot rose at th4-systems dot com
+                      
+                  
+      Bangalore, India (Sorry, no remote).We are a well funded ecommerce Startup. We already have an experienced team working on the technology side.We are looking for good Java and PHP programmers.Here are some interesting problems in this space:
+- Scaling
+- Data Mining/Retrieval
+- AnalyticsPlease get in touch and I will convince you to join us :)(Freshers and interns are welcome too).
+                      
+                  
+      Seattle, WAEnergySavvy - We make energy efficiency easy for homeowners. We're passionate about doing it with well-designed, accurate and easy to use software.We're hiring back-end and front-end web developers. We use Python and Django.http://www.energysavvy.com/jobs/Absolutely no robots.
+                      
+                  
+      Blue Bell, PA (greater Philadelphia)Full stack web engineerSmall team, technical leadership, enterprise clients, family-oriented workplacedgetz@wingspan.com
+                      
+                  
+      Tinychat - New York City.Looking for website lead engineer: nginx,apache,php,mysql,perl,memcache.jobs@tinychat.com
+                      
+                  
+      Nelnet Business Solutions - Lincolnshire, IL is hiring entry-level Java web developers.See http://www.nelnetbusinesssolutions.com/.
+                      
+                  
+      WOTI (Washington, DC; on site)Ours is a small team of 3 in a company of about 150, on a small but involved ground-up project that's just starting to take on beta users.  It's a web app that pulls together data from many sources and presents an easy-to-navigate graphical summary.  We use mostly Python (2.7) in a Unix environment.  On the back end, we munge a few TB of data using Python, Hadoop and Pig, and some in-house distributed Unix tools.  The processed data goes into Solr/Lucene, is served up by CherryPy and Genshi, and presented by jQuery in IE7, IE8, Firefox 3.5+ and some COTS viz software.  A lot of the job is extracting the juicy bits from various data sources -- e.g., personnel databases and news articles -- then normalizing, aggregating, and indexing it.  The challenge is that it's way too much data for a single system, so we need to parallelize the process on dozens of systems.  We also need to think about how the data is organized to keep search and retrieval fast.  And of course you want an intuitive, powerful front end for all that functionality.A bit about the work environment: we heart open source.  We have nice dual-monitor workstations running RHEL 5 with root; you're free to set up your dev environment how you like (as long as it's secure).  You can be as back-end or front-end as you like, or mix it up.  We all try to do a bit of everything. We have proper sysadmins to help, but end up doing a lot of the server and network configuration ourselves; that way we get it right, plus we kinda like it.  We take security seriously.  Mercurial for version control; Jira for project management; just starting with Scrum for process.  You get a real office with a real window, shared with one person.  The job is a government contract, but in a fairly agile R&D environment (though a startup it ain't).Eight-hour days with a half hour for lunch, whatever hours work for you as long as you're in between 10-3.  Overtime is very rare; no comp time.  There's a basic but serviceable gym and a good walking loop.  It's South of the beltway on the Maryland side, a short commute with no traffic from Alexandria, Arlington, Suitland, or Southeast D.C.  Unfortunately there is no public transportation that comes this way.  Occasional local travel.  Pay is about average for the area.  Benefits and vacation are pretty good.  There are opportunities to move to other projects within the company if you get bored with this one.  And if this particular job ain't your cuppa but you like what you hear generally, drop us a resume anyway; we have several locations in the metro area and are always looking for good people.http://woti.com/jobs.cfm (The "Scripting Genius" posting)
+                      
+                  
+      http://startupdigest.com/classifieds/http://www.quora.com/jobshttp://www.eventbrite.com/jobs/http://foursquare.com/jobshttps://www.airbnb.com/jobshttp://www.cloudera.com/company/careershttp://www.squareup.com/http://exchange.causes.com/jobshttp://www.quora.com/Union-Square-Ventureshttp://www.indeed.com/jobs?q=company:%28adaptiveblue+OR+10Ge...http://tastylabs.com/http://bu.mp/jobshttp://j.mp/vrvjbshttp://www.appmakr.com/hiringhttp://www.stumbleupon.com/jobshttp://www.path.com/jobshttp://www.inkling.com/jobs/http://www.thumbtack.com/jobshttp://www.meebo.com/jobs/openings/http://bloomreach.com/careershttp://tellapart.com/who_we_are/http://www.topprospect.com/jobs/50http://www.kiva.org/jobshttp://expensify.com/jobshttp://www.twilio.com/company/jobshttp://www.uberapp.com/jobshttp://www.campfirelabs.com/jobshttp://plancast.com/jobshttp://www.kabam.com/jobs.phphttp://twitter.com/positions.htmlhttp://gdgt.com/jobs/http://1000memories.com/jobshttp://evernote.theresumator.com/applyhttp://www.rethinkdb.com/jobshttp://mixpanel.com/jobshttp://milo.com/jobshttp://shopkick.com/jobs.htmlhttp://www.surveymonkey.com/jobs/Home_Jobs.aspxhttp://www.samasource.org/about/samacareers:Jobs@roost.comhttp://branchout.com/about/jobs#sthttp://altiused.com/careershttp://www.infoaxe.com/infoaxehiring.htmlhttp://www.qwiki.com/work-herehttp://fitbit.theresumator.com/applyhttp://typekit.com/jobshttp://www.gogobot.com/jobshttp://www.zendesk.com/careershttp://jobsco.re/a9Z7Jehttp://www.sugarinc.com/Web-Software-Engineer-8476531http://www.payvment.com/careers/http://bo.lt/jobshttp://badgeville.jobscore.com/http://www.manymoon.com/jobshttp://jobs.sequoiacap.com/http://coupons.com/http://about.vast.com/about/jobs/ui-designer/http://www.storenvy.com/jobshttp://www.playdom.com/about/jobshttp://opowerjobs.com/san-franciscohttp://www.asterdata.com/about/careers.phphttp://quizlet.com/jobs/http://www.atlassian.com/about/careers/http://formativelabs.com/jobs.html#developerhttp://www.cloudflare.com/join-our-team.htmlhttp://cotweet.com/jobshttp://awesm.jobscore.com/listHotel TonightCrowdcastengineyardyumebaycitizenbitTorrentRepliconhttp://www.tunerfish.com/about/careershttp://www.idle-games.com/careers.htmhttp://www.metaswitch.com/careers/experienced-professionals/http://mixbook.jobscore.com/http://www.dropcam.com/jobshttp://jobs.appcelerator.com/http://www.whispersys.com/jobs.htmlhttp://www.ariasystems.com/careers/http://syapse.com/jobshttp://www.ixl.com/jobshttp://nationalfield.org/jobshttp://appdynamics.com/about-us-careers.phphttp://tubemogul.com/about/jobshttp://hire.jobvite.com/CompanyJobs/Careers.aspx?k=JobListin...http://www.taulia.com/page/careershttp://www.box.net/company/careers/job_openingsjobs@wikinvest.comhttp://www.srpoints.com/jobshttp://www.ooyala.com/careershttp://www.github.com/playhaven/jobshttp://www.bizzy.com/jobshttp://www.jasperwireless.com/company/careers.htmlhttp://www.lolapps.com/career/http://www.skimlinks.com/careersVator Jobshttp://www.truecar.com/hiring.html
+                      
+                  
+      
