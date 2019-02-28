@@ -3,7 +3,7 @@
   "bin": {
     "hjt": "src/api/index.js"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "fetchHTMLs.js",
   "scripts": {
