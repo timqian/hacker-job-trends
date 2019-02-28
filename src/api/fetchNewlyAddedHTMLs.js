@@ -9,6 +9,22 @@ const pathToDatedLinks = path.join(basePath, '/HN-who-is-hiring-monthly.md')
 const pathToRawData = path.join(basePath, 'assets/api', '/raw')
 const pathToProcessedData = path.join(basePath, 'assets/api', '/processed')
 
+async function getStoryDataById(storyId) {
+
+  let res;
+  if (fs.existsSync(path.join(pathToRawData, `/${storyId}.json`))) {
+    console.log('using cached story');
+    res = fs.readFileSync(path.join(pathToRawData, `/${storyId}.json`))
+    res = JSON.parse(res)
+  } else {
+    res = await axios.get(`${apiBase}/${storyId}.json`)
+    res = res.data
+    fs.writeFileSync(path.join(pathToRawData, `/${storyId}.json`), JSON.stringify(res))
+  }
+
+  return res;
+}
+
 async function fetchNewlyAddedHTMLs () {
   const datedLinks = fs.readFileSync(pathToDatedLinks, 'utf-8')
 
@@ -25,18 +41,9 @@ async function fetchNewlyAddedHTMLs () {
       const storyId = linkObj.link.substring('https://news.ycombinator.com/item?id='.length)
       console.log('Fetching jobs of:', linkObj.month)
 
-      let res;
-      if (fs.existsSync(path.join(pathToRawData, `/${storyId}.json`))) {
-        console.log('using cached story');
-        res = fs.readFileSync(path.join(pathToRawData, `/${storyId}.json`))
-        res = JSON.parse(res)
-      } else {
-        res = await axios.get(`${apiBase}/${storyId}.json`)
-        res = res.data
-        fs.writeFileSync(path.join(pathToRawData, `/${storyId}.json`), JSON.stringify(res))
-      }
+      const story = await getStoryDataById(storyId)
 
-      const storyFolder = path.join(pathToRawData, `/${storyId}/`)
+      const storyFolder = path.join(pathToRawData, `/${story.id}/`)
       if (!fs.existsSync(storyFolder)) {
         fs.mkdirSync(storyFolder)
       }
@@ -45,18 +52,20 @@ async function fetchNewlyAddedHTMLs () {
       const kidIds = fetchedKids.map(fileName => fileName.split('.json')[0])
 
       let promises = []
-      res.kids.forEach((value, idx) => {
-        if (!kidIds.includes(`${value}`)) {
-          promises.push(
-            axios.get(`${apiBase}/${value}.json`).then((response) => {
-              fs.writeFileSync(path.join(pathToRawData, `/${storyId}/${value}.json`), JSON.stringify(response.data))
-              return response.data
-            })
-          )
+      story.kids.forEach((kid) => {
+        let promise;
+
+        if (!kidIds.includes(`${kid}`)) {
+          promise = axios.get(`${apiBase}/${kid}.json`).then((response) => {
+            fs.writeFileSync(path.join(pathToRawData, `/${storyId}/${kid}.json`), JSON.stringify(response.data))
+            return response.data
+          })
         } else {
-          const d = fs.readFileSync(path.join(pathToRawData, `/${storyId}/${value}.json`))
-          promises.push(Promise.resolve(JSON.parse(d)))
+          const data = fs.readFileSync(path.join(pathToRawData, `/${storyId}/${kid}.json`))
+          promise = Promise.resolve(JSON.parse(data))
         }
+
+        promises.push( promise )
       })
 
       let output = { comments: [] }
