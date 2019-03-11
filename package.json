@@ -8,6 +8,7 @@
   "main": "fetchHTMLs.js",
   "scripts": {
     "updateContents": "node src/api/fetchNewlyAddedHTMLs.js",
+    "updateHtmlCharts": "node src/create-charts.js > docs/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -29,6 +30,7 @@
     "jsdom": "^11.11.0"
   },
   "devDependencies": {
+    "ejs": "^2.6.1",
     "eslint": "^5.14.1",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.16.0",

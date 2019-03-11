@@ -1,0 +1,12 @@
+{
+  label: '<%= query.label %>',
+  backgroundColor: '<%- query.color %>',
+  borderColor: '<%- query.color %>',
+  fill: false,
+  hidden: <%- query.hidden %>,
+  data: [
+    <% query.rows.forEach(function(row) { %>
+      <%- include('row', { row: row }) -%>
+    <% }); %>
+  ]
+}
