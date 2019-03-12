@@ -1,0 +1,8 @@
+<% queries.forEach(function(query) { %>
+#### <%- query.label %> trends:
+```bash
+$ hjt <%= query.query.join(' ') %>
+
+<%- query.asciiChart %>
+```
+<% }); %>

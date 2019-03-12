@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Hacker Job Trends</title>
+  </head>
+
+  <body>
+    <div
+      class="chart-container"
+      style="position: relative; height:40vh; width:80vw"
+    >
+      <canvas id="chart"></canvas>
+    </div>
+
+    <div id="datasets" style="margin-top: 200px">
+
+    </div>
+  </body>
+
+  <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/moment.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+
+  <script type="text/javascript">
+
+    var ctx = document.getElementById("chart").getContext("2d");
+
+    var chart = new Chart(ctx, {
+      title: 'Hacker Job Trends',
+      responsive: true,
+      // The type of chart we want to create
+      type: "line",
+
+      // The data for our dataset
+      data: {
+        datasets: [
+          <% queries.forEach(function(query) { %>
+            <%- include('line', { query: query }) %>,
+          <% }); %>
+        ]
+      },
+
+      // Configuration options go here
+      options: {
+        title: {
+          display: true,
+          text: 'Hacker Job Trends'
+        },
+        legend: {
+          position: "right"
+        },
+        scales: {
+          xAxes: [
+            {
+              type: "time",
+              time: {
+                min: new Date(2010, 12, 1),
+                max: new Date(),
+                unit: "month"
+              },
+              ticks: {
+                // Include a dollar sign in the ticks
+                callback: function(value, index, values) {
+                  return index % 12 === 0 ? value : "";
+                }
+              },
+              scaleLabel: {
+                display: true,
+                labelString: 'Month'
+              }
+            }
+          ],
+          yAxes: [
+            {
+              ticks: {
+                min: 0,
+                max: 100
+              },
+              scaleLabel: {
+                display: true,
+                labelString: '% of Posts containg keywords'
+              }
+            }
+          ]
+        }
+      }
+    });
+  </script>
+</html>
