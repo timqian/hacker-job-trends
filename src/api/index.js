@@ -75,7 +75,7 @@ for (let i = 1; i < matcherArrWithCounts.length; i++) {
 }
 
 if (program.relative) {
-  for (let i = 1; i < contentArr.length; i++) {
+  for (let i = 0; i < contentArr.length; i++) {
     let jObj = JSON.parse(contentArr[i]).comments
     reslutCountArr[i] = (reslutCountArr[i] / jObj.length) * 100
   }
