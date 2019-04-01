@@ -62,3 +62,6 @@ typings/
 
 # ignore raw data from api to reduce number of files in git repo
 assets/api/raw/**/*
+
+# ignore system specific files
+.DS_Store
