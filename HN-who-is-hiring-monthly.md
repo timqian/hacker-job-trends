@@ -97,3 +97,9 @@
 - 2019-01: https://news.ycombinator.com/item?id=18807017
 - 2019-02: https://news.ycombinator.com/item?id=19055166
 - 2019-03: https://news.ycombinator.com/item?id=19281834
+- 2019-04: https://news.ycombinator.com/item?id=19543940
+- 2019-05: https://news.ycombinator.com/item?id=19797594
+- 2019-06: https://news.ycombinator.com/item?id=20083795
+- 2019-07: https://news.ycombinator.com/item?id=20325925
+- 2019-08: https://news.ycombinator.com/item?id=20584311
+- 2019-09: https://news.ycombinator.com/item?id=20867123
