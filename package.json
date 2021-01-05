@@ -24,7 +24,7 @@
   "homepage": "https://github.com/timqian/hacker-job-trends#readme",
   "dependencies": {
     "asciichart": "^1.5.7",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "commander": "^2.16.0",
     "escape-string-regexp": "^1.0.5",
     "jsdom": "^11.11.0"
