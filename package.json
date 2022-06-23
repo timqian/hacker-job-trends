@@ -27,7 +27,7 @@
     "axios": "^0.18.0",
     "commander": "^2.16.0",
     "escape-string-regexp": "^1.0.5",
-    "jsdom": "^11.11.0"
+    "jsdom": "^16.5.0"
   },
   "devDependencies": {
     "ejs": "^2.6.1",
